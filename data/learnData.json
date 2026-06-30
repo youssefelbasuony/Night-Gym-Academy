@@ -1,0 +1,1506 @@
+{
+  "topics": [
+    {
+      "id": "triceps",
+      "title": {
+        "ar": "العضلة ذات الثلاثة رؤوس العضدية (الترايسبس)",
+        "en": "Triceps Brachii"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subtitle": {
+        "ar": "Triceps Brachii",
+        "en": "Triceps Brachii"
+      },
+      "subcategory": {
+        "ar": "الأذرع والسواعد",
+        "en": "Arms & Forearms"
+      },
+      "numHeads": 3,
+      "defaultImageUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&q=80&w=400",
+      "content": {
+        "ar": "• عدد الرؤوس: 3\n  1. الرأس الطويل (الخلفي وعالي الذراع)\n  2. الرأس الجانبي (الخارجي العريض)\n  3. الرأس الأوسط (العميق والداخلي)\n• كيفية الاستهداف:\n  - الطويل: تمارين فوق الرأس (Overhead Extensions) لوضع الساعد ممدداً مسبقاً.\n  - الجانبي: دفع الحبل أو البار للأسفل (Pushdown).\n  - الأوسط: تمارين القبضة المقلوبة أو القبضة الضيقة بالبنش.",
+        "en": "• Number of Heads: 3\n  1. Long Head (Upper inner back)\n  2. Lateral Head (Outer part)\n  3. Medial Head (Deeper inner part)\n• Targeting:\n  - Long: Overhead extensions under full stretch.\n  - Lateral: Cable or bar pushdowns.\n  - Medial: Underhand grip and close grip extensions."
+      },
+      "mechanics": {
+        "ar": "تتحرك العضلة بحركة الاندغام (I) مقتربة من المنشأ (O) لتوليد جهد باسط أو قابض ميكانيكي سليم. في الترايسبس، عندما تنقبض رؤوس العضلة، فإنها تسحب النتوء المرفقي لعظمة الزند باتجاه عظمة العضد ولوح الكتف، مما يؤدي إلى فرد (بسط) مفصل الكوع بالكامل.",
+        "en": "The muscle contract so that the Insertion (I) moves closer to the Origin (O) to generate clean mechanical force. In the triceps, contraction pulls the olecranon process of the ulna toward the humerus and scapula, creating extension at the elbow joint."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "الرأس الطويل",
+            "en": "Long Head"
+          },
+          "description": {
+            "ar": "الرأس الأكبر حجماً ويمر عبر مفصل الكتف، وهو المسؤول كلياً عن الامتلاء والمظهر الخارجي للترايسبس من الخلف.",
+            "en": "The largest head of the triceps that crosses the shoulder joint, responsible for the absolute bulk of the back of the arm."
+          },
+          "targeting": {
+            "ar": "يستهدف بالتمارين فوق الرأس (Overhead Extensions) حيث توضع العضلة في وضعية إطالة مسبقة.",
+            "en": "Targeted with overhead movements (Overhead Extensions) where the muscle is placed in a pre-stretched state."
+          }
+        },
+        {
+          "name": {
+            "ar": "الرأس الجانبي",
+            "en": "Lateral Head"
+          },
+          "description": {
+            "ar": "يقع على الجزء الخارجي من الذراع، وهو الرأس الذي يعطي مظهر \"حدوة الحصان\" الشهير للترايسبس.",
+            "en": "Located on the outer side of the arm, giving the famous 'horseshoe' aesthetics of the arm."
+          },
+          "targeting": {
+            "ar": "يستهدف بالدفع للأسفل (Pushdowns) بالبار المستقيم أو الحبل واليدين بجانب الجذع.",
+            "en": "Targeted with downward pushes (Pushdowns) using a straight bar or rope with arms close to the torso."
+          }
+        },
+        {
+          "name": {
+            "ar": "الرأس الأوسط (الإنسي)",
+            "en": "Medial Head"
+          },
+          "description": {
+            "ar": "رأس عميق يقع أسفل الرأسين الآخرين، وهو المسؤول الأكبر عن حماية كوع اليد وإنتاج القوة المباشرة.",
+            "en": "A deep head situated below the other two, highly active in stabilizing the elbow joint and providing power."
+          },
+          "targeting": {
+            "ar": "يستهدف عند الاستلقاء العكسي والقبضة المعكوسة (Reverse Grip Pushdowns) ومد الكوع الدقيق.",
+            "en": "Targeted with reverse grip pushdowns and terminal elbow extension (Reverse Grip Pushdowns)."
+          }
+        }
+      ],
+      "origin": {
+        "ar": "الرأس الطويل (Long Head): الحديبة تحت الحقية للوح الكتف (Infraglenoid tubercle of scapula).\nالرأس الجانبي (Lateral Head): الجزء الخلفي والعلوي لعظمة العضد.\nالرأس الإنسي/الأوسط (Medial Head): الجزء الخلفي والسفلي لعظمة العضد (تحت الأخدود الحلزوني).",
+        "en": "Long Head: Infraglenoid tubercle of scapula.\nLateral Head: Posterior and upper surface of humerus.\nMedial Head: Posterior and lower surface of humerus (below radial groove)."
+      },
+      "insertion": {
+        "ar": "النتوء المرفقي لعظمة الزند (Olecranon process of ulna) في الساعد.",
+        "en": "Olecranon process of the ulna in the forearm."
+      },
+      "bonesAndStructure": {
+        "ar": "عظمة لوح الكتف (Scapula) منبع الرأس الطويل، عظمة العضد (Humerus) منبع الرأسين الجانبي والأوسط، وعظمة الزند (Ulna) مكان الاندغام بمؤخرة الذراع، وعظمة الكعبرة (Radius).",
+        "en": "The Scapula bone (origin of long head), the Humerus (origin of lateral/medial heads), and the Ulna bone at the back of the arm where insertion joins, and the Radius."
+      },
+      "ligamentsAndTendons": {
+        "ar": "وتر الترايسبس المشترك (Common triceps tendon) عريض وقوي، يرتبط بعظام المرفق ويكون عرضة للالتهاب في التمارين الثقيلة مثل الكسر الفرنسي إن لم يكن الإحماء كافياً.",
+        "en": "The common triceps tendon is broad and highly powerful, inserting onto the olecranon of the ulna. It is prone to tendonitis during heavy French presses if warm-up is omitted."
+      },
+      "jointsAndMotion": {
+        "ar": "١. مفصل الكوع (Elbow Joint): المفصل الرئيسي المستهدف بالبسط المفصلي التام.\n٢. مفصل الكتف (Glenohumeral Joint): يثبت فيه الرأس الطويل لتوجيه استقرار مفصلي خلفي.",
+        "en": "1. Elbow Joint: The primary joint targeted for standard elbow extension.\n2. Shoulder Joint (Glenohumeral): Stabilized by the long head to control retroversion."
+      }
+    },
+    {
+      "id": "biceps",
+      "title": {
+        "ar": "العضلة ذات الرأسين العضدية (البايسبس)",
+        "en": "Biceps Brachii"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subtitle": {
+        "ar": "Biceps Brachii",
+        "en": "Biceps Brachii"
+      },
+      "subcategory": {
+        "ar": "الأذرع والسواعد",
+        "en": "Arms & Forearms"
+      },
+      "numHeads": 2,
+      "defaultImageUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&q=80&w=400",
+      "content": {
+        "ar": "• عدد الرؤوس: 2\n  1. الرأس الطويل (الخارجي الذي يمنح القمة)\n  2. الرأس القصير (الداخلي الذي يمنح العرض)\n• كيفية الاستهداف:\n  - الطويل: تمارين الكوع خلف الجسد (Incline Curl) وتمرين المطرقة.\n  - القصير: تمرين ديركول (Preacher Curl) أو تمرين العنكبوت (Spider Curl).",
+        "en": "• Number of Heads: 2\n  1. Long Head (Outer aspect - builds the peak)\n  2. Short Head (Inner aspect - builds thickness)\n• Targeting:\n  - Long: Elbows behind pelvis (Incline Dumbbell Curls) and Hammer Curls.\n  - Short: Elbows in front of torso (Preacher Curls) and Spider Curls."
+      },
+      "mechanics": {
+        "ar": "تنقبض عضلات البايسبس لتقريب الساعد (الكعبرة) من الأكتاف (لوح الكتف). تعمل بشكل أساسي على ثني كوع اليد، وبما أنها تلتف حول عظمة الكعبرة، فهي العضلة الرئيسية للف الساعد للخارج (Supination).",
+        "en": "The biceps contract to pull the forearm (radius) toward the shoulder (scapula). Its primary function is elbow flexion, and due to its attachment to the radius, it is the primary supinator of the forearm."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "الرأس الطويل (الخارجي)",
+            "en": "Long Head (Outer)"
+          },
+          "description": {
+            "ar": "يمر الجزء العلوي منه عبر تجويف الكتف ويمنح البايسبس \"القمة\" الارتفاعية عند الانقباض واستعراض العضلات.",
+            "en": "Passes through the shoulder joint capsule, producing the peak height of the bicep when flexed."
+          },
+          "targeting": {
+            "ar": "يستهدف بالتمارين التي يكون الذراع فيها خلف الجسم (Incline Dumbbell Curl) مما يمدد الرأس الطويل مسبقاً، وتمرين هامر.",
+            "en": "Targeted with arms behind the torso, like incline dumbbell curls, or hammer curls."
+          }
+        },
+        {
+          "name": {
+            "ar": "الرأس القصير (الداخلي)",
+            "en": "Short Head (Inner)"
+          },
+          "description": {
+            "ar": "يقع في الجزء الداخلي العريض من العضد ويوفر العرض الهرمي والكتلة الداخلية الكلية للذراع.",
+            "en": "Located on the inner side, responsible for the overall thickness and width of the arm."
+          },
+          "targeting": {
+            "ar": "يستهدف بتمارين الكوع فيها أمام الجسم (Preacher Curls) وتمرين كونسنتريشن.",
+            "en": "Targeted using preacher curls or spider curls with arms positioned in front of the torso."
+          }
+        }
+      ],
+      "origin": {
+        "ar": "الرأس الطويل (Long Head): الحديبة وفوق الحقية للوح الكتف (Supraglenoid tubercle of scapula).\nالرأس القصير (Short Head): النتوء الغرابي للوح الكتف (Coracoid process of scapula).",
+        "en": "Long Head: Supraglenoid tubercle of scapula.\nShort Head: Coracoid process of scapula."
+      },
+      "insertion": {
+        "ar": "حدبة عظمة الكعبرة (Radial tuberosity of radius) واللفافة العميقة من الساعد.",
+        "en": "Radial tuberosity of the radius and bicipital aponeurosis into deep fascia of forearm."
+      },
+      "bonesAndStructure": {
+        "ar": "عظمة لوح الكتف (Scapula) منشأ الرأسين، عظمة العضد (Humerus) وعظمة الكعبرة (Radius) عظمة الاندغام.",
+        "en": "The Scapula (origin point), Humerus (structural path), and Radius (insertion point)."
+      },
+      "ligamentsAndTendons": {
+        "ar": "الوتر البعيد للبايسبس (Distal biceps tendon) الذي يربطه بالكعبرة، وتر الرأس الطويل المار بالأخدود ثنائي الرؤوس بالكتف المعرض للالتهابات في الأوزان العشوائية.",
+        "en": "The distal biceps tendon connects the muscle to the radius. The long head tendon runs through the bicipital groove of the humerus, prone to friction and tendonitis."
+      },
+      "jointsAndMotion": {
+        "ar": "١. مفصل الكوع (Elbow Joint): لثني الذراع.\n٢. مفصل الكوع-الكعبري (Radioulnar Joint): للفة الخارجية (Supination).\n٣. مفصل الكتف (Glenohumeral Joint): يساهم ثنائي الرؤوس في رفع الكتف للأمام ميكانيكياً للرأس القصير.",
+        "en": "1. Elbow Joint (flexion).\n2. Radioulnar Joint (supination).\n3. Shoulder Joint (assists weak shoulder flexion)."
+      }
+    },
+    {
+      "id": "chest",
+      "title": {
+        "ar": "العضلة الصدرية الكبرى (البنش)",
+        "en": "Pectoralis Major"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subtitle": {
+        "ar": "Pectoralis Major",
+        "en": "Pectoralis Major"
+      },
+      "subcategory": {
+        "ar": "الصدر",
+        "en": "Chest"
+      },
+      "numHeads": 2,
+      "defaultImageUrl": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=400",
+      "content": {
+        "ar": "• عدد الرؤوس: 2\n  1. الرأس الترقوي (الصدر العالي)\n  2. الرأس القصي الضلعي (الصدر المستوي والسفلي)\n• كيفية الاستهداف:\n  - العالي: الضغط المائل للأعلى (Incline bench press/flies).\n  - السفلي والوسطى: الضغط المستوي والغوص بوزن الجسم.",
+        "en": "• Number of Heads: 2\n  1. Clavicular Head (Upper Chest)\n  2. Sternocostal Head (Mid and Lower Chest)\n• Targeting:\n  - Upper: Incline presses and flies.\n  - Lower/Mid: Flat press and dips."
+      },
+      "mechanics": {
+        "ar": "تعمل على تقريب الذراع أفقياً باتجاه منتصف الصدر ودورانه لداخل الجسم. تسحب عظمة العضد للأمام والداخل لتشغيل الألياف العضلية.",
+        "en": "Functions primarily to horizontally adduct, internally rotate, and adduct the humerus at the shoulder joint."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "الرأس الترقوي (العالي)",
+            "en": "Clavicular Head (Upper)"
+          },
+          "description": {
+            "ar": "يمتد من عظمة الترقوة ويسهم في المظهر العلوي الممتلئ للشبكة الصدرية وبداية الأكتاف.",
+            "en": "Extends from the clavicle and provides upper chest fullness and dense posture."
+          },
+          "targeting": {
+            "ar": "الضغط المائل للأعلى (Incline Bench Press) بزاوية ٣٠-٤٥ درجة لجذب المسار الأعلى ميكانيكياً.",
+            "en": "Incline dumbbell or barbell presses at roughly 30 to 45 degree tilt."
+          }
+        },
+        {
+          "name": {
+            "ar": "الرأس القصي الضلعي (المستوي والسفلي)",
+            "en": "Sternocostal Head (Lower/Mid)"
+          },
+          "description": {
+            "ar": "الرأس الأكبر مساحة يبدأ من القص والغضاريف الضلعية ويسيطر على الحجم الكلي والكتلة الصدرية.",
+            "en": "The largest aspect, extending from sternum and ribs, forming overall lower and middle chest mass."
+          },
+          "targeting": {
+            "ar": "تمرين الضغط المستوي (Flat Press)، الغطس (Dips)، وتجميع الكيبل للأسفل.",
+            "en": "Flat bench presses, chest dips, and high-to-low cable chest crossovers."
+          }
+        }
+      ],
+      "origin": {
+        "ar": "الرأس الترقوي: النصف الإنسي لعظمة الترقوة (Clavicle).\nالرأس القصي: عظمة القص، وغضاريف الأضلاع الستة الأولى.",
+        "en": "Clavicular Head: Medial half of clavicle.\nSternocostal Head: Anterior sternum, superior six costal cartilages."
+      },
+      "insertion": {
+        "ar": "الشفة الخارجية للأخدود ثنائي الرؤوس بعظمة العضد (Lateral lip of bicipital groove of humerus).",
+        "en": "Lateral lip of bicipital groove of the humerus."
+      },
+      "bonesAndStructure": {
+        "ar": "عظمة الترقوة (Clavicle)، عظمة القص (Sternum)، غضاريف الأضلاع وعظمة العضد (Humerus).",
+        "en": "The Clavicle, Sternum, Intercostal cartilages, and Humerus."
+      },
+      "ligamentsAndTendons": {
+        "ar": "وتر العضلة الصدرية العريض (Pectoralis tendon) الذي يندغم بالعضد، وتمدده الشديد بالضغط يزيد خطورة تمزقه الثنائي في حالة كثرة الأوزان وعشوائية تمدد الأكتاف.",
+        "en": "The heavy pectoralis major tendon inserting into the humerus, prone to partial tearing during extreme heavy loading under deep stretch."
+      },
+      "jointsAndMotion": {
+        "ar": "١. مفصل الكتف (Glenohumeral Joint): التقريب الأفقي، الدوران الداخلي وثني الذراع للصدر العالي.",
+        "en": "1. Shoulder Joint: Horizontal adduction, internal rotation, and flexion (clavicular fibers)."
+      }
+    },
+    {
+      "id": "back",
+      "title": {
+        "ar": "العضلة الظهرية العريضة (اللاتس / المجنص)",
+        "en": "Latissimus Dorsi"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subtitle": {
+        "ar": "Latissimus Dorsi",
+        "en": "Latissimus Dorsi"
+      },
+      "subcategory": {
+        "ar": "الظهر",
+        "en": "Back"
+      },
+      "numHeads": 1,
+      "defaultImageUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a25f1?auto=format&fit=crop&q=80&w=400",
+      "content": {
+        "ar": "• العضلة الظهرية العريضة هي أكبر عضلة في الجزء العلوي من الجسم لتوليد السحب.\n• وظائف العضلة: السحب من الأعلى، سحب المرفق للأسفل والخلف، وإقران الكتف.\n• كيفية الاستهداف:\n  - السحب العالي والـ Pull-ups لعرض الظهر.\n  - التجديف وضغط اللاتس للسمك والعمق العضلي للشخصية المصقولة.",
+        "en": "• The latissimus dorsi is the largest muscle in the upper body for pulling power.\n• Functions: Shoulder extension, adduction, and internal rotation.\n• Targeting:\n  - Lat Pulldowns and Pull-ups for overall back width.\n  - Seated rows and T-bar rows for density and lower lats."
+      },
+      "mechanics": {
+        "ar": "تسحب العضلة عظمة العضد إلى الأسفل وإلى الخلف باتجاه العمود الفقري والحوض، مما يجعلها المحرك الأساسي لعمليات التسلق والسحب الأفقي والعمودي.",
+        "en": "Pulls the humerus downward, backward, and inward toward the spine and pelvis, acting as the primary driver for all pulling actions."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "ألياف الاتساع العلوية",
+            "en": "Upper Width Fibers"
+          },
+          "description": {
+            "ar": "تتميز بمسار مائل يسحب بزاوية حادة ويتحكم في المظهر الجانبي الخارجي على شكل حرف V.",
+            "en": "Features a sharp oblique angle that dictates the wide standard V-taper look of the back."
+          },
+          "targeting": {
+            "ar": "السحب العالي من الأعلى (Lat Pulldown) بقبضة واسعة والتركيز على نزول لوح الأكتاف.",
+            "en": "Wide grip lat pulldowns and standard overhead pullups with strict form."
+          }
+        },
+        {
+          "name": {
+            "ar": "ألياف السمك السفلية",
+            "en": "Lower Thickness Fibers"
+          },
+          "description": {
+            "ar": "تبدأ قريبة من منطقتي القطنية والفقرات العريضة وتوفر سماكة العمود الفقري ودعمه السفلي الصارم.",
+            "en": "Starts close to the lumbar fascia, establishing the dense low thickness of the back."
+          },
+          "targeting": {
+            "ar": "التجديف (Seated Row) بقبضة ضيقة مع توجيه الكوع مباشرة نحو الورك لتجنب سحب الذراع ثنائي الرؤوس.",
+            "en": "Close-grip rows throwing the elbows straight down to the hips to bypass bicep dominance."
+          }
+        }
+      ],
+      "origin": {
+        "ar": "الفقرات الصدرية السفلية الستة (T7-T12)، اللفافة القطنية، الشوكة الحرقفية للحوض والضلوع السفلية.",
+        "en": "Spinous processes of T7-L5, thoracolumbar fascia, iliac crest and lower 3-4 ribs."
+      },
+      "insertion": {
+        "ar": "قاع الأخدود ثنائي الرؤوس لعظمة العضد (Floor of intertubercular groove of humerus) وهي نقطة تلاقي مثيرة أمامية بالذراع.",
+        "en": "Floor of intertubercular groove of the humerus, linking to the front of the arm."
+      },
+      "bonesAndStructure": {
+        "ar": "العمود الفقري، عظام الحوض والقفص الصدري، وعظمة لوح الكتف وعظمة العضد بالجهة العلوية.",
+        "en": "The ribs, pelvis, thoracic and lumbar spine, and humerus bone."
+      },
+      "ligamentsAndTendons": {
+        "ar": "اللفافة الظهرية القطنية (Thoracolumbar fascia) وهي غشاء عريض وقوي يدعم أسفل الظهر والعمود ويمنع تمزقات العظام في الأحمال العالية.",
+        "en": "The expansive thoracolumbar fascia which provides robust passive structural support to the spine."
+      },
+      "jointsAndMotion": {
+        "ar": "١. مفصل الكتف (Glenohumeral Joint): الدوران والمط والتقريب الداخلي العضدي اللوحي.",
+        "en": "1. Shoulder Joint (Glenohumeral): Extension, adduction, and internal rotation."
+      }
+    },
+    {
+      "id": "deltoids",
+      "title": {
+        "ar": "العضلة الدالية (الأكتاف الرؤوس الثلاثة)",
+        "en": "Deltoids"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subtitle": {
+        "ar": "Deltoids",
+        "en": "Deltoids"
+      },
+      "subcategory": {
+        "ar": "الأكتاف",
+        "en": "Shoulders"
+      },
+      "numHeads": 3,
+      "defaultImageUrl": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=400",
+      "content": {
+        "ar": "• ثلاثة رؤوس مستقلة تمنح الكتف شكله ثلاثي الأبعاد وعرض الجزء العلوي الرهيب.\n• الألياف: الرأس الأمامي والجانبي (المسؤول عن العرض الممتلئ) والخلفي.\n• كيفية الاستهداف:\n  - الجانبي: الرفرفة الجانبية بالدمبل والكيبل.\n  - الخلفي: الرفرفة الخلفية وجر الكيبل المائل من المنتصف للجانب.",
+        "en": "• Three distinct heads giving the shoulders a thick 3D roundness and upper frame width.\n• Sections: Anterior (front), Lateral (side - yields width), and Posterior (rear).\n• Targeting:\n  - Lateral: Cable and dumbbell lateral raises.\n  - Posterior: Rear delt flies and cable face pulls."
+      },
+      "mechanics": {
+        "ar": "تتحرك الألياف حسب اتجاه الرأس. الرأس الأمامي يرفع الذراع للأمام، الرأس الجانبي يبعده للجانب الخارجي، بينما يسحب الخلفي الذراع للخلف لتوازن الكتف والذراع.",
+        "en": "The movement depends on the active fiber line. Anterior flexes the arm, Lateral abducts it sideways, and Posterior horizontally extends the shoulder."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "الرأس الأمامي (Front)",
+            "en": "Anterior Head (Front)"
+          },
+          "description": {
+            "ar": "يقع في مقدمة الكتف ويشارك بقوة في حركات الدفع والتمارين التي تتم أمام الجسم.",
+            "en": "Located on the front of the shoulder, highly active in pressing actions."
+          },
+          "targeting": {
+            "ar": "الضغط فوق الرأس بالدمبل (Overhead Press) أو الرفع الأمامي بالدمبل أو البار المستقيم.",
+            "en": "Dumbbell, barbell overhead shoulder presses or front raises."
+          }
+        },
+        {
+          "name": {
+            "ar": "الرأس الجانبي (Side)",
+            "en": "Lateral Head (Side)"
+          },
+          "description": {
+            "ar": "يتحكم في عرض لوح الأكتاف والزاوية العلوية لمنح الجسم شكل حرف V البصري المبهر.",
+            "en": "Responsible for lateral width, crucial to build muscular scale and structural aesthetics."
+          },
+          "targeting": {
+            "ar": "الرفرفة الجانبية (Lateral Raises) بالدمبل أو الكيبل لتأثير عالي ومقاومة مستمرة.",
+            "en": "Dumbbell lateral raises and cable lateral raises keeping elbows slightly bent."
+          }
+        },
+        {
+          "name": {
+            "ar": "الرأس الخلفي (Rear)",
+            "en": "Posterior Head (Rear)"
+          },
+          "description": {
+            "ar": "رأس يغفل عنه الكثيرون، مع أنه الأكثر حماية للكفة المدورة وتأمين استقرار الكتف من التشوه الأمامي.",
+            "en": "Often neglected, yet is the most critical for rotator cuff health and symmetrical shoulder posture."
+          },
+          "targeting": {
+            "ar": "تمرين الفيس بول (Face Pulls)، الرفرفة الخلفية (Rear Delt Flies) بالدمبل أو الكيبل واليدين ممدودة.",
+            "en": "Cable face pulls, rear delt flies, or reverse peck-deck machine."
+          }
+        }
+      ],
+      "origin": {
+        "ar": "الأمامي: الثلث الخرجي للترقوة (Clavicle).\nالجانبي: نتوء خرم الأكتاف للوح الكتف (Acromion).\nالخلفي: شوكة لوح الكتف (Spine of scapula).",
+        "en": "Anterior: Lateral third of clavicle.\nLateral: Acromion process of scapula.\nPosterior: Spine of scapula."
+      },
+      "insertion": {
+        "ar": "أحدوبة عظمة العضد المخصصة للدالية (Deltoid tuberosity of humerus) عند منتصف المسافة.",
+        "en": "Deltoid tuberosity of the lateral surface of the humerus bone."
+      },
+      "bonesAndStructure": {
+        "ar": "عظمة الترقوة (Clavicle)، وعظمة لوح الكتف (Scapula) بأطرافها المفصلية، وعظمة العضد (Humerus).",
+        "en": "The Clavicle bone, Scapula, and the Humerus."
+      },
+      "ligamentsAndTendons": {
+        "ar": "تتحكم أوتار الدالية بالثبات الهيكلي للذراع وتأمين الكفة المدورة ضد الاختلالات العظمية.",
+        "en": "Rotator cuff stabilizers and the complex deltoid tendon securing the glenohumeral socket."
+      },
+      "jointsAndMotion": {
+        "ar": "١. مفصل الكتف (Glenohumeral Joint): يمثل مروحة دائرية لجميع حركات ومطارات الكتف المفصلية الدوارة.",
+        "en": "1. Shoulder Joint (Glenohumeral): Support global elevation, abduction, and horizontal translation."
+      }
+    },
+    {
+      "id": "quadriceps",
+      "title": {
+        "ar": "العضلة الفخذية ذات الأربعة رؤوس (الكوادز)",
+        "en": "Quadriceps Femoris"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subtitle": {
+        "ar": "Quadriceps Femoris",
+        "en": "Quadriceps Femoris"
+      },
+      "subcategory": {
+        "ar": "الأفخاذ وعضلات الأرجل",
+        "en": "Thighs & Legs"
+      },
+      "numHeads": 4,
+      "defaultImageUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&q=80&w=400",
+      "content": {
+        "ar": "• أضخم كتلة عضلية بالجسد تضم أربعة رؤوس مخصصة لحمل وزن الجسم وفرد الركبة بالكامل.\n• الرؤوس: العضلة المستقيمة الفخذية والعضلات المتسعة (الجانبية والوسطى والمستترة).\n• كيفية الاستهداف:\n  - كوادز بالكامل: السكوات الثقيل (Squats) واللانجز ودفع الأرجل.\n  - عزل الكوادز: فرد الأرجل على الجهاز (Leg Extension) والسكوات الأمامي.",
+        "en": "• The largest muscle mass in the body with four heads to bear body load and extend the knee.\n• Heads: Rectus Femoris, Vastus Lateralis, Vastus Medialis, and Vastus Intermedius.\n• Targeting:\n  - Overall Quads: Heavy back squats, leg presses, and lunges.\n  - Isolation: Seated leg extensions and front squats."
+      },
+      "mechanics": {
+        "ar": "تتحرك الرؤوس الأربعة بالتعاون لفرد الركبة بقوة. وتشارك عظمة المستقيمة الفخذية ثنائية المفاصل في عمليات رفع وثني الحقل الحوضي نحو الأعلى.",
+        "en": "All four heads cooperate to strongly extend the knee. The biarticular rectus femoris also assists in flexing the hip."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "العضلة المستقيمة الفخذية",
+            "en": "Rectus Femoris"
+          },
+          "description": {
+            "ar": "تقع في منتصف الفخذ وهي الرأس الوحيد الذي يعبر الحوض، مما يجعله ذو وظيفة مزدوجة للحوض والركبة.",
+            "en": "Located in the middle, and is the only head crossing the hip capsule."
+          },
+          "targeting": {
+            "ar": "تمرين فرد الفخذين على الجهاز (Leg Extension) وثني الحوض ميكانيكياً.",
+            "en": "Seated leg extensions and high-knee lifting actions."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة المتسعة الوحشية (الخارجية)",
+            "en": "Vastus Lateralis (Outer)"
+          },
+          "description": {
+            "ar": "تقع على طول الجزء الخارجي من الفخذ وهي العضلة الأهم المانحة للمظهر العريض للفخذ.",
+            "en": "Located on the outer thigh, constructing the width and sweep of the quadriceps."
+          },
+          "targeting": {
+            "ar": "السكوات الضيق ووضع القدمين متقاربتين بجهاز دفع الأرجل لتركيز الضغط خارجاً.",
+            "en": "Narrow stance squats and close feet placement leg presses."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة المتسعة الإنسية (الدمعة)",
+            "en": "Vastus Medialis (Teardrop)"
+          },
+          "description": {
+            "ar": "تتخذ شكل \"قطرة دمعة\" بجانب صابونة الركبة وهي المسؤولة العظمى للحماية وموازنة الرقصة الرضفية.",
+            "en": "Teardrop shaped muscle sitting beside the patella, major stabilizer of the knee."
+          },
+          "targeting": {
+            "ar": "السكوات العميق (Deep Squats) وتمرين لانجز ممتد ورفع القدمين بمستويات واسعة.",
+            "en": "Deep full squats, lunges and wide plate-stance leg presses."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة المتسعة الوسطى (العميقة)",
+            "en": "Vastus Intermedius"
+          },
+          "description": {
+            "ar": "تتموضع بأدق نقطة أسفل المستقيمة الفخذية وتوفر القاعدة الانفجارية لطاقة الفرد الركبي الكلي.",
+            "en": "Densely located underneath the rectus femoris, supplying raw knee extension support."
+          },
+          "targeting": {
+            "ar": "السكوات ومختلف التمارين المركبة تحت مدى تكراري مكثف لرفع استنزاف الألياف العميقة.",
+            "en": "Compound closed-kinetic chain exercises (Leg press, hack squat) under continuous tension."
+          }
+        }
+      ],
+      "origin": {
+        "ar": "المستقيمة الفخذية: شوكة الحوض الأمامية السفلية.\nالمتسعة الوحشية والوسطى والإنسية: عظمة الفخذ والخط العريض بها.",
+        "en": "Rectus Femoris: Anterior inferior iliac spine of the pelvis.\nOther 3 Vastus Heads: Femoral shaft and linea aspera of the femur."
+      },
+      "insertion": {
+        "ar": "تندغم الرؤوس الأربعة بالوتر الرضفي المشترك في عظمة صابونة الركبة (Patella) ومنها لقصبة الساق.",
+        "en": "Base of the patella and via the patellar ligament into the tibial tuberosity."
+      },
+      "bonesAndStructure": {
+        "ar": "عظمة الحوض (Pelvis)، عظمة الفخذ الأكثر صلابة (Femur)، عسل الصابونة (Patella)، وقصبة الساق (Tibia).",
+        "en": "The Pelvis bone, Femur (thigh bone), Patella (kneecap) and Tibia."
+      },
+      "ligamentsAndTendons": {
+        "ar": "وتر الكوادز المشترك (Quadriceps tendon) والرباط الرضفي (Patellar ligament) الضام، وعلاقات الركبة الرباطية كالأربطة الصليبية المعرضة للضغط.",
+        "en": "The thick quadriceps tendon, patellar ligament, and structural stabilization systems protecting the ACL and PCL."
+      },
+      "jointsAndMotion": {
+        "ar": "١. مفصل الركبة (Knee Joint): يمثل فرد مفصل الركبة (Knee Extension) الميكانيك الأول لتروس عيش العضلات.\n٢. مفصل الحوض (Hip Joint): لثني الورك وعمليات التقارب الحوضية للمستقيمة.",
+        "en": "1. Knee Joint: Knee extension is the central primary movement.\n2. Hip Joint: Hip flexion assisted by the rectus femoris."
+      }
+    },
+    {
+      "id": "nut_macros",
+      "title": {
+        "ar": "العناصر الغذائية الكبرى والمكوك العضلي (Macros & Calories)",
+        "en": "Macronutrients & Daily Caloric Strategy"
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "content": {
+        "ar": "تعتمد التغذية الرياضية على توازن دقيق للطاقة ومصادر السعرات:\n١. السعرات الحرارية (Energy Intake):\n  - فائض الطاقة (Bulking): تناول وجبات بسعرات تزيد بـ ٣٠٠-٥٠٠ سعرة عن معدل الثبات لبناء الأنسجة العضلية.\n  - عجز الطاقة (Cutting): عجز بنسبة ٢٠-٢٥٪ لرفع استنزاف الدهون وتحجيم الوزن.\n٢. العناصر الغذائية الكبرى (Macros):\n  - البروتين (1 جرام = 4 سعرات): حجر الأساس لبناء الألياف والتعافي. الكمية الموصى بها علمياً: ١.٦ إلى ٢.٢ جرام لكل كجم لوزن الجسم.\n  - الكربوهيدرات (1 جرام = 4 سعرات): المصدر الأساسي لاسترداد الجليكوجين العضلي وتزويد الخلايا بطاقة سحب الحديد الانفجارية.\n  - الدهون الصحية (1 جرام = 9 سعرات): أساس سليم للغدد لإنتاج الهرمونات الستيرويدية الأساسية (مثل التستوستيرون) وصيانة المفاصل.",
+        "en": "Sports nutrition revolves around a calculated fuel intake and energy balance:\n1. Caloric Scale:\n  - Bulking: 300 to 500 kcal surplus above maintenance to support lean mass growth.\n  - Cutting: 20% to 25% energy deficit to stimulate subcutaneous lipolysis.\n2. Macronutrients (Macros):\n  - Protein (4 kcal/g): The nitrogen source needed for tissue construction. Active trainees need 1.6 to 2.2 grams per kilogram.\n  - Carbohydrates (4 kcal/g): Primary fuel to restore depleted muscle glycogen and fire explosive lifts.\n  - Healthy Fats (9 kcal/g): Essential for standard hormonal baseline production (Testosterone) and joint health."
+      },
+      "defaultImageUrl": ""
+    },
+    {
+      "id": "nut_micros",
+      "title": {
+        "ar": "العناصر الصغرى والمعادن والترطيب الهيدروليكي العضلي",
+        "en": "Micronutrients, Vitamins & Cellular Hydration"
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "content": {
+        "ar": "العجلات المحركة للتفاعلات الرياضية لا تعمل بدون العناصر الصغرى والماء:\n١. الفيتامينات والمعادن الأساسية:\n  - فيتامين D3 والكالسيوم: تروس أساسية للحفاظ على كثافة العظام وتحفيز الخيوط العضلية.\n  - المغنيسيوم (Magnesium): ضروري لاسترخاء العضلات، ومنع الشد العضلي، وتصنيع البروتين.\n  - الزنك (Zinc): داعم أساسي لوظائف إنتاج التستوستيرون وثبات المناعة الحيوية.\n٢. الترطيب المائي والكهربائي (Hydration):\n  - فقدان ٢٪ فقط من نسبة ترطيب الخلايا يقلل جودة انقباض العضلة وقوتها بنحو ١٥٪.\n  - يجب استهلاك الأملاح الكهربائية (الصوديوم، البوتاسيوم) لتفادي الانقباض العشبي وحفظ ضغط الماء الداخلي بالدم والألياف.",
+        "en": "Crucial metallic and ionic systems supporting muscle contraction and chemical signaling:\n1. Micro Minerals and Vitamins:\n  - Vitamin D3 & Calcium: Direct support for bone remodeling and calcium-dependent actin-myosin binding.\n  - Magnesium: Crucial for neuromuscular calming, preventing cramps, and generating high intracellular ATP.\n  - Zinc: The catalyst governing hormone pathways, natural testosterone synthesis, and active cell repair.\n2. Hydration & Electrolytes:\n  - Dehydration of just 2% body mass drops training outputs and mechanical force efficiency by 15%.\n  - Proper salts (Sodium, Potassium, Magnesium) maintain blood volume and protect intramuscular fluid."
+      },
+      "defaultImageUrl": ""
+    },
+    {
+      "id": "nut_timing",
+      "title": {
+        "ar": "دورة وجبات تمرين الحديد وتوقيت المغذيات (Nutrient Timing)",
+        "en": "Nutrient Timing & Workout Meal Craft"
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "content": {
+        "ar": "توقيت التغذية يستغل النوافذ الهرمونية لتحسين الاستخدام الغذائي:\n١. وجبة ما قبل التمرين (Pre-Workout Meal):\n  - تنظم قبل التدريب بـ ٢-٣ ساعات بوجود كربوهيدرات معقدة (الشوفان، الأرز) لرفع الكلوكوز بشكل بطيء وحفظ طاقة ضخ الحديد.\n  - بروتين سهل الهضم لمنع الهدم وتوفير الأحماض الأمينية بالمجرى الدموي.\n٢. وجبة ما بعد التمرين (Post-Workout Meal):\n  - النافذة الذهبية لاسترداد الأحماض. بروتين سريع الانطلاق (واي بروتين أو دجاج صدور) مع كربوهيدرات سريعة الامتصاص لرفع الأنسولين وقطع جينات الهدم العضلية.\n٣. الترطيب أثناء التدريب (Intra-Workout):\n  - شرب المياه بشكل مقطوع بجرعات صغيرة للحفاظ على ضغط الدم ومنع إنقاص الأداء الميكانيكي.",
+        "en": "Optimizing nutrient absorption windows to switch from muscle breakdown to muscle growth:\n1. Pre-Workout Feed:\n  - Consumed 2 to 3 hours before lifting, containing complex carbohydrates (oats, brown rice) for slow, sustained glucose release.\n  - Easily digestible protein supplying systemic amino acids.\n2. Post-Workout Window:\n  - Rapid assimilation of amino acids and quick-acting glucose to spike insulin, suppress cortisol, and initiate recovery.\n3. Intra-Workout Status:\n  - Sipping filtered water containing balanced mineral profiles is optimal to buffer high heat and sustain skeletal blood flow."
+      },
+      "defaultImageUrl": ""
+    },
+    {
+      "id": "nut_supplements",
+      "title": {
+        "ar": "المكملات الرياضية المعتمدة على الأدلة والأبحاث العلمية",
+        "en": "Science-Backed Sports Supplements Guide"
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "content": {
+        "ar": "أربع عائلات من المكملات حازت على إثباتات مخبرية قاطعة لتعزيز استجابة اللاعب:\n١. الكرياتين مونوهيدرات (Creatine Monohydrate):\n  - المكمل الرياضي رقم ١ عالمياً لحفظ طاقة ATP الانفجارية، وترطيب العضلات بالماء داخل الخلايا، وزيادة القوة المفرطة. الجرعة: ٣-٥ جرام يومياً بشكل مستمر.\n٢. الواي بروتين (Whey Protein):\n  - بروتين الحليب المعزول سريع التوافر البيولوجي، غني باللوسين لتنشيط مسار mTOR لبناء العضلات.\n٣. مكمل البيتا-ألانين (Beta-Alanine):\n  - مأمون لإنتاج هيدروكسيد الكارنوسين الذي يحبس حمض اللبنيك (الهيدروجين الأيوني) المؤدي لإحساس حرق العضلة، مما يطيل وقت الفشل العضلي.\n٤. الكافيين (Caffeine):\n  - منشط عصبي رئيسي لتقليل الإرهاق العقلي وزيادة السعة الهوائية والتركيز الفائق أثناء التدريبات العنيفة.",
+        "en": "The primary nutritional enhancements with clinical validation to assist training outcomes:\n1. Creatine Monohydrate:\n  - Enhances cellular PCr reserves for rapid ATP recycling, volumizes cells, and facilitates strength gains. Dose: 3 to 5g daily.\n2. Whey Protein (Isolate & Concentrate):\n  - Fast digesting dairy source rich in essential amino acids (Leucine) to trigger muscle protein synthesis.\n3. Beta-Alanine:\n  - Synthesizes intramuscular Carnosine to buffer lactic acid ions (H+), delaying fatigue during 60-120s efforts.\n4. Caffeine:\n  - Potent central nervous system stimulant, blocking adenosine to spike focal acuity, power production, and endurance."
+      },
+      "defaultImageUrl": ""
+    },
+    {
+      "id": "nut_phases",
+      "title": {
+        "ar": "استراتيجيات الغذاء المطبقة للتضخيم والتنشيف الآمن",
+        "en": "Nutritional Periodization: Bulking vs. Cutting"
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "content": {
+        "ar": "طرق الموازنة المنهجية لكتلة الجسم وخسارة الدهون دون هدم الخيوط:\n١. التضخيم النظيف (Lean Bulking):\n  - فائض بسيط من السعرات (١٠-١٥٪ فوق الثبات) كافٍ لبناء العضلة مع تقليص حجم تخزين الدهون غير المرغوبة.\n  - تجنب \"التضخيم العشوائي العجيب\" الذي يؤدي لوجود مقاومة إنسولين وتراكم شديد للدهون حول الأحشاء.\n٢. التنشيف الممنهج (Systematic Cutting):\n  - عجز مدروس يحافظ على كمية البروتينات عالية (تصل لـ ٢.٤ جرام لكل كجم) لحظر استخدام النسيج العضلي العاري كلوح طاقة بديل.\n  - دمج وجبات إعادة الشحن الكربوهيدراتي (Refeeds) لتعديل إشارات هرمونات الغدة الدرقية واللبتين من النوم الأيضي الحتمي.",
+        "en": "Tactical seasonal design to alter body fat percentages while securing protein scaffolds:\n1. Lean Bulking Period:\n  - Modest surplus (+10% to +15% over maintenance) to continuously feed hypertrophy while limiting excess fat mass.\n  - Avoid uncontrolled eating which compromises insulin sensitivity and stresses the liver.\n2. Systematic Shaving (Cutting):\n  - Sustained deficit with increased protein (up to 2.4g/kg) to block gluconeogenesis from scavenging skeletal fibers.\n  - Introduce calculated refeed days to stimulate falling Leptin levels and thyroid hormone output."
+      },
+      "defaultImageUrl": ""
+    },
+    {
+      "id": "workout_splits",
+      "title": {
+        "ar": "أنظمة وتقسيم التدريب (Workout Splits)",
+        "en": "Workout Splits & Systems"
+      },
+      "content": {
+        "ar": "• أهم تقسيمات التدريب المعترف بها عالمياً:\n  1. تمرين كامل الجسم (Full Body Split):\n     - تدريب الجسم كاملاً 3 أيام في الأسبوع. مثالي للمبتدئين ولتعجيل التعافي.\n  2. علوي وسفلي (Upper / Lower Split):\n     - تدريب الجزء العلوي في يوم، والسفلي في يوم آخر (4 أيام تدريب بالأسبوع). توازن رائع وعالي التردد.\n  3. دفع وسحب وأرجل (Push - Pull - Legs - PPL):\n     - اليوم الأول: عضلات الدفع (الصدر، الأكتاف الأمامية والجانبية، الترايسبس).\n     - اليوم الثاني: عضلات السحب (الظهر، البايسبس، عضلات الأكتاف الخلفية).\n     - اليوم الثالث: أرجل وبطن.\n  4. أرنولد سبليت (Arnold Split):\n     - اليوم الأول: صدر وظهر.\n     - اليوم الثاني: أكتاف وذراعين.\n     - اليوم الثالث: أرجل.",
+        "en": "• Most Popular Workout Systems:\n  1. Full Body Split:\n     - Training the entire body 3 days a week. Ideal for beginners due to high recovery rates.\n  2. Upper / Lower Split:\n     - Alternating between upper-body days and lower-body days (4 days a week). Great frequency balance.\n  3. Push - Pull - Legs (PPL):\n     - Day 1: Pushing muscles (Chest, Delts, Triceps).\n     - Day 2: Pulling muscles (Back, Biceps, Rear Delts).\n     - Day 3: Legs and Abs.\n  4. Arnold Split:\n     - Day 1: Chest & Back.\n     - Day 2: Shoulders & Arms.\n     - Day 3: Legs."
+      },
+      "category": {
+        "ar": "أنظمة التمارين",
+        "en": "Workout Splits"
+      },
+      "defaultImageUrl": ""
+    },
+    {
+      "id": "axial_skeleton",
+      "title": {
+        "ar": "الهيكل العظمي المحوري بالتفصيل (Axial Skeleton Structure)",
+        "en": "Axial Skeleton"
+      },
+      "content": {
+        "ar": "يتكون الهيكل المحوري من 80 عظمة موزعة كالتالي لحماية الأعضاء ودعم قوام الجسم:\n١. الجمجمة (Skull): تحمي الدماغ والمستقبلات الحسية الرئيسية.\n٢. العمود الفقري (Vertebral Column): يتكون من 33 فقرة مقسمة حركياً:\n  - الفقرات العنقية (Cervical) • 7 فقرات.\n  - الفقرات الصدرية (Thoracic) • 12 فقرة ترتبط بالضلوع.\n  - الفقرات القطنية (Lumbar) • 5 فقرات تحمل الجزء الأكبر من أوزان السكوات والددليفت.\n  - عجز وعصعص ملتحم (Sacrum & Coccyx) • 9 فقرات.\n٣. القفص الصدري (Rib Cage): يتكون من 12 زوجاً من الضلوع لحماية الرئتين وصدر اللاعب ومقر التنفس.\n٤. عظمة القص (Sternum): العظمة المركزية بالصدر التي تلتقي وتمسك عندها الألياف المروحية لعضلة الصدر (Pectoralis Major).",
+        "en": "Consists of 80 bones organized specifically to protect organs and support posture:\n1. Skull: Encases and protects the brain and primary sensory receptors.\n2. Vertebral Column: 33 vertebrae divided biomechanically:\n  - Cervical Vertebrae • 7 vertebrae.\n  - Thoracic Vertebrae • 12 vertebrae linked to the ribcage.\n  - Lumbar Vertebrae • 5 massive vertebrae bearing load during squats and deadlifts.\n  - Sacrum & Coccyx • 9 fused posterior spinal segments.\n3. Rib Cage: 12 pairs of ribs protecting the lungs and thoracic cavity.\n4. Sternum: Central breastbone which acts as the major attachment point (Origin) for the pectoralis major fibers."
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "appendicular_skeleton",
+      "title": {
+        "ar": "الهيكل العظمي الطرفي بالتفصيل (Appendicular Skeleton Structure)",
+        "en": "Appendicular Skeleton"
+      },
+      "content": {
+        "ar": "يتكون من 126 عظمة تشكل ذراعين وساقين وحزام الدوران لنقل القوة في الجيم:\n١. الحزام الصدري (Shoulder Girdle): الترقوة (Clavicle) ولوح الكتف (Scapula)، وهي نواة انطلاق عضلات الدفع والسحب.\n٢. الأطراف العلوية (Upper Extremity):\n  - عظمة العضد (Humerus): العظمة الكبرى بالذراع حيث ترتبط عضلات البايسبس، الترايسبس، والكتف.\n  - عظمة الزند والكعبرة (Ulna & Radius): عظام الساعد المسؤولة عن الالتفاف والقبضة الحركية لبار الحديد.\n٣. الحزام الحوضي (Pelvic Girdle): يوفر القاعدة المستقرة لنقل الحركة من الساقين إلى الجذع العلوي.\n٤. الأطراف السفلية (Lower Extremity):\n  - عظمة الفخذ (Femur): العظمة الأقوى والأثقل بالجسم التي تدعم دفع تمرين الأرجل والسكوات العنيف.\n  - الرضفة (Patella/Knee cap): تعمل كرافعة حركية لزيادة قوة سحب عضلات الفخذ الأمامية (Quadriceps).\n  - القصبة والشظية (Tibia & Fibula): عظام الساق السفلية حيث تستقر عضلات السمانة والمثبتات القدمية الكاحلية.",
+        "en": "Consists of 126 bones forming the limbs and pelvic structure for kinetic force transfer:\n1. Shoulder Girdle: Clavicle and Scapula, creating the articulation base for chest, rear, and lateral push/pull actions.\n2. Upper Extremity:\n  - Humerus: Upper arm bone where biceps, triceps, and deltoid fibers anchor.\n  - Ulna & Radius: Forearm bones governing wrist supination and barbell grip stability.\n3. Pelvic Girdle: Delivers a rigid structure to transfer lower-body forces up through the spinal column.\n4. Lower Extremity:\n  - Femur: The body's longest and strongest bone designed for bearing deep squats.\n  - Patella (Knee Cap): Serves as an anatomical pulley to increase leverage for the quadriceps.\n  - Tibia & Fibula: Shins and calf base supporting stabilizing ankle movements."
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "tendons_ligaments",
+      "title": {
+        "ar": "الأوتار والأربطة والفروقات في الاستقرار الحركي",
+        "en": "Tendons vs. Ligaments: Stability & Force"
+      },
+      "content": {
+        "ar": "الفرق الحاسم الذي يجب على كل مدرب فهمه لتجنب الكوارث المفصلية بالأوزان:\n١. الأوتار (Tendons):\n  - نسيج ضام مرن يربط العضلة بالعظمة.\n  - النفع الميكانيكي: ينقل القوة الحركية الناشئة من انقباض ألياف العضلة ليجبر العظمة على التحرك (ينقل قوى السحب والدفع).\n  - يتأقلم أبطأ من العضلة للأحمال مما يتطلب التدرج الحذر.\n٢. الأربطة (Ligaments):\n  - نسيج ضام متين يربط العظمة بالعظمة المجاورة داخل المفصل.\n  - النفع الميكانيكي: يوفر الاستقرار الساكن والحدي ويمنع الحركات الشاذة (الالتواءات وتمزق المفاصل كالرباط الصليبي).\n  - التروية الدموية لها ضعيفة جداً لذا استشفاؤها يستغرق أشهراً طويلة عند الاصطدام العشبي.",
+        "en": "The mechanical variance critical to planning workout strain and joint preservation:\n1. Tendons:\n  - High-tensile connective tissue anchoring muscle to bone.\n  - Biomechanical Benefit: Directly transfers contractile force to move the bone.\n  - Adapts slower than muscle tissue, requiring steady progressive overload.\n2. Ligaments:\n  - Tough fibrous bands connecting bone to bone across articulation planes.\n  - Biomechanical Benefit: Provides passive stability and restrains irregular ranges of motion (e.g., preventing ACL ruptures).\n  - Highly vulnerable with low blood supply, making healing extremely slow if sprained."
+      },
+      "category": {
+        "ar": "المفاصل والتوصيلات",
+        "en": "Joints & Connectors"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "specific_joints_system",
+      "title": {
+        "ar": "مفاصل الجسم ودورها الحركي في تدريب الأثقال",
+        "en": "Major Human Joints & Orthopedics"
+      },
+      "content": {
+        "ar": "خريطة المفاصل الأساسية ومستويات حركتها المطلوبة لتفادي تآكل الغضاريف:\n١. المفصل الكتفي العضدي (Glenohumeral Joint):\n  - نوعه: مفصل كروي وحقي (Ball & Socket).\n  - حركته: دوران كامل في جميع المستويات (ثني، مد، تتبع، تقريب، دوران كتفي كامل).\n  - عيوبه: واسع الحركة وبالتالي هو المفصل الأكثر عرضة لعدم الاستقرار والإصابة في الصدر والكتف الخاطئ.\n٢. مفصل الكوع والركبة (Hinge Joints):\n  - نوعها: مفاصل رِزيّة (Hinge Joint).\n  - حركتها: تعمل في مستوى واحد فقط سهمي (ثني ومد للذراع والساق • Flexion & Extension).\n  - تنبيه: أي دوران خارجي أو جانبي ضاغط تحت حمل ثقيل يسبب تلف الأربطة الجانبية المباشر.\n٣. المفصل الوركي الحوضي (Coxofemoral Joint):\n  - نوعه: مفصل كروي وحقي شديد الاستقرار والعمق لقوة بنائه العضلي الهيكلي وسعه الحجمي.\n  - حركته: يسمح بجلوس عميق بالسكوات والضغط ودوران متعدد حوضي متزن.\n٤. مفصل الكاحل (Talocrural Joint):\n  - نوعه: مفصل مركب، يمثل حجر الزاوية للتوازن الأرضي بنقل ضغط الأوزان من الكعب للأرض.",
+        "en": "The structural joint map required to safe-guard athletes from joint strain and tissue erosion:\n1. Glenohumeral Joint (Shoulder):\n  - Classification: Ball & Socket joint in three axes.\n  - Movements: Multiplanar freedom (Flexion, Extension, Abduction, Adduction, internal/external rotation).\n  - Drawback: High mobility results in low passive stability, making it the most vulnerable upper-body joint to lift-related injury.\n2. Elbow & Knee Joints:\n  - Classification: Hinge joints.\n  - Movements: Uniaxial movement confined to the sagittal plane (Flexion and Extension).\n  - Note: Lateral shear forces under load immediately damage collateral ligaments.\n3. Coxofemoral Joint (Hip):\n  - Classification: Deep Ball & Socket structurally designed for structural stability and high weight-bearing.\n  - Movements: Abduction, flexion, and multiplanar stability key for deep squatting.\n4. Ankle Joint (Talocrural):\n  - Classification: Synovial joint essential for ground-up force transmission."
+      },
+      "category": {
+        "ar": "المفاصل والتوصيلات",
+        "en": "Joints & Connectors"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "neuromuscular",
+      "title": {
+        "ar": "الجهاز العصبي العضلي لتوليد القوة (Neuromuscular)",
+        "en": "Neuromuscular System"
+      },
+      "content": {
+        "ar": "العضلة لا تنقبض بدون إشارة كهربائية قادمة من الدماغ. الوحدة الحركية (Motor Unit) هي العصب العضلي الحركي وجميع الألياف العضلية التابعة.\nفي بداية التدريب، زيادة القوة الحادة تأتي من 'التكيف والتنسيق العصبي' (تجنيد وحدات حركية خاملة ودمجها بسرعات أعلى) قبل زيادة الحجم البنائي الحجمي.",
+        "en": "A muscle does not contract without a brain electrical impulse. A Motor Unit is a motor neuron and all muscle fibers it innervates.\nIn early training stages, strength gains come from 'Neuromuscular Adaptation' (recruiting dormant fibers efficiently) before cell hypertrophy begins."
+      },
+      "category": {
+        "ar": "الجهاز العصبي",
+        "en": "Nervous System"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "proprioceptors",
+      "title": {
+        "ar": "المستقبلات الحسية الوقائية (Proprioceptors)",
+        "en": "Proprioceptors"
+      },
+      "content": {
+        "ar": "ألياف المغزل العضلي (Muscle Spindles): تستشعر التمدد السريع في العضلة وتسبب انقباضاً تلقائياً لحمايتها (Stretch Reflex).\nعضو جولجي الوتري (Golgi Tendon Organ - GTO): يستشعر الشد الزائد الخطير في الوتر ويجبر العضلة على الارتخاء التام لحمايتها من الانقلاع والتمزق الكلي.",
+        "en": "Muscle Spindles: Sense rapid stretch in a muscle and cause contraction to protect it (Stretch Reflex).\nGolgi Tendon Organ (GTO): Senses excessive tension in the tendon and causes muscle relaxation to prevent tearing."
+      },
+      "category": {
+        "ar": "الجهاز العصبي",
+        "en": "Nervous System"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "planes_of_motion",
+      "title": {
+        "ar": "علم الحركة: مستويات الحركة الثلاثية (Planes of Motion)",
+        "en": "Kinesiology: Planes of Motion"
+      },
+      "content": {
+        "ar": "المستوى السهمي (Sagittal Plane): يقسم الجسم ليمين ويسار. الحركات: الثني والمد (Flexion/Extension) مثل الباي كيرل والسكوات والضغط.\nالمستوى الجبهي (Frontal Plane): يقسم الجسم لظهر وبطن. الحركات: التبعيد والتقريب (Abduction/Adduction) مثل الرفرفة الجانبية والضغط الجانبي.\nالمستوى العرضي/الأفقي (Transverse Plane): يقسم الجسم لعلوي وسفلي. الحركات: الدوران المسطح والتقريب الأفقي للمجنص والصدر.",
+        "en": "Sagittal Plane: Divides body right/left. Motions: Flexion/Extension (e.g., Bicep curl, Squat).\nFrontal Plane: Divides body front/back. Motions: Abduction/Adduction (e.g., Lateral raises).\nTransverse Plane: Divides body top/bottom. Motions: Axial rotation and horizontal movements."
+      },
+      "category": {
+        "ar": "علم الحركة",
+        "en": "Kinesiology"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "comprehensive_kinesiology",
+      "title": {
+        "ar": "الميكانيكا الحالية وحركة السلسلة العضلية المتقاطعة",
+        "en": "Kinesiology: Biomechanics & HMS"
+      },
+      "content": {
+        "ar": "الركائز الحركية الأساسية التي يعتمد عليها المدربون والخبراء لتحليل جودة التمرين:\n١. تزاوج القوى العضلي (Force-Couple Relationships):\n  - انقباض متناسق ومزامن لعدة عضلات معاً لإنتاج حركة ناعمة ومحورية حول المفصل.\n  - مثال: عمل العضلات شبه المنحرفة (Trapezius) والمنشارية (Serratus Anterior) معاً لتدوير لوح الكتف للأعلى عند الرفرفة لرفع الذراع للأعلى بسلامة.\n٢. علاقة طول الألياف بالتوتر (Length-Tension Relationship):\n  - المبدأ: العضلة تعطي أقصى قدرة انقباض ميكانيكي عندما تكون بطول مثالي متوسط.\n  - العضلة المشدودة بشكل زائد (Overstretched) أو المرتخية تماماً (Shortened) تتشتت فيها جسور الأكتين والميوسين وتضعف قوتها الحركية بشكل هائل.\n٣. التثبيط المتبادل (Reciprocal Inhibition):\n  - ارتخاء عصبي تلقائي للعضلة المقابلة (Antagonist) لتسهيل وتسريع انقباض العضلة الأساسية (Agonist).\n  - مثال: عند ثني البايسبس بقوة، يرسل الحبل الشوكي إشارة تثبيطية تلقائية للترايسبس لترتخي وتسمح بحركة انثناء المفصل بانسيابية.",
+        "en": "The definitive movement parameters certified by sports science institutions to audit movement mechanics:\n1. Force-Couple Relationships:\n  - Combined dynamic action of multiple muscle groups firing together around a joint to trigger a specific functional motion.\n  - Example: Coordination between upper/lower Trapezius and Serratus Anterior to rotate the scapula smoothly during shoulder presses.\n2. Length-Tension Relationship:\n  - Specifies that muscle force generation is dependent on the sarcomere length.\n  - Extremely elongated or excessively shortened resting states compromise actin-myosin cross-bridging, dropping physical peak force output.\n3. Reciprocal Inhibition:\n  - Neural mechanism where an active contracting agonist muscle triggers direct neural relaxation in its opposing antagonist companion.\n  - Example: Forcing a strong bicep flexion naturally silences the triceps, facilitating flawless humeroulnar joint movement."
+      },
+      "category": {
+        "ar": "علم الحركة",
+        "en": "Kinesiology"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1549476464-37392f717541?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "academy_nutrition_diets",
+      "title": {
+        "ar": "جميع أنظمة التغذية الرياضية المعتمدة بالتفصيل",
+        "en": "Complete Sports Nutrition Systems"
+      },
+      "content": {
+        "ar": "تغطية وحصر شامل لكافة الأنظمة الغذائية التي يواجها الأخصائي في الجيم مع إيجابيات وسلبيات كل دايت:\n\n١. الدايت المرن وحظر الحرمان (Flexible Dieting / IIFYM):\n  - فكرته: تناول ما تشاء طالما أن الوجبات تنتهي بمطابقة احتياج البروتين والكربوهيدرات والدهون الإجمالي.\n  - الإيجابيات (الفائدة): سهولة مطلقة بالالتزام النفسي والاجتماعي، عالي الاستمرارية ولا توجد أطعمة ممنوعة تلقائياً.\n  - السلبيات (السيئ): قد يشجع اللاعب على دمج هيدرات غير صحية فقيرة بالفيتامينات والمعادن الدقيقة مما يعيق التعافي العصبي ومناعة المعدة الإفرازية.\n\n٢. الكيتو دايت العلاجي (Ketogenic Diet):\n  - فكرته: خفض الكربوهيدرات لأقل من ٥٪ ورفع الدهون لأكثر من ٧0٪ لتدريب الجسم على استغلال الكيتونات كمولد وقود بديل للغلوكوز.\n  - الإيجابيات (الفائدة): سيطرة سريعة على الجوع المفرط والشهية المفتوحة، وخفض فوري للمياه المحتبسة تحت الجلد ومستويات إنسولين الدم.\n  - السلبيات (السيئ): فقدان كبير للأداء المتفجر بتمارين الحديد العنيفة (لغلق مخازن جليكوجين العضل)، وصعوبة الالتزام والوقوع بإنفلونزا الكيتو.\n\n٣. الصيام المتقطع التبديلي (Intermittent Fasting):\n  - فكرته: فرز اليوم لـ ١٦ ساعة صيام كامل وصفر سعرات، مقابل ٨ ساعات نافذة للأكل.\n  - الإيجابيات (الفائدة): يسهل عجز السعرات بحصر وقت تغذية اللاعب، ويحسن حساسية خلايا العضلة للأنسولين، ويرفع معدل الالتهام والتعشيق الذاتي الذروي لإصلاح الألياف.\n  - السلبيات (السيئ): يصعب الحصول على كميات ضخمة من البروتين والماكروز في بضع وجبات بسيطة، خطر هدم ملموس للرياضيين الطمواحي الحجم.\n\n٤. تدوير الكربوهيدرات المتقدم (Carb Cycling):\n  - فكرته: الموازنة بين أيام الكربوهيدرات المرتفعة (High Carb) بأيام تمرين العضل الكبيرة، وأيام كربوهيدرات منخفضة جداً (Low Carb) بأيام الراحة.\n  - الإيجابيات (الفائدة): صيانة قوية للسرعة الأيضية ومستويات الليبتين، وأداء حديدي صخري حاد بالتمارين وتنشيف مدروس.\n  - السلبيات (السيئ): معقد جداً ويتطلب قياسات وحسابات دقيقة يومية ومزعج بالتحضير.\n\n٥. دايت منخفض الدهون الكربوهيدراتي التقليدي (Low Fat / High Carb):\n  - فكرته: تقليل كميات الدهون لـ ١5-٢0٪ مقابل تعظيم كميات الكربوهيدرات ومصادر طاقة التمرين البيولوجية.\n  - الإيجابيات (الفائدة): تزويد جليكوجيني عارم للألياف، ضخ دم غازي كاسح بالعروق، وثبات قوة التحمل لتمارين الأرجل الطويلة.\n  - السلبيات (السيئ): هبوط فوري بمستويات إنتاج هرمون التستوستيرون الذاتي وجودة تركيب أغشية الخلايا عند هبو الدهون لأقل من الحد الحرج الموصى به.",
+        "en": "A comprehensive review of the core dieting methodologies studied in specialized sports nutrition programs, along with their advantages and limits:\n\n1. Flexible Dieting / IIFYM:\n  - Concept: Match daily targets for protein, fats, and carbs regardless of specific food sources.\n  - Benefits: Unmatched psychological retention, highly adaptable to social circles, and prevents eating disorder cycles.\n  - Drawbacks: Can lead to micronutrient deficiencies and gastrointestinal inflammation if too much processed junk is mixed in.\n\n2. Ketogenic Diet:\n  - Concept: Extremely high fat (70%+), minimal carbs (<5%), initiating hepatic ketone production to power central functions.\n  - Benefits: Radical drop in stubborn visceral fat, sudden depletion of sub-q water, and stabilizing effect on fasting insulin.\n  - Drawbacks: Compromises high-intensity energy output (anaerobic glycolysis) due to low glycogen pools, and risks keto-flu side effects.\n\n3. Intermittent Fasting (16:8 Protocol):\n  - Concept: Cycling between a strict 16-hour liquid fast and an indexical 8-hour calorie feed.\n  - Benefits: Streamlines caloric deficits by compressing time, elevates baseline growth hormone, and initiates healthy cellular autophagy.\n  - Drawbacks: Challenging to synthesize high-volume protein intake during feeding windows, triggering catabolic risks for bodybuilders.\n\n4. Carb Cycling:\n  - Concept: Alternating High Carb days (demanding training) with Moderate Carb days and Zero/Low Carb days (rest).\n  - Benefits: Protects metabolic baseline speeds and Leptin signaling, supplying explosive power while burning lipids on low days.\n  - Drawbacks: Highly complex, requiring strict daily weighing and meticulous macro tracking.\n\n5. Low Fat / High Carb Diet (Traditional Bodybuilding):\n  - Concept: Suppressing lipids below 20% to maximize complex glucose streams for massive intramuscular glycogen pools.\n  - Benefits: High muscular fullness, outstanding anaerobic power, and endless stamina during long lower-body leg sessions.\n  - Drawbacks: Dropping lipids below crucial limits instantly slows natural testosterone synthesis and reduces fat-soluble vitamin absorption."
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "comprehensive_nutrition_macronutrient_sources",
+      "title": {
+        "ar": "دليل مصادر الماكروز الحيوية للرياضي (Protein, Carbs & Fats)",
+        "en": "Anatomy of Macros: Sources & Absorption"
+      },
+      "content": {
+        "ar": "الدليل التفصيلي الموثق لأهم مصادر التغذية للرياضيين ونوعية الامتصاص لتأمين التعافي السليم للأوتار والألياف:\n\n١. مصادر البروتين الأساسية (Protein Sources):\n  - مصادر حيوانية (عالية القيمة والترابط البنائي ومعدل امتصاص تفوق ٩0٪): صدور وفيليه الدواجن، لحوم البقر الصافية من الدهون، بياض والبيض الكامل، الأسماك كالتونة والسلمون (المليء بالأحماض الدهنية)، ومكملات الواي بروتين والكازين.\n  - مصادر نباتية (امتداد أميني ناقص الامتصاص ٦0-٧0٪ ويفتقر لبعض الأحماض الأساسية): العدس، حبوب فول الصويا (المصدر النباتي المتكامل الوحيد)، الحمص، البازلاء واللوبياء، والشوفان.\n\n٢. مصادر الكربوهيدرات ونوع الامتصاص (Carbohydrate Sources):\n  - كربوهيدرات معقدة (معامل جلايسيمي منخفض • تدفق بطيء وثابت لسكر الدم والطاقة): الأرز البني والبسمتي، البطاطا والبطاطس المسلوقة أو المشوية، الشوفان الكامل، الكينوا، مكرونة القمح الكامل.\n  - كربوهيدرات بسيطة وسريعة (معامل جلايسيمي مرتفع • شحن سريع لجلوكوز الدم ومخزون الجليكوجين): الموز الطازج بتمارين الدفع، التمر الفاخر، العسل الأبيض النقي، ومسحوق الديكستروز وسكر الفاكهة.\n\n٣. مصادر الدهون الصحية الضرورية للهرمونات (Healthy Fats):\n  - الدهون الأحادية وغير المشبعة (محفزات هرمون الذكورة الطبيعي والتصدي للالتهابات): زيت الزيتون البكر الممتاز، ثمار الأفوكادو، المكسرات النيئة كاللوز والجوز وبذور الكتان والسمسم، وزيت كبد الحوت والسلمون الغني بمركبات الأوميجا 3 صانعة الجدران الخلوية ومزيتة المفاصل.",
+        "en": "A highly professional, referenced reference for athlete clean eating, focusing on biological availability and structural recovery:\n\n1. Major Protein Sources:\n  - Animal Protein (Perfect biological value, containing complete EAA profiles with 90%+ absorption): Skinless chicken breasts, lean sirloin beef, whole eggs and egg whites, tuna, salmon, and high-purity whey isolate.\n  - Plant Protein (Incomplete amino acid profiles with lower bioavailability 60-70%): Red lentils, soy beans (only complete vegan source), chickpeas, green peas, and rolled oats.\n\n2. Major Carbohydrate Sources:\n  - Complex Carbs (Low GI, providing continuous and sustained blood sugar flow for training stamina): Brown rice, sweet potatoes, rolled oats, white potatoes, and quinoa.\n  - Simple Carbs (High GI, optimized for immediate glucose blood supply and muscle glycogen replenishment pre/post workout): Bananas, dates, pure honey, and cyclic dextrins.\n\n3. Major Healthy Fats Sources:\n  - Monounsaturated & Polyunsaturated Fats (Core components of natural testosterone synthesis and cardiovascular health): Extra virgin olive oil, fresh avocados, raw almonds, walnuts, flaxseeds, and marine EPA/DHA omega-3 fatty acids."
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "comprehensive_sports_supplements_dictionary",
+      "title": {
+        "ar": "دليل المكملات الرياضية الكامل (Supplements & Target Sports)",
+        "en": "Sports Supplements Reference & Science"
+      },
+      "content": {
+        "ar": "المرجع العلمي الشامل للمكملات الرياضية المعتمدة بنسب استحقاق علمية وتحديد الرياضة الأنسب لكل مكمل:\n\n١. الكرياتين مونوهيدرات (Creatine Monohydrate):\n  - الفائدة والآلية البدنية: يعيد تدوير الفوسفوكرياتين (PCr) لتأمين الـ ATP على الفور عند سحب أوزان ثقيلة حدية. يضغط السوائل داخل الخلايا لترطيب الألياف وترقيتها الحجمية الكتلية السريعة والآمنة.\n  - أنسب الرياضات: كمال الأجسام والحديد (Bodybuilding)، ألعاب القوة وأحمال الأثقال (Powerlifting)، ركض وسرعات مسافات الـ 100م الانفجارية، الفنون القتالية المختلطة.\n\n٢. الواي بروتين مصفى الحليب (Whey Protein):\n  - الفائدة والآلية البدنية: يمنح مجرى الدم تدفقاً فائق السرعة للأحماض الأمينية الأساسية مع نسبة Leucine مرتفعة للغاية لسرعة تنشيط زر mTOR البنائي للتصليح العضلي السريع بالفشل.\n  - أنسب الرياضات: كافة التدريبات البدنية الشاقة، بناء العضلات والتهذيب الشكلي، السباحة الحرة، ألعاب العشارى والتحمل العنيف.\n\n٣. مكمل إل-سيترولين مالات (L-Citrulline Malate):\n  - الفائدة والآلية البدنية: يرفع أكسيد النيتريك الموسع للأوعية والشرايين المغذية. يرفع نقل الأوكسجين والتخلص من حامض اللبنيك والأمونيا المؤدية للتعب المبكر.\n  - أنسب الرياضات: تدريبات التحمل المفرط وعالي العتبات الهوائية واللاهوائية، رياضة الكروسفت (CrossFit)، الجري لمسافات متوسطة، تدريبات المقاومة التكرارية.\n\n٤. مكمل البيتا ألانين (Beta-Alanine):\n  - الفائدة والآلية البدنية: يصنع الكارنوسين داخل العظام والأوتار ليحبس ذرات الهيدروجين الحامضية المؤلمة، مما يمكنك من دحر الحرقان للعدات الإضافية.\n  - أنسب الرياضات: سباقات التجذيف الشرسة، جري الـ 400 والـ 800 متر، ورياضة الكروسفت ومجموعات الحديد التدريبية فائقة التكرار من 12 إلى 20 عِدة.",
+        "en": "The scientific review of active sports supplements with clinical efficacy studies and sport-specific matching:\n\n1. Creatine Monohydrate:\n  - Mechanism: Replenishes intramuscular phosphocreatine (PCr) levels, aiding rapid cyclic ATP synthesis during short, heavy anaerobic efforts. Draws intracellular water to trigger high muscle hydration.\n  - Best Match: Bodybuilding, Olympic Lifting, MMA, track sprints (100m - 200m), and explosive athletic performance.\n\n2. Whey Protein (Isolate/Hydrolyzed):\n  - Mechanism: Rapidly floods the circulatory system with essential amino acids, boasting high concentrations of Leucine to stimulate muscle protein synthesis via mTOR signaling.\n  - Best Match: Bodybuilding, raw strength sports, long distance swimming, and high-frequency metabolic conditioning.\n\n3. L-Citrulline Malate:\n  - Mechanism: Elevates blood Nitric Oxide levels to increase vascular dilation, blood volume delivery, and metabolic waste clearance (removing accumulated ammonia during heavy reps).\n  - Best Match: High-intensity functional training (CrossFit), hypertrophy training (10-15 reps range), cycling, and high fatigue resistance.\n\n4. Beta-Alanine:\n  - Mechanism: Increases carnosine density to act as an intracellular acid buffer, neutralizing hydrogen ions (H+) resulting from lactic acid buildup to buy time before absolute failure.\n  - Best Match: Rowing, middle distance track events (400m - 800m), and bodybuilding burnout drop sets."
+      },
+      "category": {
+        "ar": "التغذية",
+        "en": "Nutrition"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "opt_periodization_model",
+      "title": {
+        "ar": "نموذج تخطيط التمارين الرياضية المحترف (OPT Model)",
+        "en": "OPT Periodization Model"
+      },
+      "content": {
+        "ar": "النموذج القياسي الممنهج لتقسيم وتصميم الأحمال التدريجية وتطورها المبرمج:\n\n١. مرحلة تحمل الاستقرار (Phase 1 • Stabilization Endurance):\n  - الهدف: تحسين التوازن العضلي، ثبات واستقرار مفاصل الجسم ومفاصل الكاحل والركبة، وتحسين كفاءة الجهاز الحركي العصبي بقواعد هادئة وتكرارات عالية (١٢-٢٠ تكرار).\n  - إيجابيات ميكانيكية: يحمي تماماً من الإصابات، ويقضي على العيوب وتشتت توازن الخيوط، ويبني صحة الأوعية الدموية للمبتدئين.\n  - عيوب ميكانيكية: منخفض الكثافة بشكل لا يساعد على بناء حزم الحجم العضلي التجميلي الصارخ والسريع.\n\n٢. مرحلة تحمل القوة (Phase 2 • Strength Endurance):\n  - الهدف: تنمية قوة العضلة الأساسية مع الحفاظ على قدرة الاستقرار عبر دمج التمرينين بمجموعات متتالية (Superset) تمرين قوة ثم تمرين توازن استقرار على سطح غير مستو أو وزن حر.\n  - إيجابيات ميكانيكية: يرفع استهلاك وحرق السعرات بشكل عنيف، وينشط الجهاز القلبي الوعائي ويطور التحمل الكلي للألياف البطيئة.\n  - عيوب ميكانيكية: يتطلب تحضيراً عصبياً مكثفاً ومجهداً للمبتدئين بشكل قد يقصي الأداء الصافي.\n\n٣. مرحلة التضخيم البنائي الحجمي (Phase 3 • Hypertrophy):\n  - الهدف: زيادة الحجم والكتلة العضلية الإجمالية بكثافات متوسطة-مرتفعة وفترات راحة قصيرة (٧٥-٨٥٪ من القوة القصوى، تكرارات من ٦ إلى ١٢ عدّة).\n  - إيجابيات ميكانيكية: ممتاز وصاروخي لاكتساب الحجم العضلي التجميلي، ويحفز تخليق مخازن سكر الخلية وسمك الألياف.\n  - عيوب ميكانيكية: يهمل تطوير القوة العصبية المطلقة وقدرة الدوران وتعميم الانفجارات للألياف العصبية السريعة.\n\n٤. مرحلة القوة القصوى (Phase 4 • Maximum Strength):\n  - الهدف: رفع الكفاءة العصبية على استنفار وتجنيد أقصى عدد من الوحدات العضلية الحركية (٨٥-١٠٠٪ من القوة الحدية، تكرارات من ١ إلى ٥ عدّات بوزن هائل).\n  - إيجابيات ميكانيكية: طفرة كاسحة في قوة الهيكل، وقوام حديدي فائق ومقاومة الأحمال الهائلة في ددليفت وسكوات.\n  - عيوب ميكانيكية: خطر إصابة المفاصل والعظام يبلغ الذروة، ويتطلب فترات راحة مفرطة ومملة تفقد التركيز الحراري للعضلة البنائية.\n\n٥. مرحلة القدرة الانفجارية (Phase 5 • Power):\n  - الهدف: تحسين معدل تطوير القوة (RFD) بالجمع بين تمارين ثقيلة للغاية تتبعها تمارين خفيفة عارمة السرعة (مثل سكوات ثقيل ثم قفز صندوق انفجاري).\n  - إيجابيات ميكانيكية: يزود الرياضيون بمهارات قفز وركض وسرعة التواء وسحب حديدية تنافس المحترفين.\n  - عيوب ميكانيكية: متقدم وصيدلاني جداً، لا يناسب كبار السن، المبتدئين، أو المصابين بخشونة المفاصل الصدرية والركبية.",
+        "en": "The core periodization framework for structured progressive overload:\n\n1. Phase 1: Stabilization Endurance:\n  - Objective: Correct muscular imbalances, stabilize joint capsules, and increase neuromuscular efficiency using high reps (12-20) and unstable environments.\n  - Pros: Maximum injury prevention, repairs improper kinematics, and builds tendon strength.\n  - Cons: Minimal force-production development; slow muscle building.\n\n2. Phase 2: Strength Endurance:\n  - Objective: Progress stabilization while testing force capacity. Employs supersets combining a strength lift with a stabilization movement.\n  - Pros: High caloric expenditure, and develops great local endurance.\n  - Cons: Requires solid coordination, causing neural fatigue too early for entry-level lifters.\n\n3. Phase 3: Hypertrophy:\n  - Objective: Focuses on muscle fiber cross-sectional area expansion (75-85% intensity, moderate reps 6-12).\n  - Pros: Highly effective for muscle building and visual fullness.\n  - Cons: Ignores explosive power and maximum rate of force development (RFD).\n\n4. Phase 4: Maximum Strength:\n  - Objective: Elevates motor unit recruitment, synchronization, and firing frequency using heavy loads (85-100% 1RM, 1-5 reps).\n  - Pros: Rapid enhancement of absolute skeletal strength and structural density.\n  - Cons: Extremely high compression load on joints, and requires long, resting intervals.\n\n5. Phase 5: Power:\n  - Objective: Maximize force output by combining heavy loads with high-velocity movements (e.g., heavy squat followed by immediate vertical jumps).\n  - Pros: Excellent athletic performance, increasing structural power output.\n  - Cons: High ballistic mechanical risk; unsuitable for general fitness, rehab, or joint stiffness sufferers."
+      },
+      "category": {
+        "ar": "أنظمة التمارين",
+        "en": "Workout Splits"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "training_science_principles",
+      "title": {
+        "ar": "مبادئ تصميم البرامج الرياضية العلمية المتكاملة",
+        "en": "Core Training Science Principles"
+      },
+      "content": {
+        "ar": "المبادئ العلمية المطلقة التي تؤطر جودة تدريب العملاء وتضمن الاستمرار الخطي دون تراجع أو هدم عضلي:\n\n١. مبدأ الفروق الفردية (Individual Difference):\n  - فكرته: تختلف استجابة اللاعبين لبرنامج التدريب بسبب الجينات، العمر، مستوى البناء، وهيكل العظام والترقوة والمفاصل.\n  - الإيجابيات (الفائدة): يضمن لك برنامجاً مخصصاً بالكامل وصديقاً لمكامن الضعف ومفاصل اللاعب.\n  - السلبيات (السيئ): يتطلب وقتاً طويلاً وتحليلاً شاملاً ونماذج ممتدة للمراجعة الجسدية المسبقة.\n\n٢. مبدأ زيادة الحمل التدريجي الهيكلي (Progressive Overload):\n  - فكرته: يجب أن يواجه النسيج العضلي صعوبة متصاعدة باستمرار (زيادة الوزن، زيادة العدّات، تقليل الراحة) ليُجبر الجسم على التكيف والبناء المستمر.\n  - الإيجابيات (الفائدة): محرك قطعي ومثبت لضمان الاستمرارية الإيجابية والنمو المستمر للكتلة والقوة.\n  - السلبيات (السيئ): قد يفرط العميل في تقدير قوته ويقع في الإجهاد المفرط للجهاز العصبي (Overtraining) وتلف المفاصل.\n\n٣. مبدأ التكيف النوعي للمطالب المحددة (SAID Principle):\n  - فكرته: يتأقلم الجسم بنوعية الضغط الذي يتعرض له؛ فتمارين التكرار العالي تبني التحمل العضلي فقط، بينما الأوزان تبني القوة والحجم.\n  - الإيجابيات (الفائدة): توجيه مجهود اللاعيبين بدقة استثنائية لصالح مساراتهم وأهدافهم المستهدفة دون تشتت طاقي.\n  - السلبيات (السيئ): قد يصنع عدم توازن عضلي بالمناطق المحيطية غير المستهدفة بتركيز كافٍ.\n\n٤. مبدأ الاستشفاء والموازنة الحيوية (Principle of Recovery):\n  - فكرته: النمو لا يحدث أثناء حمل الحديد بل أثناء النوم وتناول الغذاء السليم وإعادة تنظيم الأحماض بالألياف.\n  - الإيجابيات (الفائدة): صون مستويات الاستشفار وتجنب فقدان الأحجار العضلية.\n  - السلبيات (السيئ): يوجب تقليص رغبة التمرين المتواصل لبعض المتحمسين مما يصعّب إيجاد خط وسط أسبوعي مريح.",
+        "en": "The scientific guidelines structured by international sports sciences research to drive performance without regression:\n\n1. Principle of Individual Difference:\n  - Concept: No two athletes respond identically to a training protocol due to genetics, skeletal levers, muscle insertions, and daily recovery rates.\n  - Benefits: Preserves biomechanical safety by customizing schemes based on individual biomechanics.\n  - Drawbacks: Demands rigorous audit schedules and deep movement screening before initial training begins.\n\n2. Principle of Progressive Overload:\n  - Concept: To force biological adaptations, the human movement system must encounter progressive increases in mechanical tension/volume.\n  - Benefits: Confirmed pathway for muscle growth, strength accumulation, and continuous bone density remodeling.\n  - Drawbacks: Risk of overtraining, chronic inflammation, and tendinopathy if the velocity and volume increase unsafely.\n\n3. SAID Principle (Specific Adaptations to Imposed Demands):\n  - Concept: The human body adapts narrowly and highly specifically to the mechanical demands placed upon it.\n  - Benefits: Guarantees tailored energy pathways for elite athletes to maximize performance outcomes directly.\n  - Drawbacks: Can introduce relative muscular dominance and muscle imbalances if full physical versatility is not planned.\n\n4. Principle of Recovery:\n  - Concept: Muscular hypertrophy, force remodeling, and glycogen recovery occur primarily during sleep and physical rest.\n  - Benefits: Blocks muscular catabolism, maintains endocrine stability, and lets tendons remodel.\n  - Drawbacks: Mandates reduced training volume and rest intervals, which can disappoint highly motivated trainees."
+      },
+      "category": {
+        "ar": "أنظمة التمارين",
+        "en": "Workout Splits"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&q=80&w=400"
+    },
+    {
+      "id": "abs",
+      "title": {
+        "ar": "عضلات البطن (Abs)",
+        "en": "Abdominals"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "البطن والجذع",
+        "en": "Core"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 4,
+      "content": {
+        "ar": "• عضلات البطن مسؤولة عن استقرار الجذع وثني العمود الفقري.\n• تشمل العضلة المستقيمة البطنية (Six-pack) والعضلات المائلة (Obliques).\n• تستهدف بتمارين الكرنشز، بلانك، ورفع الأرجل.",
+        "en": "• The abdominal muscles stabilize the core and flex the spine.\n• Consists of the Rectus Abdominis and Obliques.\n• Targeted with Crunches, Planks, and Leg Raises."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "المستقيمة البطنية",
+            "en": "Rectus Abdominis"
+          },
+          "description": {
+            "ar": "عضلة محززة طولية تُعرف كـ (6-pack) تقوم بثني العمود الفقري للأمام.",
+            "en": "The famous 'six-pack' muscle responsible for flexing the lumbar spine."
+          },
+          "targeting": {
+            "ar": "تستهدف بتمارين الكرنشز (Crunches) ورفع الأرجل (Leg Raises).",
+            "en": "Crunches and Leg Raises load this muscle optimally."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلات المائلة الخارجية",
+            "en": "External Obliques"
+          },
+          "description": {
+            "ar": "تقع على جانبي البطن لتدوير وثني الجذع جانبياً.",
+            "en": "Located on the lateral sides of the abdomen, facilitating trunk rotation."
+          },
+          "targeting": {
+            "ar": "تمارين الدوران مثل الكرنش المائل (Bicycle Crunches) والتويست الروسي.",
+            "en": "Russian twists and bicycle crunches."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلات المائلة الداخلية",
+            "en": "Internal Obliques"
+          },
+          "description": {
+            "ar": "تدعم الخارجية وتقع تحتها للثبات الجانبي.",
+            "en": "Deep muscles supporting rotational mechanics."
+          },
+          "targeting": {
+            "ar": "تمارين الثبات (Plank) والدوران المحمل.",
+            "en": "Loaded rotations and isometric planks."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة المستعرضة",
+            "en": "Transversus Abdominis"
+          },
+          "description": {
+            "ar": "أعمق عضلة تعمل كحزام داخلي يحمي العمود الفقري.",
+            "en": "The deepest core muscle acting as a natural weightlifting belt."
+          },
+          "targeting": {
+            "ar": "تمرين تفريغ البطن (Stomach Vacuums).",
+            "en": "Stomach Vacuums and brace holds."
+          }
+        }
+      ],
+      "mechanics": {
+        "ar": "تحمي العمود الفقري عبر زيادة الضغط داخل تجويف البطن.",
+        "en": "Protects the spine by generating intra-abdominal pressure."
+      }
+    },
+    {
+      "id": "forearms",
+      "title": {
+        "ar": "عضلات الساعد (Forearms)",
+        "en": "Forearms"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الأذرع والسواعد",
+        "en": "Arms & Forearms"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 2,
+      "content": {
+        "ar": "• مجموعة من العضلات القابضة والباسطة تتحكم في حركة الرسغ وقوة القبضة.\n• تنشط بشكل كبير في تمارين السحب (مثل الديدليفت والعقلة).\n• تستهدف خصيصاً عبر طي الرسغ (Wrist Curls).",
+        "en": "• A group of flexors and extensors controlling the wrist and grip strength.\n• Highly active in heavy pulling exercises like deadlifts and pull-ups.\n• Targeted with Wrist Curls and Reverse Curls."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "القابضات (الداخلية)",
+            "en": "Flexors (Anterior)"
+          },
+          "description": {
+            "ar": "تثني المعصم وتشكل الكتلة الغليظة من الساعد.",
+            "en": "Flex the wrist and form the thick inner belly of the forearm."
+          },
+          "targeting": {
+            "ar": "طي المعصم التقليدي (Wrist Curls).",
+            "en": "Regular barbell or dumbbell wrist curls."
+          }
+        },
+        {
+          "name": {
+            "ar": "الباسطات (الخارجية)",
+            "en": "Extensors (Posterior)"
+          },
+          "description": {
+            "ar": "تمد المعصم للأعلى وتثبت القبضة.",
+            "en": "Extend the wrist and stabilize heavy grips."
+          },
+          "targeting": {
+            "ar": "الطي العكسي للمعصم (Reverse Wrist Curls) وتمارين الثبات.",
+            "en": "Reverse wrist curls and farmer's walks."
+          }
+        }
+      ],
+      "jointsAndMotion": {
+        "ar": "مفصل الرسغ (Wrist Joint) للطي والتمديد، ومفصل الكوع للثبات.",
+        "en": "Wrist joint for flexion/extension and radioulnar joint for rotations."
+      }
+    },
+    {
+      "id": "trapezius",
+      "title": {
+        "ar": "عضلة الترابيزيوس (الترابيس)",
+        "en": "Trapezius"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الظهر",
+        "en": "Back"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a25f1?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 3,
+      "content": {
+        "ar": "• عضلة كبيرة تمتد من أسفل الجمجمة حتى منتصف الظهر.\n• مقسمة إلى جزء علوي (مألوف لدى اللاعبين لرفع الأكتاف)، وسط، وسفلي.\n• تستهدف الشراغس (Shrugs) الجزء العلوي، بينما التجديف يفعل الأجزاء الأخرى.",
+        "en": "• A large muscle extending from the base of the skull directly to the mid back.\n• Features upper, middle, and lower divisions.\n• Upper traps are hit by Shrugs, while middle and lower traps depend on rows."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "الجزء العلوي (Upper Traps)",
+            "en": "Upper Trapezius"
+          },
+          "description": {
+            "ar": "يرفع لوح الكتف للأعلى، وهو الجزء الأكثر وضوحاً عند الرقبة.",
+            "en": "Elevates the scapula, shaping the visible neck muscles."
+          },
+          "targeting": {
+            "ar": "تمرين الشراغس (Shrugs) بالبار أو الدمبل.",
+            "en": "Heavy shrugs and farmer's walks."
+          }
+        },
+        {
+          "name": {
+            "ar": "الجزء الأوسط (Middle Traps)",
+            "en": "Middle Trapezius"
+          },
+          "description": {
+            "ar": "يجمع لوحي الكتف نحو العمود الفقري (Retraction).",
+            "en": "Retracts the scapulae together toward the spine."
+          },
+          "targeting": {
+            "ar": "السحب الأفقي (Rows) والفلاي العكسي (Reverse Flyes).",
+            "en": "Horizontal rows and reverse fly maneuvers."
+          }
+        },
+        {
+          "name": {
+            "ar": "الجزء السفلي (Lower Traps)",
+            "en": "Lower Trapezius"
+          },
+          "description": {
+            "ar": "يسحب لوح الكتف للأسفل، هام جداً لصحة الكتف.",
+            "en": "Depresses the scapula; critical for shoulder health."
+          },
+          "targeting": {
+            "ar": "تمرين سحب إلى أسفل بوضعية Y (Y-Raises) أو السحب العُلوي.",
+            "en": "Y-raises and lat pull-downs."
+          }
+        }
+      ],
+      "mechanics": {
+        "ar": "التحكم الكامل والأساسي في جميع حركات لوح الكتف واستقراره.",
+        "en": "Foundational control and stabilization for all scapular motions."
+      }
+    },
+    {
+      "id": "erector_spinae",
+      "title": {
+        "ar": "العضلة الناصبة للفقرات (القطنية/الكترو سباينيو)",
+        "en": "Erector Spinae"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الظهر",
+        "en": "Back"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a25f1?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 3,
+      "content": {
+        "ar": "• مجموعة عضلات محاذية للعمود الفقري تعمل على مد الظهر، وتوفر الدعم والوقاية الدائمة للعمود الفقري.\n• تنشط بشكل مكثف في تمرين الديدليفت وتمديد الظهر (Back Extensions).",
+        "en": "• A set of muscles extending alongside the spinal column responsible for extending the back and supporting the spine.\n• Highly active during deadlifts and back extensions."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "العضلة الحرقفية الضلعية (Iliocostalis)",
+            "en": "Iliocostalis"
+          },
+          "description": {
+            "ar": "الجزء الخارجي والأبعد في المجموعة.",
+            "en": "The most lateral portion of the erectors."
+          },
+          "targeting": {
+            "ar": "تمرين الرفعة المميتة (Deadlift).",
+            "en": "Deadlifts and back extensions."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة الطولى (Longissimus)",
+            "en": "Longissimus"
+          },
+          "description": {
+            "ar": "أكبر العضلات وأطولها، وهي الجزء الأوسط.",
+            "en": "The largest and longest, sitting in the middle column."
+          },
+          "targeting": {
+            "ar": "نفس تمارين التمديد والدعم، سكوات.",
+            "en": "Deadlifts and squats."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة الشوكية (Spinalis)",
+            "en": "Spinalis"
+          },
+          "description": {
+            "ar": "أقرب مجموعة للعمود الفقري (الداخلية).",
+            "en": "The most medial muscle group, attaching completely to the spine."
+          },
+          "targeting": {
+            "ar": "التمديد الآيزومتري وحركات الثبات.",
+            "en": "Isometric loading."
+          }
+        }
+      ],
+      "mechanics": {
+        "ar": "استقامة القوام ومد العمود الفقري لمقاومة الجاذبية والأوزان الثقيلة.",
+        "en": "Postural straightening and spinal extension resisting heavy gravitational loads."
+      }
+    },
+    {
+      "id": "hamstrings",
+      "title": {
+        "ar": "عضلات الفخذ الخلفية (الهامسترينجز)",
+        "en": "Hamstrings"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الأفخاذ وعضلات الأرجل",
+        "en": "Thighs & Legs"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 3,
+      "content": {
+        "ar": "• تتكون من ثلاث عضلات أساسية في الجزء الخلفي للفخذ.\n• مسؤولة عن ثني الركبة ومد الورك للوراء.\n• استهداف أساسي بتمارين الديدليفت الروماني (RDL) وجهاز ثني الفخذ الخلفي.",
+        "en": "• Made up of three major muscles on the posterior part of the thigh.\n• Primary drivers for knee flexion and hip extension.\n• Targeted with RDLs and seated/lying leg curls."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "العضلة ذات الرأسين الفخذية (Biceps Femoris)",
+            "en": "Biceps Femoris"
+          },
+          "description": {
+            "ar": "الجزء الخارجي لعضلة الهامسترينج، تمتلك رأساً قصيراً وطويلاً.",
+            "en": "The lateral part of the hamstring group with a long and short head."
+          },
+          "targeting": {
+            "ar": "تمرين ثني الركبة الخلفي (Leg Curls) لكلا الرأسين.",
+            "en": "Leg curls isolate both heads effectively."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة نصف الوترية (Semitendinosus)",
+            "en": "Semitendinosus"
+          },
+          "description": {
+            "ar": "تقع في المنتصف الداخلي.",
+            "en": "Medially situated muscle in the hamstring complex."
+          },
+          "targeting": {
+            "ar": "الديدليفت الروماني (RDL) يركز على تمدد هذه العضلة.",
+            "en": "RDLs and hip extensions."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة نصف الغشائية (Semimembranosus)",
+            "en": "Semimembranosus"
+          },
+          "description": {
+            "ar": "الأكثر عُمقاً وتقع بالأسفل والداخل.",
+            "en": "The deepest medial hamstring muscle."
+          },
+          "targeting": {
+            "ar": "نفس تمارين السحب الخلفية والـ RDL.",
+            "en": "Squats, lunges, and stiff-leg deadlifts."
+          }
+        }
+      ],
+      "jointsAndMotion": {
+        "ar": "مفصل الركبة (ثني) ومفصل الورك (مد).",
+        "en": "Knee joint (flexion) and Hip joint (extension)."
+      }
+    },
+    {
+      "id": "calves",
+      "title": {
+        "ar": "عضلة السمانة (Calves)",
+        "en": "Calves"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الأفخاذ وعضلات الأرجل",
+        "en": "Thighs & Legs"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 2,
+      "content": {
+        "ar": "• تتكون رئيسياً من العضلة التوأمية (Gastroc) وعضلة النعل (Soleus).\n• مسؤولة عن رفع الكعب (Dorsi/Plantar flexion).\n• يمكن استهدافها برفع الكعب واقفاً (التوأمية) أو جالساً (النعل).",
+        "en": "• Composed heavily of the Gastrocnemius and Soleus muscles.\n• Crucial for lifting the heel and stabilizing the lower leg.\n• Standing calf raises target the gastroc, seated raises engage the soleus."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "العضلة التوأمية الساقية (Gastrocnemius)",
+            "en": "Gastrocnemius"
+          },
+          "description": {
+            "ar": "العضلة الأكبر ذات رأسين وتكون الجزء الظاهر من السمانة، تقطع مفصل الركبة.",
+            "en": "The visible diamond-shaped mass intersecting the knee joint."
+          },
+          "targeting": {
+            "ar": "رفع الكعب واقفاً (Standing Calf Raises).",
+            "en": "Standing calf raises (knee straight)."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلة النعلية (Soleus)",
+            "en": "Soleus"
+          },
+          "description": {
+            "ar": "تقع أسفل التوأمية ولا تقطع مفصل الركبة، تتحمل الكثير من الوزن في المشي.",
+            "en": "Underneath the gastrocnemius, working as an extreme endurance muscle."
+          },
+          "targeting": {
+            "ar": "رفع الكعب جالساً حيث يتم إرخاء التوأمية.",
+            "en": "Seated calf raises (knee bent)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "serratus_anterior",
+      "title": {
+        "ar": "العضلة المنشارية الأمامية (Serratus Anterior)",
+        "en": "Serratus Anterior"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الصدر والجذع",
+        "en": "Chest & Core"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 1,
+      "content": {
+        "ar": "• عضلة توجد على الجدار الجانبي للصدر وتظهر كأصابع مسننة بين الأضلاع.\n• مسؤولة عن سحب لوح الكتف للأمام وإبقائه مستقراً (الملاكمة والبوش أب).\n• تُعرف بعضلة الملاكم وتضفي مظهراً جمالياً مذهلاً مع عضلات البطن.",
+        "en": "• A muscle located securely on the lateral aspect of the thorax.\n• Serves to protract the scapula globally (e.g. throwing a punch).\n• Known as the 'Boxer's Muscle' yielding strong, aesthetic rib contour."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "العضلة المنشارية",
+            "en": "Serratus Anterior"
+          },
+          "description": {
+            "ar": "تمتد كالأصابع المسننة على الجوانب العلوية للقفص الصدري.",
+            "en": "Serrated finger-like muscle wrapping the rib cage."
+          },
+          "targeting": {
+            "ar": "تمارين الدفع مثل (Push-up plus) واللكمات الأمامية.",
+            "en": "Scapular push-ups, ab rollouts, and punches."
+          }
+        }
+      ],
+      "mechanics": {
+        "ar": "سحب لوح الكتف للأمام والحد من بروزه الزائد (Scapular Winging).",
+        "en": "Protracts the scapula and holds it firmly against the rib cage to prevent winging."
+      }
+    },
+    {
+      "id": "teres_major",
+      "title": {
+        "ar": "العضلة المدورة الكبرى وشبه المنحرفة (Rhomboids & Teres)",
+        "en": "Rhomboids & Teres Major"
+      },
+      "category": {
+        "ar": "العضلات",
+        "en": "Muscles"
+      },
+      "subcategory": {
+        "ar": "الظهر",
+        "en": "Back"
+      },
+      "defaultImageUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a25f1?auto=format&fit=crop&q=80&w=400",
+      "numHeads": 2,
+      "content": {
+        "ar": "• العضلة المدورة الكبرى تسمى 'المساعد الصغير للاتس' وتقع أسفل الإبط/بجانب اللاتس.\n• العضلات المعينية (Rhomboids) تقع تحت الترابيس وتجمع لوحا الكتف بقوة نحو بعضهما.\n• يتم تدريبها وتوظيفها بشكل كامل في كافة تمارين سحب الظهر والتجديف.",
+        "en": "• Teres Major is often called the 'Lat's little helper', located right beside/under it.\n• Rhomboids sit beneath the traps to powerfully retract the scapulae.\n• Fully activated on all rowing and back pulling motions."
+      },
+      "heads": [
+        {
+          "name": {
+            "ar": "العضلة المدورة الكبرى (Teres Major)",
+            "en": "Teres Major"
+          },
+          "description": {
+            "ar": "تساعد مجنص الظهر في سحب الذراع وتمنح عرضاً إضافياً للظهر من الأعلى.",
+            "en": "Assists the lats in adduction, increasing upper back width visually."
+          },
+          "targeting": {
+            "ar": "تمرين السحب العالي والبول أوب.",
+            "en": "Lat pull-downs and pull-ups."
+          }
+        },
+        {
+          "name": {
+            "ar": "العضلات المعينية (Rhomboids)",
+            "en": "Rhomboids"
+          },
+          "description": {
+            "ar": "تشد لوح الكتف للداخل بقوة، تقع تحت الترابيس الوسطى.",
+            "en": "Deep muscles retracting the scapula forcefully."
+          },
+          "targeting": {
+            "ar": "تمارين التجديف وسحب الوجه (Face pulls).",
+            "en": "Rows and face-pulls."
+          }
+        }
+      ],
+      "jointsAndMotion": {
+        "ar": "مفصل الكتف للسحب، ومفصل اللوح المعتمد على القفص الصدري للضم.",
+        "en": "Scapulothoracic joint for retraction and glenohumeral joint for adduction."
+      }
+    },
+    {
+      "id": "bone_skull",
+      "title": {
+        "ar": "الجمجمة",
+        "en": "Skull (Cranium)"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Human_skull_front_bones.svg/800px-Human_skull_front_bones.svg.png",
+      "content": {
+        "ar": "الجمجمة هي البنية العظمية التي تحمي الدماغ وتدعم ملامح الوجه. تتكون من الجمجمة العصبية وعظام الوجه. لا ترتبط الجمجمة مباشرة بتمارين الحديد الثقيلة لكنها تحمي أهم جهاز حيوي (الجهاز العصبي المركزي).",
+        "en": "The cranium structure which defends the brain and shapes facial lines. While not heavily targeted directly via lifting, it houses the vital Central Nervous System."
+      }
+    },
+    {
+      "id": "bone_clavicle",
+      "title": {
+        "ar": "الترقوة",
+        "en": "Clavicle (Collarbone)"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Clavicle_-_anterior_view.png/800px-Clavicle_-_anterior_view.png",
+      "content": {
+        "ar": "الترقوة عظمة طويلة أفقية تعمل كدعامة بين لوح الكتف وعظمة القص. تلعب دوراً كبيراً في استقرار الكتف وميكانيكا التمارين الصدرية.",
+        "en": "A horizontal long bone serving as a strut between the shoulder blade and the sternum. Highly functional for stabilizing chest presses."
+      }
+    },
+    {
+      "id": "bone_scapula",
+      "title": {
+        "ar": "لوح الكتف",
+        "en": "Scapula (Shoulder Blade)"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Scapula_-_posterior_view.png/800px-Scapula_-_posterior_view.png",
+      "content": {
+        "ar": "عظمة مثلثة مسطحة في ظهر الجدار الصدري. هي قاعدة انطلاق لغالبية عضلات الظهر (اللاتس، الترابيس) ومركز دوران الذراع في الكتف.",
+        "en": "A flat, triangular bone located dynamically strictly on the back chest wall. It is the absolute anchor point for latissimus and traps action."
+      }
+    },
+    {
+      "id": "bone_humerus",
+      "title": {
+        "ar": "العضد",
+        "en": "Humerus"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Humerus_-_anterior_view.png/800px-Humerus_-_anterior_view.png",
+      "content": {
+        "ar": "أطول عظام الطرف العلوي المجوفة، ترتبط بالكتف من الأعلى وبالكوع من الأسفل. توفر نقاط الاندغام لأساسيات البايسبس والترايسبس.",
+        "en": "The long foundational bone of the upper arm, granting structural attachments for both the triceps and biceps architecture."
+      }
+    },
+    {
+      "id": "bone_radius_ulna",
+      "title": {
+        "ar": "الكعبرة والزند",
+        "en": "Radius & Ulna"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Radius_and_ulna_anterior_view.png/800px-Radius_and_ulna_anterior_view.png",
+      "content": {
+        "ar": "عظمتان تكونان الساعد. الكعبرة في جهة الإبهام وتدور حول الزند (الذي يوفر عمق مفصل الكوع)، مما يسمح بلف معصم اليد المستمر للداخل والخارج.",
+        "en": "Two structural bones establishing your forearm. The radius pivots precisely around the robust ulna, enabling functional supination/pronation."
+      }
+    },
+    {
+      "id": "bone_sternum_ribs",
+      "title": {
+        "ar": "القص والأضلاع",
+        "en": "Sternum & Ribs"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thoracic_cage.png/800px-Thoracic_cage.png",
+      "content": {
+        "ar": "عظمة القص عظمة مسطحة ترتبط بها الأضلاع لحماية القلب والرئتين. تمد هذه العظام عضلات الصدر (Biceps/Pecs) بنقطة ارتكاز أولية وثابتة.",
+        "en": "The sternum flat bone anchoring the protective rib cage ribs. Key central fulcrum generating rigid support for the pec major."
+      }
+    },
+    {
+      "id": "bone_spine",
+      "title": {
+        "ar": "العمود الفقري",
+        "en": "Vertebral Column (Spine)"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gray_111_-_Vertebral_column.png/800px-Gray_111_-_Vertebral_column.png",
+      "content": {
+        "ar": "٣٣ فقرة عظمية تشكل المحور الهيكلي للجسم. ينقسم لفقرات عنقية، صدرية، قطنية (أسفل الظهر)، وعجزية وعصعصية. القطنية تتحمل أكبر عبء ثقالي أثناء التمرين (Squat/Deadlift).",
+        "en": "33 articulating bones yielding dynamic trunk protection and movement. The lumbar region bears extreme heavy loads during squats."
+      }
+    },
+    {
+      "id": "bone_pelvis",
+      "title": {
+        "ar": "الحوض",
+        "en": "Pelvis"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pelvis_diagram.png/800px-Pelvis_diagram.png",
+      "content": {
+        "ar": "البنية العظمية الحلقية التي تربط العمود الفقري بالأطراف السفلية. يوفر الحوض نقطة ارتكاز قوية لمعظم عضلات الجزء السفلي (كالألوية والكوادز).",
+        "en": "The bony heavy ring uniting the spine down to the leg extremities. Provides immense anchor strength for glutes and quads."
+      }
+    },
+    {
+      "id": "bone_femur",
+      "title": {
+        "ar": "عظمة الفخذ",
+        "en": "Femur"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Femur_-_anterior_view.png/800px-Femur_-_anterior_view.png",
+      "content": {
+        "ar": "أطول وأثقل وأقوى عظمة في جسم الإنسان. تنقل وزن الجسم وتتحمل ضغوط ميكانيكية ضخمة في تمارين السكوات.",
+        "en": "The absolute longest and heaviest bone in human anatomy. Supports maximum biomechanical stress during squats directly."
+      }
+    },
+    {
+      "id": "bone_patella",
+      "title": {
+        "ar": "الرضفة (صابونة الركبة)",
+        "en": "Patella (Kneecap)"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Knee_diagram.png/800px-Knee_diagram.png",
+      "content": {
+        "ar": "عظمة دائرية صغيرة مضمنة داخل وتر العضلة الرباعية (الكوادز). تعمل كبَكَرة تزيد فاعلية الرفع والتمديد بمفصل الركبة.",
+        "en": "A small sesamoid bone embedded flawlessly into the quad tendon. Acts as a robust pulley amplifying total leg extension efficiency."
+      }
+    },
+    {
+      "id": "bone_tibia_fibula",
+      "title": {
+        "ar": "قصبة الساق والشظية",
+        "en": "Tibia & Fibula"
+      },
+      "category": {
+        "ar": "العظام",
+        "en": "Bones"
+      },
+      "defaultImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Tibia_and_fibula_-_anterior_view.png/800px-Tibia_and_fibula_-_anterior_view.png",
+      "content": {
+        "ar": "قصبة الساق (Tibia) تحمل معظم وزن الجسم، والشظية (Fibula) هي العظمة الجانبية النحيفة بجوارها. عضلات السمانة ترتبط بقوة في نقطة الوصل العلوية والخلفية لهما.",
+        "en": "The thick Tibia bears massive gravity loads while the lateral thinner Fibula stabilizes ankle sockets safely, anchoring the calf masses."
+      }
+    }
+  ]
+}

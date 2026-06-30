@@ -1,0 +1,424 @@
+{
+  "tips": [
+    {
+      "ar": "شرب الماء باستمرار يحسن من أدائك الرياضي.",
+      "en": "Drinking water consistently improves your athletic performance."
+    },
+    {
+      "ar": "النوم الكافي (7-9 ساعات) هو وقت بناء العضلات والتعافي.",
+      "en": "Adequate sleep (7-9 hours) is when muscle building and recovery happens."
+    },
+    {
+      "ar": "الإحماء الديناميكي قبل التمرين يقلل من خطر الإصابة.",
+      "en": "Dynamic warm-up before exercise reduces the risk of injury."
+    },
+    {
+      "ar": "التنفس الصحيح أثناء التمرين: زفير عند المجهود الجسدي.",
+      "en": "Proper breathing during exercise: exhale during the physical exertion."
+    },
+    {
+      "ar": "الاستمرارية أهم بكثير من شدة التمرين المتقطعة.",
+      "en": "Consistency is much more important than sporadic workout intensity."
+    },
+    {
+      "ar": "لا تهمل تمارين التمدد (الكارديو) للحفاظ على صحة القلب.",
+      "en": "Don't neglect cardio exercises to maintain heart health."
+    },
+    {
+      "ar": "أداء التمرين بمدى حركي كامل يفعل الألياف العضلية بشكل أفضل.",
+      "en": "Performing an exercise with a full range of motion activates muscle fibers better."
+    },
+    {
+      "ar": "التركيز الذهني (Mind-Muscle Connection) يزيد من كفاءة التمرين.",
+      "en": "The mind-muscle connection increases the efficiency of the workout."
+    },
+    {
+      "ar": "لا تعتمد على المكملات وتنسى وجباتك الأساسية المتوازنة.",
+      "en": "Don't rely on supplements and forget your basic balanced meals."
+    },
+    {
+      "ar": "أيام الراحة ضرورية لتطور العضلات، فلا تتجاهلها.",
+      "en": "Rest days are essential for muscle development, don't skip them."
+    },
+    {
+      "ar": "الكربوهيدرات هي الوقود الأساسي لجسمك قبل التمرين القوي.",
+      "en": "Carbs are the primary fuel for your body before a heavy workout."
+    },
+    {
+      "ar": "البروتين ضروري لإصلاح الألياف العضلية التالفة بعد التمرين.",
+      "en": "Protein is essential to repair damaged muscle fibers after a workout."
+    },
+    {
+      "ar": "التدرج في زيادة الأوزان يمنع ثبات المستوى.",
+      "en": "Progressive overload prevents plateauing."
+    },
+    {
+      "ar": "تمرين العضلات الضعيفة أولاً يضمن إعطاءها أقصى طاقة.",
+      "en": "Training weak muscles first ensures they get maximum energy."
+    },
+    {
+      "ar": "الاهتمام بنظافة أدوات الجيم يحميك من العدوى الجلدية.",
+      "en": "Keeping gym equipment clean protects you from skin infections."
+    },
+    {
+      "ar": "التحكم في الوزن أثناء النزول يبني القوة ويزيد من التمزق العضلي الإيجابي.",
+      "en": "Controlling the weight during the eccentric phase builds strength and increases positive muscle breakdown."
+    },
+    {
+      "ar": "لا تقارن نفسك بالآخرين، ركز فقط على أدائك وتطورك.",
+      "en": "Don't compare yourself to others, focus only on your performance and progress."
+    },
+    {
+      "ar": "التخطيط المسبق لوجباتك يقلل من احتمالية الغش في الدايت.",
+      "en": "Pre-planning your meals reduces the likelihood of cheating on your diet."
+    },
+    {
+      "ar": "تمرين الظهر ضروري لتحسين القوام وعكس تأثير الجلوس الطويل.",
+      "en": "Back training is essential for improving posture and reversing the effects of prolonged sitting."
+    },
+    {
+      "ar": "الألياف الغذائية في الخضروات تحسن الهضم وامتصاص العناصر.",
+      "en": "Dietary fiber in vegetables improves digestion and nutrient absorption."
+    },
+    {
+      "ar": "استمع لجسدك: إذا شعرت بألم حاد غير طبيعي، توقف فوراً.",
+      "en": "Listen to your body: if you feel sharp unusual pain, stop immediately."
+    },
+    {
+      "ar": "تناول وجبة غنية بالبروتين والكربوهيدرات بعد التمرين أمر مثالي.",
+      "en": "Having a meal rich in protein and carbs after your workout is ideal."
+    },
+    {
+      "ar": "التنويع في زوايا التمرين يستهدف أجزاء مختلفة من العضلة.",
+      "en": "Varying exercise angles targets different parts of the muscle."
+    },
+    {
+      "ar": "السكوات هو ملك تمارين الأرجل، فلا تستغني عنه إذا كان مناسباً لك.",
+      "en": "Squat is the king of leg exercises, don't skip it if it's suitable for you."
+    },
+    {
+      "ar": "الإفراط في التدريب (Overtraining) يؤدي إلى هدم العضلات بدلاً من بنائها.",
+      "en": "Overtraining leads to muscle breakdown instead of building."
+    },
+    {
+      "ar": "تسجيل أوزانك وتدريباتك يساعدك على معرفة مدى تطورك.",
+      "en": "Tracking your weights and workouts helps you see your progress."
+    },
+    {
+      "ar": "تمارين الإطالة الثابتة (Static Stretching) يفضل تأجيلها لبعد التمرين.",
+      "en": "Static stretching is best left for after your workout."
+    },
+    {
+      "ar": "الدهون الصحية مهمة جداً لإنتاج هرمون التستوستيرون الطبيعي.",
+      "en": "Healthy fats are crucial for natural testosterone production."
+    },
+    {
+      "ar": "توقع أسابيع سيئة، المهم أن تستمر في الذهاب وتأدية ما تستطيع.",
+      "en": "Expect bad weeks, the key is to keep going and do what you can."
+    },
+    {
+      "ar": "المحافظة على استقامة الظهر أثناء رفع الأوزان يحمي عمودك الفقري.",
+      "en": "Keeping your back straight while lifting weights protects your spine."
+    },
+    {
+      "ar": "الحزام الرياضي ليس سحرا، اعتمد أولاً على تقوية عضلات الجذع (الكور).",
+      "en": "Weight belts aren't magic, focus first on strengthening your core muscles."
+    },
+    {
+      "ar": "احذر من استخدام الموبايل لفترات طويلة بين المجموعات الرياضية.",
+      "en": "Beware of using your phone for long periods between sets."
+    },
+    {
+      "ar": "استخدام الدامبلز يساعد في علاج عدم التناسق العضلي بين الجهتين.",
+      "en": "Using dumbbells helps correct muscular imbalances between both sides."
+    },
+    {
+      "ar": "السحب العكسي (Pull-ups) تمرين ممتاز لبناء قوة الظهر الحقيقية.",
+      "en": "Pull-ups are an excellent exercise for building true back strength."
+    },
+    {
+      "ar": "تجنب الأكل بشراهة في يومك المفتوح (Cheat Meal) لكي لا تدمر مجهود الأسبوع.",
+      "en": "Avoid binge eating on your cheat meal so you don't ruin the week's effort."
+    },
+    {
+      "ar": "شرب الكافيين (القهوة) قبل الجيم يمكن أن يعزز طاقتك وتركيزك.",
+      "en": "Drinking caffeine (coffee) before the gym can boost your energy and focus."
+    },
+    {
+      "ar": "لا تعتمد فقط على الميزان، المرآة وقياسات الجسم أفضل مؤشر.",
+      "en": "Don't rely just on the scale, the mirror and body measurements are better indicators."
+    },
+    {
+      "ar": "تعلم الأداء الحركي الصحيح قبل الاهتمام بزيادة الوزن.",
+      "en": "Learn proper exercise form before focusing on increasing weight."
+    },
+    {
+      "ar": "الراحة بين المجموعات (1-3 دقائق) ضرورية لاسترجاع الطاقة القصوى.",
+      "en": "Rest between sets (1-3 mins) is necessary to recover maximum energy."
+    },
+    {
+      "ar": "تناول الأطعمة الغنية بالبوتاسيوم (كالموز) يقلل من التشنجات العضلية.",
+      "en": "Eating potassium-rich foods (like bananas) reduces muscle cramps."
+    },
+    {
+      "ar": "الثبات الانفعالي والالتزام بجدولك طريقك الأكيد للوصول להدفك.",
+      "en": "Emotional stability and sticking to your schedule is your sure path to your goal."
+    },
+    {
+      "ar": "لا تهمل تمارين الأرجل، فهي تحفز نمو الجسم بالكامل.",
+      "en": "Don't skip leg day, it stimulates full-body growth."
+    },
+    {
+      "ar": "تقوية عضلة القلب بالكارديو يحسن من قدرتك على رفع الأثقال.",
+      "en": "Strengthening your heart with cardio improves your ability to lift weights."
+    },
+    {
+      "ar": "تناول الفيتامينات والمعادن الضرورية يضمن كفاءة أجهزة جسمك.",
+      "en": "Consuming essential vitamins and minerals ensures the efficiency of your body systems."
+    },
+    {
+      "ar": "التمارين المركبة (Multi-joint) تحرق سعرات حرارية أكثر من تمارين العزل.",
+      "en": "Compound exercises burn more calories than isolation exercises."
+    },
+    {
+      "ar": "الكفاءة في الجيم تقاس بجودة المجموعات وليس بمدة بقائك فيه.",
+      "en": "Gym efficiency is measured by the quality of sets, not how long you stay."
+    },
+    {
+      "ar": "النوم في بيئة مظلمة وباردة يحسن جودة التعافي بشكل كبير.",
+      "en": "Sleeping in a dark, cool environment greatly improves recovery quality."
+    },
+    {
+      "ar": "تعزيز ثقتك بنفسك يبدأ من التزامك بما وعدت به نفسك.",
+      "en": "Building your self-confidence starts with keeping the promises you make to yourself."
+    },
+    {
+      "ar": "التوقف المفاجئ بعد المجهود العالي مضر، قم بتهدئة الجسم تدريجياً.",
+      "en": "Sudden stops after high exertion are harmful, cool down gradually."
+    },
+    {
+      "ar": "إعداد حقيبة الجيم الرياضية مسبقاً يقلل من أعذار الكسل.",
+      "en": "Packing your gym bag beforehand reduces lazy excuses."
+    },
+    {
+      "ar": "لا تتجاهل آلام المفاصل العميقة، فقد تكون بداية لإصابة خطيرة.",
+      "en": "Don't ignore deep joint pains, it might be the start of a serious injury."
+    },
+    {
+      "ar": "التنويع في مصادر البروتين يضمن حصولك على جميع الأحماض الأمينية.",
+      "en": "Varying protein sources ensures you get all essential amino acids."
+    },
+    {
+      "ar": "تجنب تناول السكر الأبيض للحفاظ على مستويات طاقة مستقرة.",
+      "en": "Avoid white sugar to maintain stable energy levels."
+    },
+    {
+      "ar": "المشي اليومي لـ 10 آلاف خطوة نشاط بدني رائع بجانب الجيم.",
+      "en": "Walking 10k steps daily is a great physical activity alongside the gym."
+    },
+    {
+      "ar": "الاستحمام بماء بارد بعد التمرين العنيف يقلل من التهاب العضلات.",
+      "en": "Cold showers after intense workouts reduce muscle inflammation."
+    },
+    {
+      "ar": "تمرين البلانك يقوي جميع عضلات مركز الجسم بفاعلية شديدة.",
+      "en": "Planks strengthen all core muscles extremely effectively."
+    },
+    {
+      "ar": "الروتين القاتل هو عدو التطور، غير برنامجك التدريبي والغذائي كل فترة.",
+      "en": "A dead routine is the enemy of progress; change your training and diet program periodically."
+    },
+    {
+      "ar": "الصدق مع نفسك بشأن سعراتك الحرارية هو سر التغيير الجذري.",
+      "en": "Being honest with yourself about your calories is the secret to radical change."
+    },
+    {
+      "ar": "تمرين السمانة يحتاج لأوزان ثقيلة ومدى حركي كامل لكي ينمو.",
+      "en": "Calf training requires heavy weights and full range of motion to grow."
+    },
+    {
+      "ar": "الكثافة التدريبية العالية (Drop-sets/Super-sets) تكسر حاجز الثبات.",
+      "en": "High training density (Drop-sets/Super-sets) breaks the plateau barrier."
+    },
+    {
+      "ar": "الصيام المتقطع أداة ممتازة للتحكم في الجوع وتقليل السعرات.",
+      "en": "Intermittent fasting is an excellent tool to control hunger and reduce calories."
+    },
+    {
+      "ar": "احرص على أداء تمارين الكارديو بعد الأوزان لكي لا تستنفذ طاقتك.",
+      "en": "Make sure to do cardio after weights so you don't deplete your energy."
+    },
+    {
+      "ar": "التوتر المزمن (الضغط العصبي) يعيق خسارة الدهون بسبب الكورتيزول.",
+      "en": "Chronic stress hinders fat loss due to cortisol."
+    },
+    {
+      "ar": "وجبة الإفطار ليست الأهم، لكنها تحدد مسار طاقتك خلال اليوم.",
+      "en": "Breakfast isn't the most important, but it sets your energy course for the day."
+    },
+    {
+      "ar": "التدريب مع شريك في الجيم يزيد من دافعيتك وحماسك.",
+      "en": "Training with a gym partner increases your motivation and enthusiasm."
+    },
+    {
+      "ar": "لا تستخدم الأوزان الثقيلة كعذر الحركات الخاطئة المتهورة (Ego Lifting).",
+      "en": "Don't use heavy weights as an excuse for reckless, bad form (Ego Lifting)."
+    },
+    {
+      "ar": "الموسيقى المفضلة في الجيم تزيد من قدرتك على التحمل بنسبة كبيرة.",
+      "en": "Your favorite gym music significantly increases your endurance."
+    },
+    {
+      "ar": "تعويض الإلكتروليتات (صوديوم وبوتاسيوم) مهم جداً مع كثرة التعرق.",
+      "en": "Replacing electrolytes (sodium & potassium) is very important with heavy sweating."
+    },
+    {
+      "ar": "تمرين الرقبة بطريقة صحيحة يقلل من آلام الديسك والصداع.",
+      "en": "Training your neck correctly reduces disc pain and headaches."
+    },
+    {
+      "ar": "تقوس الظهر أثناء تمرين الديدليفت خطأ شائع قد يدمر ظهرك.",
+      "en": "Rounding your back during deadlifts is a common mistake that can ruin your back."
+    },
+    {
+      "ar": "شرب الماء الكافي يعطي حجماً أكبر للعضلة (لأنها تتكون من 70% ماء).",
+      "en": "Drinking enough water gives the muscle more volume (since it's ~70% water)."
+    },
+    {
+      "ar": "تمرين العضلات الخلفية للكتف يقي من التقوس الأمامي والمظهر المحدب.",
+      "en": "Training the rear deltoids prevents forward rounding and a hunched appearance."
+    },
+    {
+      "ar": "الشوفان مصدر ممتاز للكربوهيدرات المعقدة طويلة الأمد.",
+      "en": "Oats are an excellent source of long-lasting complex carbohydrates."
+    },
+    {
+      "ar": "الكرياتين هو من أكثر المكملات أماناً وفعالية لزيادة قوة التحمل.",
+      "en": "Creatine is one of the safest and most effective supplements for stamina."
+    },
+    {
+      "ar": "تخطي أيام الراحة يبقي جسدك في حالة هدم مستمر، استرح لتنمو.",
+      "en": "Skipping rest days keeps your body in a constant catabolic state; rest to grow."
+    },
+    {
+      "ar": "العصائر الطبيعية مليئة بالسعرات السائلة المخفية، تناول الفاكهة كاملة أفضل.",
+      "en": "Natural juices are full of hidden liquid calories; eating whole fruit is better."
+    },
+    {
+      "ar": "لا تحذف الكربوهيدرات تماماً من نظامك، عقلك وجسمك يحتاجانها للعمل بكفاءة.",
+      "en": "Don't completely cut carbs from your diet; your brain and body need them to work efficiently."
+    },
+    {
+      "ar": "الأحذية مسطحة النعل تفضل في تمارين القرفصاء والديدليفت لتحقيق الاستقرار والحفاظ على الثبات.",
+      "en": "Flat-soled shoes are preferred in squats and deadlifts to maintain balance and stability."
+    },
+    {
+      "ar": "الشدة والالتزام تتغلب دائمًا على الجينات.",
+      "en": "Intensity and commitment always beat genetics."
+    },
+    {
+      "ar": "النجاح في صالة الألعاب الرياضية يعتمد على الصبر، النتائج تستغرق وقتًا.",
+      "en": "Gym success relies on patience; results take time."
+    },
+    {
+      "ar": "النوم والراحة هما المكان الذي ينمو فيه العضل.",
+      "en": "Sleep and rest are where your muscles grow."
+    },
+    {
+      "ar": "تحسين جودة أدائك للتمرين أهم من الأوزان الكبيرة.",
+      "en": "Improving the quality of your exercise performance is more important than heavy weights."
+    },
+    {
+      "ar": "اختر تمارين العزل لاستهداف العضلات التي تقصر في نموها.",
+      "en": "Choose isolation exercises to target lagging muscles."
+    },
+    {
+      "ar": "ابدأ بتسخين المفاصل الدوارة لتجنب الإصابات المزعجة.",
+      "en": "Start by warming up your rotary joints to avoid annoying injuries."
+    },
+    {
+      "ar": "شرب كوب من القهوة السادة قبل التمرين يمكن أن يحسن تركيزك.",
+      "en": "Drinking a cup of black coffee before your workout can improve your focus."
+    },
+    {
+      "ar": "التمدد بالبكرة (Foam Rolling) يساعد في التخلص من شد اللفافة العضلية.",
+      "en": "Foam rolling helps release myofascial tightness."
+    },
+    {
+      "ar": "الحفاظ على ترطيب الجسم هو الحل للوقاية من التمزقات العضلية المزعجة.",
+      "en": "Maintaining hydration is key to preventing annoying muscle tears."
+    },
+    {
+      "ar": "الاستشفاء النشط (المشي الخفيف، اليوجا) يمكن أن يساعد في التعافي بعد الأيام الشاقة.",
+      "en": "Active recovery (light walking, yoga) can aid recovery after tough days."
+    },
+    {
+      "ar": "تناول بروتين الكازين قبل النوم يوفر تغذية مستمرة للعضلات أثناء الراحة.",
+      "en": "Taking casein protein before bed provides sustained nourishment to muscles while resting."
+    },
+    {
+      "ar": "احذر من المكملات العشوائية المنتشرة عبر الإنترنت، التزم بالأساسيات المدروسة علمياً.",
+      "en": "Beware of random online supplements; stick to scientifically studied basics."
+    },
+    {
+      "ar": "قم بتبديل زاوية انحدار مقعد التمرين لاستهداف أجزاء الصدر العلوية والسفلية.",
+      "en": "Adjust the incline of the bench to target upper and lower chest portions."
+    },
+    {
+      "ar": "ممارسة تمارين التوازن (Balance) تعزز من قوة العضلات الداعمة.",
+      "en": "Practicing balance exercises boosts the strength of stabilizing muscles."
+    },
+    {
+      "ar": "البروتين النباتي مفيد، ولكن احرص على دمج المصادر للحصول على أحماض أمينية متكاملة.",
+      "en": "Plant protein is useful, but mix sources to get a complete amino acid profile."
+    },
+    {
+      "ar": "تقليل وقت الشاشات قبل النوم بـ 30 دقيقة يساعد على إفراز الميلاتونين وتعميق النوم.",
+      "en": "Reducing screen time 30 mins before bed helps melatonin release and deepens sleep."
+    },
+    {
+      "ar": "احرص على أداء كل تمرين ببطء أثناء النزول (العد السلبي) لتحقيق تمزق عضلي أفضل.",
+      "en": "Perform the eccentric (lowering) phase slowly for better muscle breakdown."
+    },
+    {
+      "ar": "تدليك العضلات (Massage) يحسن الدورة الدموية ويطرد حمض اللاكتيك المتراكم.",
+      "en": "Muscle massage improves blood circulation and clears built-up lactic acid."
+    },
+    {
+      "ar": "لا تستسلم بعد الانقطاع لفترة، العضلات تمتلك ذاكرة (Muscle Memory) ستساعدك سريعاً.",
+      "en": "Don't give up after a break; muscles have memory and you will bounce back quickly."
+    },
+    {
+      "ar": "النظام الغذائي الجيد لا يعني الحرمان بل الرقابة والتوازن الذكي والمستمر.",
+      "en": "A good diet doesn't mean starvation, but smart and continuous balance."
+    },
+    {
+      "ar": "لا تضحي بالمدى الحركي للاستعراض بأوزان لا تستطيع التحكم بها.",
+      "en": "Don't sacrifice range of motion to flex with weights you can't control."
+    },
+    {
+      "ar": "ألم الاستشفاء العضلي المعتدل (DOMS) دليل طبيعي على الجهد الدائم والصحيح.",
+      "en": "Moderate delayed onset muscle soreness (DOMS) is a normal sign of proper effort."
+    },
+    {
+      "ar": "ركز على انقباض العضلة وليس فقط تحريك الوزن من أ إلى ب.",
+      "en": "Focus on contracting the muscle, not just moving the weight from A to B."
+    },
+    {
+      "ar": "كل بطل كان في البداية مبتدئًا يرفض الاستسلام للفشل المستمر، استمر.",
+      "en": "Every champion was once a beginner who refused to give up. Keep going."
+    },
+    {
+      "ar": "خذ يوم راحة أسبوعي تام إذا لزم الأمر لمنع إرهاق الجهاز العصبي المركزي.",
+      "en": "Take a full rest day weekly if needed to prevent central nervous system fatigue."
+    },
+    {
+      "ar": "زيادة الملح الصحي قبل التمرين تساعد على التورد العضلي الكامل والضخامة الفائقة (Pump).",
+      "en": "Adding healthy salt before your workout aids in extreme muscle fullness (Pump)."
+    },
+    {
+      "ar": "رحلتك الرياضية هي استثمار طويل الأمد في صحتك للشيخوخة وليس مجرد صيف واحد.",
+      "en": "Your fitness journey is a long-term investment in your health, not a summer fling."
+    }
+  ]
+}

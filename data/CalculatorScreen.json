@@ -1,0 +1,176 @@
+{
+  "screen": "CalculatorScreen",
+  "defaultValues": {
+    "gender": "male",
+    "weight": 75,
+    "height": 175,
+    "age": 25,
+    "activityLevelIndex": 2,
+    "goalIndex": 1
+  },
+  "activityLevels": [
+    {
+      "id": "Sedentary",
+      "labels": {
+        "en": "Sedentary (Little to no exercise)",
+        "ar": "خامل (بدون تمرين تقريباً)"
+      },
+      "multiplier": 1.2
+    },
+    {
+      "id": "Lightly",
+      "labels": {
+        "en": "Lightly Active (1-3 days/week)",
+        "ar": "نشاط خفيف (تمرين 1-3 أيام)"
+      },
+      "multiplier": 1.375
+    },
+    {
+      "id": "Moderately",
+      "labels": {
+        "en": "Moderately Active (3-5 days/week)",
+        "ar": "نشاط ديناميكي (تمرين 3-5 أيام)"
+      },
+      "multiplier": 1.55
+    },
+    {
+      "id": "Very",
+      "labels": {
+        "en": "Very Active (6-7 days/week)",
+        "ar": "نشاط مرتفع (تمرين 6-7 أيام)"
+      },
+      "multiplier": 1.725
+    },
+    {
+      "id": "Extra",
+      "labels": {
+        "en": "Extra Active (Hard physical job/sports)",
+        "ar": "نشاط فائق (وظيفة شاقة وتدريب مكثف)"
+      },
+      "multiplier": 1.9
+    }
+  ],
+  "goalOptions": [
+    {
+      "id": "Cutting",
+      "labels": {
+        "en": "Cutting (Fat Loss)",
+        "ar": "تنشيف (خسارة الدهون)"
+      },
+      "caloricOffset": -500
+    },
+    {
+      "id": "Maintenance",
+      "labels": {
+        "en": "Maintenance",
+        "ar": "ثبات الوزن"
+      },
+      "caloricOffset": 0
+    },
+    {
+      "id": "Bulking",
+      "labels": {
+        "en": "Bulking (Muscle Gain)",
+        "ar": "تضخيم (بناء العضلات)"
+      },
+      "caloricOffset": 500
+    }
+  ],
+  "calculation": {
+    "formula": "Mifflin-St Jeor",
+    "bmr": {
+      "male": "(10 * weight) + (6.25 * height) - (5 * age) + 5",
+      "female": "(10 * weight) + (6.25 * height) - (5 * age) - 161"
+    },
+    "tdee": "bmr * activityMultiplier",
+    "finalCalories": "tdee + goalOffset",
+    "macros": {
+      "protein": {
+        "unit": "grams",
+        "formula": "weight * 2.2"
+      },
+      "fats": {
+        "unit": "grams",
+        "formula": "(finalCalories * 0.25) / 9"
+      },
+      "carbs": {
+        "unit": "grams",
+        "formula": "(finalCalories - (protein * 4) - (fats * 9)) / 4"
+      }
+    }
+  },
+  "strings": {
+    "calculatorTitle": {
+      "ar": "حاسبة السعرات",
+      "en": "Calories Calculator"
+    },
+    "calcGender": {
+      "ar": "الجنس",
+      "en": "Gender"
+    },
+    "calcMale": {
+      "ar": "ذكر",
+      "en": "Male"
+    },
+    "calcFemale": {
+      "ar": "أنثى",
+      "en": "Female"
+    },
+    "calcWeight": {
+      "ar": "الوزن (كجم)",
+      "en": "Weight (kg)"
+    },
+    "calcHeight": {
+      "ar": "الطول (سم)",
+      "en": "Height (cm)"
+    },
+    "calcAge": {
+      "ar": "العمر",
+      "en": "Age"
+    },
+    "calcActivity": {
+      "ar": "مستوى النشاط",
+      "en": "Activity Level"
+    },
+    "calcGoal": {
+      "ar": "الهدف",
+      "en": "Goal"
+    },
+    "calcCutting": {
+      "ar": "تنشيف",
+      "en": "Cutting"
+    },
+    "calcMaintenance": {
+      "ar": "ثبات",
+      "en": "Maintenance"
+    },
+    "calcBulking": {
+      "ar": "تضخيم",
+      "en": "Bulking"
+    },
+    "calcCalculate": {
+      "ar": "احسب",
+      "en": "Calculate"
+    },
+    "calcResultTitle": {
+      "ar": "احتياجاتك اليومية",
+      "en": "Your Daily Needs"
+    },
+    "calcKcal": {
+      "ar": "سعرة حرارية",
+      "en": "kcal"
+    },
+    "calcProtein": {
+      "ar": "بروتين",
+      "en": "Protein"
+    },
+    "calcCarbs": {
+      "ar": "كربوهيدرات",
+      "en": "Carbs"
+    },
+    "calcFats": {
+      "ar": "دهون",
+      "en": "Fats"
+    }
+  }
+}

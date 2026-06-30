@@ -1,0 +1,1290 @@
+{
+  "questions": [
+    {
+      "id": "Q001",
+      "category": "Anatomy",
+      "topic": "Triceps",
+      "text": {
+        "ar": "ما هي العضلة المسؤولة بشكل رئيسي عن مد مفصل الكوع؟",
+        "en": "What is the primary muscle responsible for elbow extension?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الترايسبس", "en": "Triceps" },
+        { "ar": "البايسبس", "en": "Biceps" },
+        { "ar": "الدالية", "en": "Deltoids" },
+        { "ar": "الصدرية", "en": "Pectoralis" }
+      ],
+      "correctAnswer": { "ar": "الترايسبس", "en": "Triceps" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["triceps", "elbow", "extension", "muscle"]
+    },
+    {
+      "id": "Q002",
+      "category": "Anatomy",
+      "topic": "Biceps",
+      "text": {
+        "ar": "ما هي العضلة الأساسية المسؤولة عن ثني مفصل الكوع؟",
+        "en": "What is the primary muscle responsible for elbow flexion?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "البايسبس", "en": "Biceps" },
+        { "ar": "الترايسبس", "en": "Triceps" },
+        { "ar": "الظهر", "en": "Latissimus Dorsi" },
+        { "ar": "الساعد", "en": "Forearms" }
+      ],
+      "correctAnswer": { "ar": "البايسبس", "en": "Biceps" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["biceps", "elbow", "flexion", "muscle"]
+    },
+    {
+      "id": "Q003",
+      "category": "Anatomy",
+      "topic": "Ligaments",
+      "text": {
+        "ar": "أي مما يلي ييربط العظام بالعظام ويوفر استقراراً للمفصل؟",
+        "en": "Which of the following connects bone to bone and provides joint stability?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الرباط (Ligament)", "en": "Ligament" },
+        { "ar": "الوتر (Tendon)", "en": "Tendon" },
+        { "ar": "اللفافة", "en": "Fascia" },
+        { "ar": "الغضروف", "en": "Cartilage" }
+      ],
+      "correctAnswer": { "ar": "الرباط (Ligament)", "en": "Ligament" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["ligament", "joint", "stability", "connective tissue"]
+    },
+    {
+      "id": "Q004",
+      "category": "Anatomy",
+      "topic": "Tendons",
+      "text": {
+        "ar": "أي من الأنسجة التالية يربط العضلات بالعظام؟",
+        "en": "Which of the following tissues connects muscles to bones?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الوتر (Tendon)", "en": "Tendon" },
+        { "ar": "الرباط (Ligament)", "en": "Ligament" },
+        { "ar": "الغضروف", "en": "Cartilage" },
+        { "ar": "اللفافة العميقة", "en": "Deep Fascia" }
+      ],
+      "correctAnswer": { "ar": "الوتر (Tendon)", "en": "Tendon" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["tendon", "muscle", "bone", "connective tissue"]
+    },
+    {
+      "id": "Q005",
+      "category": "Anatomy",
+      "topic": "Quadriceps",
+      "text": {
+        "ar": "تمرين السكوات (الجلوس الخلفي) يستهدف بشكل أساسي أي مجموعة عضلية؟",
+        "en": "Squats primarily target which main muscle group?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "العضلات الرباعية للفخذ (Quads)", "en": "Quadriceps (Quads)" },
+        { "ar": "الظهر سفلي", "en": "Lower Back" },
+        { "ar": "السمانة", "en": "Calves" },
+        { "ar": "المجص", "en": "Lats" }
+      ],
+      "correctAnswer": { "ar": "العضلات الرباعية للفخذ (Quads)", "en": "Quadriceps (Quads)" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["squat", "quads", "legs", "exercise"]
+    },
+    {
+      "id": "Q006",
+      "category": "Training",
+      "topic": "Squat Form",
+      "text": {
+        "ar": "ما هو الخطأ الشائع عند أداء تمرين السكوات بالنسبة للركبة؟",
+        "en": "What is a common error regarding the knees during a squat?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "دخول الركبتين للداخل (Knee Valgus)", "en": "Knees caving in (Knee Valgus)" },
+        { "ar": "إبقاء الركبة خلف أصابع القدم", "en": "Keeping knees behind toes" },
+        { "ar": "النزول الهادئ والمحكم", "en": "Controlled smooth descent" },
+        { "ar": "إبقاء الظهر مستقيماً", "en": "Keeping back straight" }
+      ],
+      "correctAnswer": { "ar": "دخول الركبتين للداخل (Knee Valgus)", "en": "Knees caving in (Knee Valgus)" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["squat", "knee", "valgus", "form", "error"]
+    },
+    {
+      "id": "Q007",
+      "category": "Anatomy",
+      "topic": "Latissimus Dorsi",
+      "text": {
+        "ar": "تمرين العقلة (Pull-up) يستهدف عضلات الظهر بشكل رئيسي، وتحديداً عضلة:",
+        "en": "Pull-ups target back muscles, specifically:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "المجنص / العريضة الظهرية (Lats)", "en": "Latissimus Dorsi (Lats)" },
+        { "ar": "الصدر الكبرى", "en": "Pectoralis Major" },
+        { "ar": "الترقس", "en": "Trapezius" },
+        { "ar": "القطنية", "en": "Erector Spinae" }
+      ],
+      "correctAnswer": { "ar": "المجنص / العريضة الظهرية (Lats)", "en": "Latissimus Dorsi (Lats)" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["pull-up", "lats", "back", "exercise"]
+    },
+    {
+      "id": "Q008",
+      "category": "Anatomy",
+      "topic": "Pectoralis Major",
+      "text": {
+        "ar": "تمرين الضغط (Push-up) يشغل بشكل رئيسي عضلة:",
+        "en": "Push-ups mainly isolate or target:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الصدر الكبير (Pectoralis Major)", "en": "Pectoralis Major" },
+        { "ar": "الظهر العريض (Lats)", "en": "Latissimus Dorsi" },
+        { "ar": "عضلات السمانة", "en": "Calves" },
+        { "ar": "عضلة البايسبس", "en": "Biceps" }
+      ],
+      "correctAnswer": { "ar": "الصدر الكبير (Pectoralis Major)", "en": "Pectoralis Major" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["push-up", "chest", "pecs", "exercise"]
+    },
+    {
+      "id": "Q009",
+      "category": "Anatomy",
+      "topic": "Core",
+      "text": {
+        "ar": "العضلة العميقة التي تعمل كحزام داعم للبطن والعمود الفقري ومسؤولة عن استقرار الجذع هي:",
+        "en": "The deep abdominal muscle that acts as a weight belt to stabilize the spine is the:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "العضلة المستعرضة البطنية (Transversus Abdominis)", "en": "Transversus Abdominis" },
+        { "ar": "العضلة البطنية المستقيمة (Six Pack)", "en": "Rectus Abdominis" },
+        { "ar": "العضلة المائلة الخارجية", "en": "External Obliques" },
+        { "ar": "عضلة القطنية", "en": "Erector Spinae" }
+      ],
+      "correctAnswer": { "ar": "العضلة المستعرضة البطنية (Transversus Abdominis)", "en": "Transversus Abdominis" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["core", "transversus", "abdominis", "stability", "spine"]
+    },
+    {
+      "id": "Q010",
+      "category": "Training",
+      "topic": "Exercise Types",
+      "text": {
+        "ar": "تمرين ثني الكوع بالدمبل لعضلة البايسبس يعتبر من أي نوع من التمارين؟",
+        "en": "Dumbbell biceps curls is considered what type of exercise?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "تمارين العزل (Isolation Exercises)", "en": "Isolation Exercises" },
+        { "ar": "التمارين المركبة (Compound)", "en": "Compound Exercises" },
+        { "ar": "التمارين البليومترية (Plyometrics)", "en": "Plyometric Exercises" },
+        { "ar": "التمارين الوظيفية", "en": "Functional Exercises" }
+      ],
+      "correctAnswer": { "ar": "تمارين العزل (Isolation Exercises)", "en": "Isolation Exercises" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["isolation", "biceps", "curl", "exercise type"]
+    },
+    {
+      "id": "Q011",
+      "category": "Nutrition",
+      "topic": "Macronutrients",
+      "text": {
+        "ar": "العناصر الغذائية الكبرى الثلاثة الرئيسية للجسم هي الكربوهيدرات والدهون والـ...",
+        "en": "The three primary macronutrients for the body are carbohydrates, fats and..."
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "بروتين", "en": "Protein" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["macronutrients", "protein", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "بروتين", "en": "Protein" },
+        { "ar": "بروتينات", "en": "Proteins" }
+      ]
+    },
+    {
+      "id": "Q012",
+      "category": "Anatomy",
+      "topic": "Glutes",
+      "text": {
+        "ar": "اذكر اسم العضلة الأكبر والأقوى المسؤولة عن مد الفخذ وموضع الجلوس الخلفي (Hip Extension).",
+        "en": "Name the largest and strongest muscle responsible for Hip Extension."
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "جلوتيس ماكسيمس", "en": "Gluteus Maximus" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["glutes", "hip", "extension", "muscle"],
+      "acceptedAnswers": [
+        { "ar": "جلوتيس ماكسيمس", "en": "Gluteus Maximus" },
+        { "ar": "الألوية الكبرى", "en": "Glutes" }
+      ]
+    },
+    {
+      "id": "Q013",
+      "category": "Anatomy",
+      "topic": "Trapezius",
+      "text": {
+        "ar": "أين تقع نقطة الأصل (Origin) لشبه المنحرف (Trapezius)؟",
+        "en": "Where is the geometric origin of the Trapezius?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الجمجمة والعمود الفقري", "en": "Skull and spine" },
+        { "ar": "لوح الكتف", "en": "Scapula" },
+        { "ar": "عظمة الترقوة", "en": "Clavicle" },
+        { "ar": "العجز والورك", "en": "Sacrum and Hip" }
+      ],
+      "correctAnswer": { "ar": "الجمجمة والعمود الفقري", "en": "Skull and spine" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["trapezius", "origin", "anatomy"]
+    },
+    {
+      "id": "Q014",
+      "category": "Biomechanics",
+      "topic": "Planes of Motion",
+      "text": {
+        "ar": "في علم الحركة، المستوى المقارب الذي يقسم الجسم ليمين ويسار ويحدث فيه حركتا الثني والمد هو:",
+        "en": "In kinesiology, the plane separating right/left involving flexion/extension is:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "المستوى السهمي (Sagittal Plane)", "en": "Sagittal Plane" },
+        { "ar": "المستوى الجبهي (Frontal Plane)", "en": "Frontal Plane" },
+        { "ar": "المستوى المستعرض (Transverse Plane)", "en": "Transverse Plane" },
+        { "ar": "المستوى الإكليلي (Coronal Plane)", "en": "Coronal Plane" }
+      ],
+      "correctAnswer": { "ar": "المستوى السهمي (Sagittal Plane)", "en": "Sagittal Plane" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["sagittal plane", "kinesiology", "planes", "biomechanics"]
+    },
+    {
+      "id": "Q015",
+      "category": "Nutrition",
+      "topic": "Calories per Gram",
+      "text": {
+        "ar": "الدهون (Fats) تحتوي على كم سعرة حرارية لكل جرام واحد؟",
+        "en": "How many calories per 1 gram of fat?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "٩ سعرات حرارية", "en": "9 Calories" },
+        { "ar": "٤ سعرات حرارية", "en": "4 Calories" },
+        { "ar": "٧ سعرات حرارية", "en": "7 Calories" },
+        { "ar": "١٢ سعرة حرارية", "en": "12 Calories" }
+      ],
+      "correctAnswer": { "ar": "٩ سعرات حرارية", "en": "9 Calories" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["fat", "calories", "nutrition", "macros"]
+    },
+    {
+      "id": "Q016",
+      "category": "Nutrition",
+      "topic": "Calories per Gram",
+      "text": {
+        "ar": "البروتينات تحتوي على كم سعرة حرارية لكل جرام واحد؟",
+        "en": "How many calories per 1 gram of protein?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "٤ سعرات حرارية", "en": "4 Calories" },
+        { "ar": "٩ سعرات حرارية", "en": "9 Calories" },
+        { "ar": "٧ سعرات حرارية", "en": "7 Calories" },
+        { "ar": "٥ سعرات حرارية", "en": "5 Calories" }
+      ],
+      "correctAnswer": { "ar": "٤ سعرات حرارية", "en": "4 Calories" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["protein", "calories", "nutrition", "macros"]
+    },
+    {
+      "id": "Q017",
+      "category": "Physiology",
+      "topic": "Muscle Contraction",
+      "text": {
+        "ar": "الانقباض الذي يزداد فيه طول العضلة مع مقاومة الأحمال (كالنزول بالوزن ومقاومة الجاذبية) يسمى:",
+        "en": "The muscle contraction type where muscle length increases while resisting gravity is:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "تباعدي / سلبي (Eccentric)", "en": "Eccentric Muscle Contraction" },
+        { "ar": "تقاربي / إيجابي (Concentric)", "en": "Concentric Muscle Contraction" },
+        { "ar": "ثابت الطول (Isometric)", "en": "Isometric Muscle Contraction" },
+        { "ar": "متساوي الحركة الحركية", "en": "Isokinetic Contraction" }
+      ],
+      "correctAnswer": { "ar": "تباعدي / سلبي (Eccentric)", "en": "Eccentric Muscle Contraction" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["eccentric", "contraction", "physiology", "muscle"]
+    },
+    {
+      "id": "Q018",
+      "category": "Physiology",
+      "topic": "Muscle Contraction",
+      "text": {
+        "ar": "الانقباض الذي يقصر فيه طول العضلة للتغلب على مقاومة أو وزن يسمى:",
+        "en": "The muscle contraction type where muscle length shortens under load is:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "تقاربي / إيجابي (Concentric)", "en": "Concentric Muscle Contraction" },
+        { "ar": "تباعدي / سلبي (Eccentric)", "en": "Eccentric Muscle Contraction" },
+        { "ar": "ثابت الطول (Isometric)", "en": "Isometric Muscle Contraction" },
+        { "ar": "ديناميكي هوائي", "en": "Aerobic Dynamic" }
+      ],
+      "correctAnswer": { "ar": "تقاربي / إيجابي (Concentric)", "en": "Concentric Muscle Contraction" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["concentric", "contraction", "physiology"]
+    },
+    {
+      "id": "Q019",
+      "category": "Physiology",
+      "topic": "Hormones",
+      "text": {
+        "ar": "أي هرمون يفرز طبيعيا في الجسم وهو المسؤول الرئيسي عن تضخيم الألياف العضلية وتحفيز البناء؟",
+        "en": "Which naturally produced hormone is responsible for anabolic muscle growth and hypertrophy?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "التستوستيرون (Testosterone)", "en": "Testosterone" },
+        { "ar": "الإستروجين", "en": "Estrogen" },
+        { "ar": "الكورتيزول", "en": "Cortisol" },
+        { "ar": "الأنسولين", "en": "Insulin" }
+      ],
+      "correctAnswer": { "ar": "التستوستيرون (Testosterone)", "en": "Testosterone" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["testosterone", "hormone", "hypertrophy", "anabolic"]
+    },
+    {
+      "id": "Q020",
+      "category": "Anatomy",
+      "topic": "Joints",
+      "text": {
+        "ar": "أي مما يلي يعتبر من المفاصل واسعة المحاور (Ball & Socket Joint) الذي يمتلك نطاق حركة كروية؟",
+        "en": "Which is an example of a ball-and-socket joint with a wide, spherical range of motion?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "مفصل الكتف (Shoulder Joint)", "en": "Shoulder Joint" },
+        { "ar": "مفصل الكوع", "en": "Elbow Joint" },
+        { "ar": "مفصل الركبة", "en": "Knee Joint" },
+        { "ar": "العمود الفقري", "en": "Spine Joints" }
+      ],
+      "correctAnswer": { "ar": "مفصل الكتف (Shoulder Joint)", "en": "Shoulder Joint" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["shoulder", "joint", "ball-and-socket", "anatomy"]
+    },
+    {
+      "id": "Q021",
+      "category": "Anatomy",
+      "topic": "Deltoids",
+      "text": {
+        "ar": "ما هي العضلة الأساسية المسؤولة عن رفع الذراع جانباً (إبعاد الكتف) حتى زاوية ٩٠ درجة؟",
+        "en": "What is the primary muscle responsible for lateral arm raising (shoulder abduction) up to 90 degrees?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الدالية الوسطى (Lateral Deltoid)", "en": "Lateral Deltoid" },
+        { "ar": "الصدر الكبرى", "en": "Pectoralis Major" },
+        { "ar": "الدوارة الكتفية", "en": "Infraspinatus" },
+        { "ar": "الظهر المجنص", "en": "Latissimus Dorsi" }
+      ],
+      "correctAnswer": { "ar": "الدالية الوسطى (Lateral Deltoid)", "en": "Lateral Deltoid" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["deltoid", "shoulder", "abduction", "lateral raise"]
+    },
+    {
+      "id": "Q022",
+      "category": "Training",
+      "topic": "Workout Split",
+      "text": {
+        "ar": "ما هو نظام تقسيم التدريب (Workout Split) الذي يقسم أيام التمرين إلى حركات الدفع، السحب، والأرجل؟",
+        "en": "Which workout split divides training days into pushing muscle groups, pulling, and legs?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "دفع سحب ارجل", "en": "Push Pull Legs" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["push pull legs", "split", "training", "program"],
+      "acceptedAnswers": [
+        { "ar": "دفع سحب ارجل", "en": "Push Pull Legs" },
+        { "ar": "دفع سحب أرجل", "en": "PPL" }
+      ]
+    },
+    {
+      "id": "Q023",
+      "category": "Recovery",
+      "topic": "DOMS",
+      "text": {
+        "ar": "ألم العضلات المتأخر الذي يبدأ بالتدريج بعد ١٢ إلى ٢٤ ساعة ويصل ذروته بعد يومين يسمى علمياً بـ:",
+        "en": "Delayed muscle soreness peaking 24-48 hours after eccentric workout is known as:"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "دومز", "en": "DOMS" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["doms", "soreness", "recovery", "eccentric"],
+      "acceptedAnswers": [
+        { "ar": "دومز", "en": "DOMS" },
+        { "ar": "ألم العضلات المتأخر", "en": "Delayed Onset Muscle Soreness" }
+      ]
+    },
+    {
+      "id": "Q024",
+      "category": "Physiology",
+      "topic": "Neuromuscular",
+      "text": {
+        "ar": "ما هو القانون العصبي العضلي الذي يسبب استرخاء العضلة المقابلة تلقائياً عند انقباض العضلة الأساسية؟",
+        "en": "Which neuromuscular law causes automatic relaxation of the opposing muscle when the agonist contracts?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "التثبيط المتبادل (Reciprocal Inhibition)", "en": "Reciprocal Inhibition" },
+        { "ar": "التثبيط الذاتي (Autogenic Inhibition)", "en": "Autogenic Inhibition" },
+        { "ar": "منعكس التمدد (Stretch Reflex)", "en": "Stretch Reflex" },
+        { "ar": "قانون زيادة الأحمال", "en": "Overload Principle" }
+      ],
+      "correctAnswer": { "ar": "التثبيط المتبادل (Reciprocal Inhibition)", "en": "Reciprocal Inhibition" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["reciprocal inhibition", "neuromuscular", "physiology", "agonist"]
+    },
+    {
+      "id": "Q025",
+      "category": "Biomechanics",
+      "topic": "Levers",
+      "text": {
+        "ar": "ما هو نوع العتلة الميكانيكية (Lever Class) الغالب في معظم مفاصل الجسم البشري مثل ثني مفصل الكوع؟",
+        "en": "Which mechanical lever class is predominant in most human joints, such as elbow flexion?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "عتلة من الدرجة الثالثة (Third-Class Lever)", "en": "Third-Class Lever" },
+        { "ar": "عتلة من الدرجة الأولى (First-Class)", "en": "First-Class Lever" },
+        { "ar": "عتلة من الدرجة الثانية (Second-Class)", "en": "Second-Class Lever" },
+        { "ar": "عتلة محورية رابعة", "en": "Fourth-Class Lever" }
+      ],
+      "correctAnswer": { "ar": "عتلة من الدرجة الثالثة (Third-Class Lever)", "en": "Third-Class Lever" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["third-class lever", "biomechanics", "lever", "joints"]
+    },
+    {
+      "id": "Q026",
+      "category": "Physiology",
+      "topic": "Sensory Receptors",
+      "text": {
+        "ar": "ما هو المستقبل العصبي العضلي الذي يحمي الوتر من التمزق بإحداث تبيط ذاتي (Autogenic Inhibition) للعضلة؟",
+        "en": "Which sensory receptor protects tendons from tearing by forcing muscular relaxation under extreme tension?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "عضو جولجي الوتري (GTO)", "en": "Golgi Tendon Organ (GTO)" },
+        { "ar": "المغزل العضلي (Muscle Spindle)", "en": "Muscle Spindle" },
+        { "ar": "الخلية العصبية المتشعبة", "en": "Dendrite Cell" },
+        { "ar": "العصب الوارد الحسي", "en": "Sensory Afferent Nerve" }
+      ],
+      "correctAnswer": { "ar": "عضو جولجي الوتري (GTO)", "en": "Golgi Tendon Organ (GTO)" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["gto", "golgi tendon organ", "sensory receptor", "tendon", "protection"]
+    },
+    {
+      "id": "Q027",
+      "category": "Anatomy",
+      "topic": "Rotator Cuff",
+      "text": {
+        "ar": "العضلة تحت الشوكية (Infraspinatus) تقع ضمن الكفة المدورة (Rotator Cuff)، فما هي وظيفتها الحركية لكتف؟",
+        "en": "What is the primary mechanical action of the Infraspinatus muscle at the shoulder glenohumeral joint?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الدوران الخارجي (External Rotation)", "en": "External Rotation" },
+        { "ar": "الدوران الداخلي (Internal Rotation)", "en": "Internal Rotation" },
+        { "ar": "التقريب الأفقي", "en": "Horizontal Adduction" },
+        { "ar": "الرفع والقبض الأمامي", "en": "Flexion / Extension" }
+      ],
+      "correctAnswer": { "ar": "الدوران الخارجي (External Rotation)", "en": "External Rotation" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["infraspinatus", "rotator cuff", "external rotation", "shoulder"]
+    },
+    {
+      "id": "Q028",
+      "category": "Anatomy",
+      "topic": "Pectoralis Major Insertion",
+      "text": {
+        "ar": "أين يقع اندغام (Insertion) عضلة الصدر الكبرى (Pectoralis Major)؟",
+        "en": "Where is the geometric insertion coordinate of the Pectoralis Major?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "عظمة العضد (Humerus)", "en": "Lateral lip of bicipital groove of Humerus" },
+        { "ar": "عظمة لوح الكتف", "en": "Scapula" },
+        { "ar": "عظمة القصبة والترقوة", "en": "Clavicle and Sternum" },
+        { "ar": "عظمة الكعبرة في الساعد", "en": "Radius" }
+      ],
+      "correctAnswer": { "ar": "عظمة العضد (Humerus)", "en": "Lateral lip of bicipital groove of Humerus" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["pecs", "insertion", "humerus", "anatomy"]
+    },
+    {
+      "id": "Q029",
+      "category": "Anatomy",
+      "topic": "Hamstrings",
+      "text": {
+        "ar": "اندغام (Insertion) العضلة ذات الرأسين الفخذية (Biceps Femoris) -وهي جزء من عضلات الهامستيرنجز- يقع في:",
+        "en": "Where is the insertion point of the Biceps Femoris muscle of the hamstring complex?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "رأس عظمة الشظية (Head of Fibula)", "en": "Fibula Head" },
+        { "ar": "عظمة القص العانة والورك", "en": "Ischial tuberosity" },
+        { "ar": "مفصل الركبة الأمامي", "en": "Patella Tibial Tuberosity" },
+        { "ar": "العظم الحرقفي الخلفي", "en": "Iliac Crest" }
+      ],
+      "correctAnswer": { "ar": "رأس عظمة الشظية (Head of Fibula)", "en": "Fibula Head" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["biceps femoris", "hamstrings", "fibula", "insertion"]
+    },
+    {
+      "id": "Q030",
+      "category": "Anatomy",
+      "topic": "Triceps Origin",
+      "text": {
+        "ar": "أين تقع نقطة المنشأ (Origin) للرأس الطويل للعضلة ثلاثية الرؤوس العضدية (Triceps Long Head)؟",
+        "en": "Where is the geometric origin boundary of the long head of the Triceps Brachii?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الحديبة تحت الحقية للوح الكتف (Scapula)", "en": "Infraglenoid tubercle of Scapula" },
+        { "ar": "عظمة العضد الخلفية", "en": "Posterior humerus" },
+        { "ar": "النتوء الغرابي للكتف", "en": "Coracoid process of Scapula" },
+        { "ar": "الترقوة الجانبية", "en": "Lateral Clavicle" }
+      ],
+      "correctAnswer": { "ar": "الحديبة تحت الحقية للوح الكتف (Scapula)", "en": "Infraglenoid tubercle of Scapula" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["triceps", "long head", "scapula", "origin"]
+    },
+    {
+      "id": "Q031",
+      "category": "Anatomy",
+      "topic": "Nerves",
+      "text": {
+        "ar": "في متلازمة العضلة الكمثرية (Piriformis Syndrome)، تضعف العضلة وتحدث ضغطاً مؤلماً ومباشراً على أي عصب؟",
+        "en": "In Piriformis Syndrome, the tight piriformis muscle compresses which major nerve?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "العصب الوركي (Sciatic Nerve)", "en": "Sciatic Nerve" },
+        { "ar": "العصب الفخذي الحسي", "en": "Femoral Nerve" },
+        { "ar": "العصب الكعبري الحركي", "en": "Radial Nerve" },
+        { "ar": "العصب الشظوي العميق", "en": "Peroneal Nerve" }
+      ],
+      "correctAnswer": { "ar": "العصب الوركي (Sciatic Nerve)", "en": "Sciatic Nerve" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["piriformis", "sciatic nerve", "syndrome", "anatomy"]
+    },
+    {
+      "id": "Q032",
+      "category": "Physiology",
+      "topic": "Muscle Fibers",
+      "text": {
+        "ar": "ما هي الألياف العضلية الأسرع والأكثر إنتاجاً للقوة والانفجارية ولكنها الأسرع تعباً؟",
+        "en": "Which muscle fibers classification has the fastest twitch rate, highest power output, but quickest fatigue rate?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "Type IIx", "en": "Type IIx fibers" },
+        { "ar": "Type IIa", "en": "Type IIa fibers" },
+        { "ar": "Type I", "en": "Type I (Slow-twitch)" },
+        { "ar": "Type III", "en": "Type III fibers" }
+      ],
+      "correctAnswer": { "ar": "Type IIx", "en": "Type IIx fibers" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["type IIx", "fast-twitch", "fiber types", "physiology"]
+    },
+    {
+      "id": "Q033",
+      "category": "Anatomy",
+      "topic": "ACL",
+      "text": {
+        "ar": "الرباط الصليبي الأمامي (ACL) يمنع انزلاق عظمة القصبة (Tibia) أمام أي عظمة أخرى ميكانيكياً؟",
+        "en": "The anterior cruciate ligament (ACL) prevents hyper-forward translation of internal tibia relative to which bone?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "عظمة الفخذ (Femur)", "en": "Femur" },
+        { "ar": "عظمة الركبة الصابونة", "en": "Patella" },
+        { "ar": "عظمة الشظية الخفيفة", "en": "Fibula" },
+        { "ar": "الحوض الصخري", "en": "Pelvis" }
+      ],
+      "correctAnswer": { "ar": "عظمة الفخذ (Femur)", "en": "Femur" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["acl", "knee", "ligament", "femur", "anatomy"]
+    },
+    {
+      "id": "Q034",
+      "category": "Training",
+      "topic": "Progressive Overload",
+      "text": {
+        "ar": "ما هو المعدل الأسبوعي النموذجي الموصى به لزيادة الأحمال التدريبية (Overload) لتفادي الإصابة والاستثارة؟",
+        "en": "What is the typical recommended weekly progressive overload rate bounds to avoid muscle or tendon injury?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "٢٪ إلى ٥٪ أسبوعياً", "en": "2% to 5% weekly" },
+        { "ar": "١٠٪ إلى ١٥٪ أسبوعياً", "en": "10% to 15% weekly" },
+        { "ar": "٢٠٪ إلى ٣٠٪ أسبوعياً", "en": "20% to 30% weekly" },
+        { "ar": "لا توجد حدود آمنة", "en": "No safe limits" }
+      ],
+      "correctAnswer": { "ar": "٢٪ إلى ٥٪ أسبوعياً", "en": "2% to 5% weekly" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["overload", "progression", "injury prevention", "training"]
+    },
+    {
+      "id": "Q035",
+      "category": "Physiology",
+      "topic": "Energy Systems",
+      "text": {
+        "ar": "في منظومة نقل وتخليق طاقة الخلايا العضلية، ما هو المصدر الأساسي المستخدم بعد مرور دقيقتين من تمرين مستمر؟",
+        "en": "In muscle energy pathway kinetics, what fuel is predominantly oxidized after two minutes of sustained training?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الدهون والكربوهيدرات (Oxidative System)", "en": "Fats and Carbohydrates via Oxidative pathway" },
+        { "ar": "الفوسفاجين المخزن (ATP-PC)", "en": "Stored phosphocreatine (ATP-PC)" },
+        { "ar": "الجليكوز اللاوكسجيني", "en": "Anaerobic Glucose Glycolysis" },
+        { "ar": "أكسيد النيتريك المركز", "en": "Saturated Nitric Oxide" }
+      ],
+      "correctAnswer": { "ar": "الدهون والكربوهيدرات (Oxidative System)", "en": "Fats and Carbohydrates via Oxidative pathway" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["oxidative", "energy", "aerobic", "physiology"]
+    },
+    {
+      "id": "Q036",
+      "category": "Physiology",
+      "topic": "VO2 Max",
+      "text": {
+        "ar": "ما هو المصطلح العلمي لأقصى معدل لاستهلاك وضخ الأكسجين ونقله للعضلات أثناء النشاط العنيف؟",
+        "en": "What is the scientific term representing the maximum rate of oxygen consumption utilized during intense exercise?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "vo2 max", "en": "VO2 Max" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["vo2 max", "oxygen", "endurance", "physiology"],
+      "acceptedAnswers": [
+        { "ar": "vo2 max", "en": "VO2 Max" },
+        { "ar": "vo2max", "en": "VO2max" }
+      ]
+    },
+    {
+      "id": "Q037",
+      "category": "Physiology",
+      "topic": "Reflexes",
+      "text": {
+        "ar": "المغزل العضلي (Muscle Spindle) يحمي العضلة من التمدد الزائد عبر إحداث انقباض سريع وحماية يسمى بـمنعكس الـ...",
+        "en": "Muscle Spindle sensors protect muscles from overstretching by triggering a defensive contraction known as..."
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "تمطط", "en": "Stretch Reflex" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["stretch reflex", "muscle spindle", "reflex", "physiology"],
+      "acceptedAnswers": [
+        { "ar": "تمطط", "en": "Stretch Reflex" },
+        { "ar": "منعكس التمدد", "en": "Stretch Reflex" }
+      ]
+    },
+    {
+      "id": "Q038",
+      "category": "Biomechanics",
+      "topic": "Force Couple",
+      "text": {
+        "ar": "مصطلح يعبر عن العمل العضلي المتناغم لمجموعة عضلات تعمل معاً حول مفصل واحد لإنتاج حركة دورانية تسمى العلاقة الـ...",
+        "en": "The synergistic operation of muscles pulling in opposing directions to produce rotational joint force vectors is a..."
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "نظام القوة الازدواجي", "en": "Force Couple Relationship" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["force couple", "muscle synergy", "biomechanics"],
+      "acceptedAnswers": [
+        { "ar": "نظام القوة الازدواجي", "en": "Force Couple Relationship" },
+        { "ar": "القوة الازدواجية", "en": "Force Couple" }
+      ]
+    },
+    {
+      "id": "Q039",
+      "category": "Nutrition",
+      "topic": "BMR",
+      "text": {
+        "ar": "ما هو الهدف الأولي من حساب معدل التغذية الخاص والـ BMR للرياضيين؟",
+        "en": "What is the primary goal of calculating BMR and specialized nutrition for athletes?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "زيادة كتلة الدهون", "en": "Increase body fat" },
+        { "ar": "تحديد الحد الأدنى من السعرات الحرارية الضرورية", "en": "Determine minimum essential calories" },
+        { "ar": "تقليل الكربوهيدرات", "en": "Reduce carbohydrates" },
+        { "ar": "تحديد وقت التمرين", "en": "Determine exercise time" }
+      ],
+      "correctAnswer": { "ar": "تحديد الحد الأدنى من السعرات الحرارية الضرورية", "en": "Determine minimum essential calories" },
+      "explanation": {
+        "ar": "الـ BMR يقيس السعرات التي يحرقها الجسم أثناء الراحة للعمليات الحيوية، وهو نقطة الانطلاق لتحديد الاحتياجات اليومية في التغذية.",
+        "en": "BMR measures calories burned at rest for vital functions, serving as the starting point for daily nutrition."
+      },
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["bmr", "nutrition", "calories", "metabolism"]
+    },
+    {
+      "id": "Q040",
+      "category": "Nutrition",
+      "topic": "Calories per Gram",
+      "text": {
+        "ar": "كم عدد السعرات الحرارية التي يوفرها 1 جرام من الكربوهيدرات أو البروتين؟",
+        "en": "How many calories are provided by 1 gram of carbohydrates or protein?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "9 سعرات", "en": "9 calories" },
+        { "ar": "7 سعرات", "en": "7 calories" },
+        { "ar": "4 سعرات", "en": "4 calories" },
+        { "ar": "2 سعرات", "en": "2 calories" }
+      ],
+      "correctAnswer": { "ar": "4 سعرات", "en": "4 calories" },
+      "explanation": {
+        "ar": "الكربوهيدرات والبروتينات توفر 4 سعرات حرارية لكل جرام، في حين توفر الدهون 9 سعرات للتغذية.",
+        "en": "Carbs and proteins provide 4 calories per gram, while fats provide 9 calories."
+      },
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["calories", "macros", "nutrition", "carbs", "protein"]
+    },
+    {
+      "id": "Q041",
+      "category": "Nutrition",
+      "topic": "Energy Sources",
+      "text": {
+        "ar": "أي من التالي هو المصدر الرئيسي والأكثر كفاءة لتوليد الطاقة أثناء الأنشطة عالية الكثافة؟",
+        "en": "Which of the following is the primary and most efficient source for energy generation during high-intensity activities?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "الدهون", "en": "Fats" },
+        { "ar": "البروتين", "en": "Protein" },
+        { "ar": "الكربوهيدرات", "en": "Carbohydrates" },
+        { "ar": "الفيتامينات", "en": "Vitamins" }
+      ],
+      "correctAnswer": { "ar": "الكربوهيدرات", "en": "Carbohydrates" },
+      "explanation": {
+        "ar": "الكربوهيدرات (الجلوكوز والجليكوجين) تمثل الوقود الأساسي لإنتاج الطاقة سريعة الإطلاق في التغذية عالية الكثافة.",
+        "en": "Carbs are the primary fuel for fast-release energy in nutrition for high-intensity exercise."
+      },
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["carbs", "energy", "high-intensity", "nutrition"]
+    },
+    {
+      "id": "Q042",
+      "category": "Nutrition",
+      "topic": "Glycemic Index",
+      "text": {
+        "ar": "ما الذي يعنيه مصطلح المؤشر الجلايسيمي (GI) في علم التغذية؟",
+        "en": "What does the term Glycemic Index (GI) mean in nutrition?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "كمية السعرات الإجمالية", "en": "Total calorie count" },
+        { "ar": "سرعة ارتفاع نسبة السكر في الدم", "en": "Rate of blood sugar increase" },
+        { "ar": "مستوى الدهون في الدم", "en": "Blood fat levels" },
+        { "ar": "معدل امتصاص البروتين", "en": "Protein absorption rate" }
+      ],
+      "correctAnswer": { "ar": "سرعة ارتفاع نسبة السكر في الدم", "en": "Rate of blood sugar increase" },
+      "explanation": {
+        "ar": "المؤشر الجلايسيمي يصنف الكربوهيدرات في التغذية بناءً على سرعتها في زيادة مستويات الجلوكوز في الدم.",
+        "en": "GI categorizes carbohydrates in nutrition based on how quickly they raise blood glucose levels."
+      },
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["gi", "glycemic index", "nutrition", "blood sugar"]
+    },
+    {
+      "id": "Q043",
+      "category": "Nutrition",
+      "topic": "Supplements",
+      "text": {
+        "ar": "أي من المكملات التالية مُعترف به كدعم لتوليد طاقة الـ ATP في الفترات القصيرة العنيفة؟",
+        "en": "Which supplement is scientifically recognized to support ATP generation during short, intense bursts?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "حمض البوليك", "en": "Uric acid" },
+        { "ar": "الكرياتين", "en": "Creatine" },
+        { "ar": "فيتامين ك", "en": "Vitamin K" },
+        { "ar": "الكالسيوم", "en": "Calcium" }
+      ],
+      "correctAnswer": { "ar": "الكرياتين", "en": "Creatine" },
+      "explanation": {
+        "ar": "يساعد الكرياتين في إعادة بناء الـ ATP بسرعة مما يحسن القوة العضلية الانفجارية في التغذية الرياضية.",
+        "en": "Creatine rapidly regenerates ATP, improving explosive strength in sports nutrition."
+      },
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["creatine", "atp", "supplement", "nutrition"]
+    },
+    {
+      "id": "Q044",
+      "category": "Nutrition",
+      "topic": "Protein Intake",
+      "text": {
+        "ar": "ما هي التوصية بخصوص التغذية البروتينية لزيادة أو الحفاظ على الكتلة العضلية للرياضيين؟",
+        "en": "What is the recommended protein nutrition intake for athletes to increase or maintain muscle mass?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "0.8 جرام/كجم", "en": "0.8 g/kg" },
+        { "ar": "أقل من 1 جرام/كجم", "en": "Less than 1 g/kg" },
+        { "ar": "من 1.5 إلى 2.5 جرام/كجم", "en": "1.5 to 2.5 g/kg" },
+        { "ar": "5 جرام/كجم", "en": "5 g/kg" }
+      ],
+      "correctAnswer": { "ar": "من 1.5 إلى 2.5 جرام/كجم", "en": "1.5 to 2.5 g/kg" },
+      "explanation": {
+        "ar": "يؤكد علم التغذية الرياضية احتياج الرياضيين لكميات بروتين أكبر لتحقيق توازن نيتروجيني إيجابي.",
+        "en": "Sports nutrition dictates athletes require more protein for a positive nitrogen balance."
+      },
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["protein", "intake", "muscle", "nutrition", "hypertrophy"]
+    },
+    {
+      "id": "Q045",
+      "category": "Nutrition",
+      "topic": "Glycogen Loading",
+      "text": {
+        "ar": "ما هو الغرض من (تحميل الجليكوجين) في التغذية قبل المسابقات؟",
+        "en": "What is the purpose of Glycogen Loading in pre-competition nutrition?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "فقدان الوزن السريع", "en": "Rapid weight loss" },
+        { "ar": "تعبئة مخازن الكبد والعضلات للحد الأقصى", "en": "Maximal storage in liver and muscles" },
+        { "ar": "زيادة إفراز الأنسولين", "en": "Increase insulin spikes" },
+        { "ar": "تقليل حجم السوائل", "en": "Reduce fluid volume" }
+      ],
+      "correctAnswer": { "ar": "تعبئة مخازن الكبد والعضلات للحد الأقصى", "en": "Maximal storage in liver and muscles" },
+      "explanation": {
+        "ar": "تحميل الجليكوجين في التغذية يزيد من قدرة التحمل وتأخير التعب في الرياضات الطويلة.",
+        "en": "Glycogen loading in nutrition increases endurance and delays fatigue in long sports."
+      },
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["glycogen", "loading", "endurance", "nutrition"]
+    },
+    {
+      "id": "Q046",
+      "category": "Nutrition",
+      "topic": "Macronutrient Ratio",
+      "text": {
+        "ar": "ما هي نسبة الاستهلاك الموصى بها تقريباً للمغذيات في خطة التغذية الخاصة بالرياضي؟",
+        "en": "What is the roughly recommended macronutrient ratio in an athlete's nutrition plan?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "60% دهون، 30% كربوهيدرات، 10% بروتين", "en": "60% fat, 30% carbs, 10% protein" },
+        { "ar": "60% كربوهيدرات، 20% بروتين، 20% دهون", "en": "60% carbs, 20% protein, 20% fat" },
+        { "ar": "50% بروتين، 50% كربوهيدرات", "en": "50% protein, 50% carbs" },
+        { "ar": "80% دهون، 10% كربوهيدرات، 10% بروتين", "en": "80% fat, 10% carbs, 10% protein" }
+      ],
+      "correctAnswer": { "ar": "60% كربوهيدرات، 20% بروتين، 20% دهون", "en": "60% carbs, 20% protein, 20% fat" },
+      "explanation": {
+        "ar": "تُجمع الأبحاث في التغذية على هذه النسب لدعم الأداء الرياضي الأمثل.",
+        "en": "Nutrition research broadly supports this ratio for optimal athletic performance."
+      },
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["macros", "ratio", "nutrition", "athlete"]
+    },
+    {
+      "id": "Q047",
+      "category": "Nutrition",
+      "topic": "Carbohydrate Absorption",
+      "text": {
+        "ar": "لماذا يُنصح بتناول الفركتوز والجلوكوز معاً في التغذية أثناء التمارين المطولة؟",
+        "en": "Why is it advised to consume fructose and glucose together in nutrition during prolonged exercise?"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "يسببان التعب", "en": "They cause fatigue" },
+        { "ar": "يمتصان عبر مسارات مختلفة لزيادة النقل الكلي للطاقة", "en": "Absorbed via different pathways increasing total energy transport" },
+        { "ar": "يخفضان ضغط الدم", "en": "They lower blood pressure" },
+        { "ar": "الفركتوز يوقف العطش", "en": "Fructose stops thirst" }
+      ],
+      "correctAnswer": { "ar": "يمتصان عبر مسارات مختلفة لزيادة النقل الكلي للطاقة", "en": "Absorbed via different pathways increasing total energy transport" },
+      "explanation": {
+        "ar": "في التغذية المتقدمة، دمج أكثر من نوع من الكربوهيدرات يقلل إجهاد المعدة ويزيد أكسدة الطاقة.",
+        "en": "In advanced nutrition, merging carbohydrates reduces GI distress and increases energy oxidation."
+      },
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["fructose", "glucose", "absorption", "nutrition", "endurance"]
+    },
+    {
+      "id": "Q048",
+      "category": "Nutrition",
+      "topic": "Vitamins",
+      "text": {
+        "ar": "الفيتامينات التي تذوب في الماء ولا تخزن في التغذية بشكل كبير مما يحتم استهلاكها بانتظام هي:",
+        "en": "Vitamins that are water-soluble and not stored extensively, requiring regular nutrition intake, are:"
+      },
+      "type": "MCQ",
+      "options": [
+        { "ar": "فيتامين A", "en": "Vitamin A" },
+        { "ar": "فيتامين D", "en": "Vitamin D" },
+        { "ar": "فيتامينات C و B", "en": "Vitamins C and B" },
+        { "ar": "فيتامين K", "en": "Vitamin K" }
+      ],
+      "correctAnswer": { "ar": "فيتامينات C و B", "en": "Vitamins C and B" },
+      "explanation": {
+        "ar": "التغذية السليمة تتطلب إمداداً مستمراً من فيتامينات C و B لأن الفائض منها يُطرح مع البول.",
+        "en": "Proper nutrition requires constant supply of C and B vitamins as excess is excreted."
+      },
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["vitamins", "water-soluble", "nutrition", "c", "b"]
+    },
+    {
+      "id": "Q049",
+      "category": "Nutrition",
+      "topic": "Macronutrients",
+      "text": {
+        "ar": "ما هي العناصر الغذائية الكبرى الثلاثة المطلوبة في حسابات التغذية؟",
+        "en": "What are the three primary macronutrients required in nutrition calculations?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "الكربوهيدرات والبروتينات والدهون", "en": "Carbohydrates, proteins, and fats" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["macronutrients", "protein", "carbs", "fats", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "الكربوهيدرات والبروتينات والدهون", "en": "Carbohydrates, proteins, and fats" }
+      ]
+    },
+    {
+      "id": "Q050",
+      "category": "Nutrition",
+      "topic": "Fat Calories",
+      "text": {
+        "ar": "كم عدد السعرات الموجودة في جرام واحد من الدهون في التغذية الرياضية؟",
+        "en": "How many calories are in one gram of fat in sports nutrition?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "9 سعرات حرارية", "en": "9 calories" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["fat", "calories", "nutrition", "macros"],
+      "acceptedAnswers": [
+        { "ar": "9 سعرات حرارية", "en": "9 calories" },
+        { "ar": "٩ سعرات", "en": "9 calories" }
+      ]
+    },
+    {
+      "id": "Q051",
+      "category": "Nutrition",
+      "topic": "Glycogen Loading",
+      "text": {
+        "ar": "ما هو الغرض من تحميل الجليكوجين (Glycogen Loading) في برامج التغذية؟",
+        "en": "What is the purpose of Glycogen Loading in nutrition programs?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "تأخير التعب بزيادة مخازن الطاقة", "en": "Delaying fatigue by maximizing energy stores" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["glycogen", "loading", "endurance", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "تأخير التعب بزيادة مخازن الطاقة", "en": "Delaying fatigue by maximizing energy stores" },
+        { "ar": "زيادة مخازن الجليكوجين", "en": "Maximizing glycogen stores" }
+      ]
+    },
+    {
+      "id": "Q052",
+      "category": "Nutrition",
+      "topic": "Vitamins",
+      "text": {
+        "ar": "لماذا يحتاج الرياضيون لكميات أعلى من فيتامين C و B في نمطهم الغذائي؟",
+        "en": "Why do athletes need higher amounts of vitamins C and B in their diet?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "لأنها تذوب في الماء ولا تُخزن في الجسم.", "en": "Because they are water-soluble and not stored in the body." },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["vitamins", "c", "b", "water-soluble", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "لأنها تذوب في الماء ولا تُخزن في الجسم.", "en": "Because they are water-soluble and not stored in the body." }
+      ]
+    },
+    {
+      "id": "Q053",
+      "category": "Nutrition",
+      "topic": "Energy Sources",
+      "text": {
+        "ar": "من بين الدهون، البروتينات، والكربوهيدرات؛ ما هو المصدر الأسرع للطاقة (التغذية الأساسية) في النشاط العنيف؟",
+        "en": "Between fats, proteins, and carbs, which is the fastest energy source in intense activity?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "الكربوهيدرات", "en": "Carbohydrates" },
+      "explanation": null,
+      "difficulty": "EASY",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["carbs", "energy", "fast", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "الكربوهيدرات", "en": "Carbohydrates" },
+        { "ar": "كاربوهيدرات", "en": "Carbs" }
+      ]
+    },
+    {
+      "id": "Q054",
+      "category": "Nutrition",
+      "topic": "Carbohydrate Percentage",
+      "text": {
+        "ar": "ما هي النسبة المئوية الموصى بها تقريباً للكربوهيدرات كمدخول يومي للتغذية في الرياضة لتحمل؟",
+        "en": "What is the approximately recommended percentage of daily carbohydrate intake for endurance sports nutrition?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "60%", "en": "60%" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["carbs", "endurance", "percentage", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "60%", "en": "60%" },
+        { "ar": "٦٠٪", "en": "60%" }
+      ]
+    },
+    {
+      "id": "Q055",
+      "category": "Nutrition",
+      "topic": "Glycemic Index",
+      "text": {
+        "ar": "اذكر المصطلح الذي يقيس سرعة ودرجة رفع مستوى السكر في الدم بعد تناول التغذية (الكربوهيدرات).",
+        "en": "Give the term that measures the speed and degree of blood sugar elevation after carbohydrate nutrition."
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "المؤشر الجلايسيمي", "en": "Glycemic Index" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["glycemic index", "gi", "blood sugar", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "المؤشر الجلايسيمي", "en": "Glycemic Index" },
+        { "ar": "الجلايسيمي", "en": "GI" }
+      ]
+    },
+    {
+      "id": "Q056",
+      "category": "Nutrition",
+      "topic": "BMR Equation",
+      "text": {
+        "ar": "المعادلة الأساسية لتقدير معدل الأيض (BMR) للرجل: 24 × ماذا؟",
+        "en": "The basic equation for a man's BMR is 24 × what?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "وزن الجسم كجم", "en": "Body weight in kg" },
+      "explanation": null,
+      "difficulty": "MEDIUM",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["bmr", "equation", "weight", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "وزن الجسم كجم", "en": "Body weight in kg" },
+        { "ar": "وزن الجسم بالكيلوجرام", "en": "Body weight in kilograms" }
+      ]
+    },
+    {
+      "id": "Q057",
+      "category": "Nutrition",
+      "topic": "Supplements",
+      "text": {
+        "ar": "ما المكمل (في التغذية) المسؤول عن تجديد الـ ATP فورياً وتوليد قوة وحجم سريع للعضلات؟",
+        "en": "Which nutrition supplement is responsible for rapid ATP regeneration and generating quick muscle power and size?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "الكرياتين", "en": "Creatine" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["creatine", "atp", "supplement", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "الكرياتين", "en": "Creatine" }
+      ]
+    },
+    {
+      "id": "Q058",
+      "category": "Nutrition",
+      "topic": "Protein Intake",
+      "text": {
+        "ar": "كم جراماً من البروتين يوصى به (لكل كيلو جرام) في التغذية بهدف منع الهدم وبناء الكتلة كمتوسط للرياضيين الشاقين؟",
+        "en": "How many grams of protein are recommended (per kg) in nutrition to prevent catabolism and build mass as an average for heavy athletes?"
+      },
+      "type": "WRITTEN",
+      "options": [],
+      "correctAnswer": { "ar": "من 1.5 إلى 2.5", "en": "1.5 to 2.5" },
+      "explanation": null,
+      "difficulty": "HARD",
+      "image": null,
+      "shuffleOptions": true,
+      "tags": ["protein", "intake", "bodybuilding", "nutrition"],
+      "acceptedAnswers": [
+        { "ar": "من 1.5 إلى 2.5", "en": "1.5 to 2.5" },
+        { "ar": "1.5-2.5 جرام/كجم", "en": "1.5-2.5 g/kg" }
+      ]
+    }
+  ]
+}

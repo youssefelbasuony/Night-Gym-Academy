@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#111;
+    color:white;
+    font-family:Arial,sans-serif;
+}
+
+.courses-page{
+    padding:30px;
+}
+
+.page-header{
+    margin-bottom:30px;
+}
+
+.page-header h1{
+    font-size:42px;
+    margin-bottom:10px;
+}
+
+.page-header p{
+    color:#cbd5e1;
+}
+
+.search-box{
+    margin-bottom:30px;
+}
+
+.search-box input{
+    width:100%;
+    padding:15px;
+    border:none;
+    border-radius:12px;
+    background:#1b1f2a;
+    color:white;
+    font-size:16px;
+}

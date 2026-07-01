@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "title": "Human Anatomy Level 1",
+        "description": "Learn the fundamentals of human anatomy for fitness professionals.",
+        "category": "Anatomy",
+        "level": "Beginner",
+        "lessons": 12,
+        "duration": "4 Hours",
+        "progress": 72,
+        "image": "../assets/images/anatomy.png",
+        "lessonsList": [
+            {
+                "id": 1,
+                "title": "Introduction to Anatomy",
+                "completed": true
+            },
+            {
+                "id": 2,
+                "title": "Skeletal System Overview",
+                "completed": true
+            },
+            {
+                "id": 3,
+                "title": "Muscular System Overview",
+                "completed": false
+            },
+            {
+                "id": 4,
+                "title": "Nervous System Overview",
+                "completed": false
+            }
+           
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Nutrition Fundamentals",
+        "description": "Understand nutrition principles and meal planning.",
+        "category": "Nutrition",
+        "level": "Beginner",
+        "lessons": 18,
+        "duration": "6 Hours",
+        "progress": 0,
+        "image": "../assets/images/nutrition.png"
+    },
+    {
+        "id": 3,
+        "title": "Strength Training",
+        "description": "Master resistance training techniques.",
+        "category": "Training",
+        "level": "Intermediate",
+        "lessons": 20,
+        "duration": "8 Hours",
+        "progress": 0,
+        "image": "../assets/images/training.png"
+    },
+    {
+        "id": 4,
+        "title": "Sports Injuries",
+        "description": "Learn the most common sports injuries.",
+        "category": "Rehabilitation",
+        "level": "Advanced",
+        "lessons": 10,
+        "duration": "5 Hours",
+        "progress": 0,
+        "image": "../assets/images/injuries.png"
+    }
+]

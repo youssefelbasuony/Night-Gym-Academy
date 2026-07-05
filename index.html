@@ -22,9 +22,9 @@
                     <span id="completed-sessions">0</span> Completed Sessions.
                 </span>
             </section>
-            <section class="hero-card">
+            <section class="hero-card reveal">
                 <div class="hero-content">
-                    <span class="hero-badge">
+                    <span class="hero-badge float">
                         🔥  Welcome Back
                     </span>
                     <h1>Night Gym Academy</h1>
@@ -35,7 +35,7 @@
                             <span>72%</span>
                         </div>
                         <div class="progress-bar">
-                            <div class="progress-fill" style="width: 72%;"></div>
+                            <div class="progress-fill" id="progress-fill"></div>
                         </div>
                     </div>
                     <div class="hero-stats">
@@ -53,26 +53,30 @@
                         </div>
                     </div>
                         <div class="hero-buttons">
-                            <button class="primary-btn">Continue Learning</button>
-                            <button class="secondary-btn">Daily Quiz</button>
+                            <button class="primary-btn motion press" onclick="continueLearning()">
+                                Continue Learning
+                            </button>
+                            <button class="secondary-btn motion press" onclick="openDailyQuiz()">
+                                Daily Quiz
+                            </button>
                         </div>
                 </div>
             </section>
-            <section class="dashboard-grid">
-                <div class="dashboard-card challenge-card">
+            <section class="dashboard-grid stagger">
+                <div class="dashboard-card motion hover-lift challenge-card">
                     <h3>🎯 Daily Challenge</h3>
                     <p>Finish Anatomy Lesson 3</p>
                     <span>Reward: +100 XP</span>
                 </div>
-                <div class="dashboard-card learning-card">
+                <div class="dashboard-card motion hover-lift learning-card">
                     <h3>📖 Continue Learning</h3>
                     <p>Anatomy Level 1</p>
                     <button>Resume</button>
                 </div>
             </section>
-            <section class="Progress-overview">
+            <section class="progress-overview reveal">
                 <h2>Your Progress</h2>
-                <div class="progress-cards">
+                <div class="progress-cards stagger">
                     <div class="progress-card">
                         <h3>📚 Lessons</h3>
                         <span>42</span>
@@ -91,38 +95,39 @@
                     </div>
                 </div>
             </section>
-            <section class="achievement-section">
+            <section class="achievement-section reveal">
                 <h2>Latest Achievements</h2>
                 <div class="achievement-cards">
-                    <div class="achievement-card">
+                    <div class="achievement-card motion hover-lift">
                         <div class="achievement-icon">🏆</div>
                         <div class="achievement-info">
                             <h3>Muscle Master</h3>
                             <p>Congratulations! You completed all Anatomy Level 1 lessons.</p>
+                        </div>
                     </div>
                     
                 </div>
             </section>
-            <section class="grid">
-                <div class="feature-card" onclick="goToPage('courses')">
+            <section class="grid stagger">
+                <div class="feature-card motion hover-lift" onclick="goToPage('courses')">
                     <div class="feature-icon">📚</div>
                     <h3>Courses</h3>
                     <p>Continue your learning journey with professional fitness courses.</p>
                     <button>Open</button>
                 </div>
-                <div class="feature-card" onclick="goToPage('quiz')">
+                <div class="feature-card motion hover-lift" onclick="goToPage('quiz')">
                     <div class="feature-icon">📝</div>
                     <h3>Tests</h3>
                     <p>Test your knowledge and improve your score.</p>
                     <button>Start</button>
                 </div>
-                <div class="feature-card" onclick="goToPage('certificates')">
+                <div class="feature-card motion hover-lift" onclick="goToPage('certificates')">
                     <div class="feature-icon">🏅</div>
                     <h3>Certificates</h3>
                     <p>View and download your earned certificates.</p>
                     <button>View</button>
                 </div>
-                <div class="feature-card" onclick="goToPage('community')">
+                <div class="feature-card motion hover-lift" onclick="goToPage('community')">
                     <div class="feature-icon">👥</div>
                     <h3>Community</h3>
                     <p>Connect with other students and coaches.</p>
@@ -131,7 +136,34 @@
                 </div>
             </section>
         </main>
-        <footer class="bottom-nav"></footer>
+        <footer class="bottom-nav">
+            <div class="nav-item" data-page="index" onclick="goToPage('index')">
+                <div class="nav-icon">🏠</div>
+                <span>Home</span>
+            </div>
+
+            <div class="nav-item" data-page="courses" onclick="goToPage('courses')">
+                <div class="nav-icon">📚</div>
+                <span>Courses</span>
+            </div>
+
+            <div class="nav-item" data-page="quiz" onclick="goToPage('quiz')">
+                <div class="nav-icon">📝</div>
+                <span>Quiz</span>
+            </div>
+
+            <div class="nav-item" data-page="exercise-library" onclick="goToPage('exercise-library')">
+                <div class="nav-icon">🏋️</div>
+                <span>Exercises</span>
+            </div>
+
+            <div class="nav-item" data-page="profile" onclick="goToPage('profile')">
+                <div class="nav-icon">👤</div>
+                <span>Profile</span>
+            </div>
+
+        </footer>
+        <div id="toast-container"></div>
         <script src="js/home.js"></script>
     </body>
 </html>

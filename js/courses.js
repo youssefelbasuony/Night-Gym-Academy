@@ -1,6 +1,6 @@
 async function loadCourses() {
 
-    const response = await fetch("../data/courses.json");
+    const response = await fetch("../../data/courses.json");
 
     const courses = await response.json();
 

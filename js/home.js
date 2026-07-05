@@ -1,12 +1,30 @@
-history.scrollRestoration = "manual";
 function goToPage(page) {
 
-    if (page === "index") {
-        window.location.href = "index.html";
-        return;
-    }
+    const routes = {
 
-    window.location.href = `pages/${page}.html`;
+        index: "index.html",
+
+        courses: "pages/courses/courses.html",
+
+        certificates: "pages/certificates/certificates.html",
+
+        community: "pages/community/community.html",
+
+        lesson: "pages/courses/lesson.html",
+
+        "course-details": "pages/courses/course-details.html"
+
+    };
+
+    if (routes[page]) {
+
+        window.location.href = routes[page];
+
+    } else {
+
+        console.error(`Page "${page}" not found.`);
+
+    }
 
 }
 

@@ -1,0 +1,15 @@
+@media (max-width:1440px){
+
+    .hero-card{
+
+        padding:32px;
+
+    }
+
+    .hero-card h1{
+
+        font-size:3rem;
+
+    }
+
+}

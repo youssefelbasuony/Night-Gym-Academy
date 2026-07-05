@@ -180,3 +180,29 @@ Easy to understand
 Last Updated
 
 2026-07-02
+# Alpha 0.2
+
+Release Date:
+
+2026-07-05
+
+## Added
+
+- Toast Notification System
+- Dynamic Active Navigation
+- Reveal Animation Engine
+- Stagger Animation Engine
+- Motion Design System
+
+## Changed
+
+- Refactored CSS Architecture
+- Split home.css into shared components
+- Improved JavaScript organization
+
+## Fixed
+
+- HTML structure
+- Progress animation
+- Navigation behavior
+- Duplicate CSS

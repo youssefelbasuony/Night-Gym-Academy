@@ -98,6 +98,7 @@ function initRevealAnimation(){
             if(entry.isIntersecting){
 
                 entry.target.classList.add("active");
+                observer.unobserve(entry.target);
 
             }
 
@@ -122,6 +123,23 @@ window.addEventListener("DOMContentLoaded", () => {
     animateCounter("completed-sessions", 87);
 
     animateProgress(72);
+    document
+    .querySelectorAll(".feature-card, .nav-item")
+    .forEach(item=>{
+
+        item.addEventListener("keydown",(event)=>{
+
+            if (event.key === "Enter" || event.key === " ") {
+
+                event.preventDefault();
+
+                item.click();
+
+            }
+
+        });
+
+    });
 });
 function continueLearning(){
 

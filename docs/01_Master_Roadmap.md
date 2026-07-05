@@ -70,7 +70,16 @@ Footer
 Bottom Navigation
 Responsive Version
 Dark Mode Polish
+ 
+ Phase 2
 
+████████░░
+
+85%
+
+Home Page v1 Completed.
+
+Responsive Design is the next milestone.
 
 
 

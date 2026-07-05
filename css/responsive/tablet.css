@@ -1,0 +1,19 @@
+@media (max-width:1024px){
+
+    .hero-card{
+        padding:28px;
+    }
+
+    .hero-card h1{
+        font-size:2.8rem;
+    }
+
+    .hero-content{
+        gap:18px;
+    }
+
+    .hero-stats{
+        gap:16px;
+    }
+
+}

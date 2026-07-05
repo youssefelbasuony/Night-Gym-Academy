@@ -7,6 +7,10 @@
 @import url("shared/bottom-nav.css");
 @import url("shared/toast.css");
 @import url("shared/animations.css");
+@import url("responsive/desktop.css");
+@import url("responsive/laptop.css");
+@import url("responsive/tablet.css");
+@import url("responsive/mobile.css");
 *{
     margin:0;
     padding:0;

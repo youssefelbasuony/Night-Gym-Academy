@@ -53,10 +53,16 @@
                         </div>
                     </div>
                         <div class="hero-buttons">
-                            <button class="primary-btn motion press" onclick="continueLearning()">
+                            <button 
+                                class="primary-btn motion press"
+                                onclick="continueLearning()"
+                                aria-label="Continue learning">
                                 Continue Learning
                             </button>
-                            <button class="secondary-btn motion press" onclick="openDailyQuiz()">
+                            <button 
+                                class="secondary-btn motion press" 
+                                onclick="openDailyQuiz()" 
+                                aria-label="Open daily quiz">
                                 Daily Quiz
                             </button>
                         </div>
@@ -71,7 +77,9 @@
                 <div class="dashboard-card motion hover-lift learning-card">
                     <h3>📖 Continue Learning</h3>
                     <p>Anatomy Level 1</p>
-                    <button>Resume</button>
+                    <button aria-label="Resume course">
+                        Resume 
+                    </button>
                 </div>
             </section>
             <section class="progress-overview reveal">
@@ -109,55 +117,62 @@
                 </div>
             </section>
             <section class="grid stagger">
-                <div class="feature-card motion hover-lift" onclick="goToPage('courses')">
+                <div class="feature-card motion hover-lift" aria-label="Courses" tabindex="0" onclick="goToPage('courses')">
                     <div class="feature-icon">📚</div>
                     <h3>Courses</h3>
                     <p>Continue your learning journey with professional fitness courses.</p>
-                    <button>Open</button>
+                    <button aria-label="Open courses">
+                        Open
+                    </button>
                 </div>
-                <div class="feature-card motion hover-lift" onclick="goToPage('quiz')">
+                <div class="feature-card motion hover-lift" aria-label="Quiz" tabindex="0" onclick="goToPage('quiz')">
                     <div class="feature-icon">📝</div>
                     <h3>Tests</h3>
                     <p>Test your knowledge and improve your score.</p>
-                    <button>Start</button>
+                    <button aria-label="Start quiz">
+                        Start
+                    </button>
                 </div>
-                <div class="feature-card motion hover-lift" onclick="goToPage('certificates')">
+                <div class="feature-card motion hover-lift" aria-label="Certificates" tabindex="0" onclick="goToPage('certificates')">
                     <div class="feature-icon">🏅</div>
                     <h3>Certificates</h3>
                     <p>View and download your earned certificates.</p>
-                    <button>View</button>
+                    <button aria-label="View certificates">
+                        View
+                    </button>
                 </div>
-                <div class="feature-card motion hover-lift" onclick="goToPage('community')">
+                <div class="feature-card motion hover-lift" aria-label="Community" tabindex="0" onclick="goToPage('community')">
                     <div class="feature-icon">👥</div>
                     <h3>Community</h3>
                     <p>Connect with other students and coaches.</p>
-                    <button>Join</button>
-
+                    <button aria-label="Join community">
+                        Join
+                    </button>
                 </div>
             </section>
         </main>
         <footer class="bottom-nav">
-            <div class="nav-item" data-page="index" onclick="goToPage('index')">
+            <div class="nav-item" data-page="index" aria-label="Home" tabindex="0" onclick="goToPage('index')">
                 <div class="nav-icon">🏠</div>
                 <span>Home</span>
             </div>
 
-            <div class="nav-item" data-page="courses" onclick="goToPage('courses')">
+            <div class="nav-item" data-page="courses" aria-label="Courses" tabindex="0" onclick="goToPage('courses')">
                 <div class="nav-icon">📚</div>
                 <span>Courses</span>
             </div>
 
-            <div class="nav-item" data-page="quiz" onclick="goToPage('quiz')">
+            <div class="nav-item" data-page="quiz" aria-label="Quiz" tabindex="0" onclick="goToPage('quiz')">
                 <div class="nav-icon">📝</div>
                 <span>Quiz</span>
             </div>
 
-            <div class="nav-item" data-page="exercise-library" onclick="goToPage('exercise-library')">
+            <div class="nav-item" data-page="exercise-library" aria-label="Exercises" tabindex="0" onclick="goToPage('exercise-library')">
                 <div class="nav-icon">🏋️</div>
                 <span>Exercises</span>
             </div>
 
-            <div class="nav-item" data-page="profile" onclick="goToPage('profile')">
+            <div class="nav-item" data-page="profile" aria-label="Profile" tabindex="0" onclick="goToPage('profile')">
                 <div class="nav-icon">👤</div>
                 <span>Profile</span>
             </div>

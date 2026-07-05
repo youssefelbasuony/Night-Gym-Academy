@@ -191,3 +191,18 @@
     animation:floating 3s ease-in-out infinite;
 
 }
+/* ===========================
+   Accessibility Focus
+=========================== */
+
+button:focus-visible,
+.nav-item:focus-visible,
+.feature-card:focus-visible{
+
+    outline:3px solid #2563eb;
+
+    outline-offset:4px;
+
+    border-radius:12px;
+
+}

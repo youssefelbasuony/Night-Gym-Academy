@@ -40,3 +40,14 @@ body{
     color:white;
     font-size:16px;
 }
+html{
+
+    overflow-x:hidden;
+
+}
+
+body{
+
+    overflow-x:hidden;
+
+}

@@ -221,5 +221,23 @@ Copyright © YFLB
 All Rights Reserved.
 
 ---
+## Current Progress
+
+Current Version:
+
+Alpha 0.2
+
+Current Phase:
+
+Phase 2 — Home Experience
+
+Completed:
+
+Home Page v1
+
+Next:
+
+Responsive Design
+
 
 Developed with ❤️ by YFLB

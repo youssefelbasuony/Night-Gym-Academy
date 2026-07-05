@@ -1,0 +1,37 @@
+@media (max-width:480px){
+
+    .hero-title{
+        font-size:2.8rem;
+        line-height:1.15;
+    }
+
+    .hero-card{
+        padding:24px;
+    }
+
+    .hero-stats{
+        grid-template-columns:1fr;
+    }
+
+    .hero-buttons{
+        display:grid;
+        gap:16px;
+    }
+
+    .bottom-nav span{
+        font-size:.75rem;
+    }
+
+    .progress-value{
+        font-size:.9rem;
+    }
+
+    .announcement{
+        font-size:.85rem;
+    }
+
+    .feature-card{
+        width:100%;
+    }
+
+}

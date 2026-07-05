@@ -240,4 +240,24 @@ Next:
 Responsive Design
 
 
+
+## Current Status
+
+Version
+
+Alpha 0.3
+
+Current Phase
+
+Phase 3
+
+Authentication System
+
+Completed
+
+Phase 2
+
+Home Experience
+
+
 Developed with ❤️ by YFLB

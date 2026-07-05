@@ -50,6 +50,18 @@ Spacing
 7. Animations
 8. Dark Theme
 
+Phase 1
+
+97%
+
+لأن فيه حاجات هتتعمل مع المراحل الجاية، مثل:
+
+JavaScript Modules.
+Forms Design System.
+SVG Icon System بدل الـ Emoji.
+بعض التحسينات الدلالية في HTML.
+
+ودي هتتطور طبيعيًا مع بناء Login وRegister والصفحات الداخلية.
 
 
 
@@ -73,10 +85,10 @@ Dark Mode Polish
  
  Phase 2
 
-████████░░
+████████████████████
 
-85%
-
+100%
+✅ Phase 2 Completed
 Home Page v1 Completed.
 
 Responsive Design is the next milestone.

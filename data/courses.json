@@ -9,26 +9,138 @@
         "duration": "4 Hours",
         "progress": 72,
         "image": "../assets/images/anatomy.png",
+        "xpReward": 500,
+
+        "certificate": true,
+
+        "rating": 4.9,
+
+        "students": 1245,
+
+        "learningOutcomes": [
+            "Understand anatomical terminology",
+            "Identify major bones",
+            "Learn muscle functions",
+            "Understand joint movements",
+            "Apply anatomy in coaching"
+        ],
+
+        "requirements": [
+            "Basic English",
+            "Internet connection",
+            "Notebook"
+        ],
         "lessonsList": [
             {
                 "id": 1,
+
                 "title": "Introduction to Anatomy",
-                "completed": true
+
+                "duration": "12 min",
+
+                "completed": true,
+
+                "locked": false,
+
+                "video": {
+                    "type": "local",
+                    "url": "videos/anatomy/introduction.mp4"
+                },
+                "description": "Learn what anatomy is, why it is important for fitness professionals, and how this course is organized.",
+
+                "objectives": [
+
+                    "Understand the purpose of the course",
+
+                    "Know the importance of anatomy",
+
+                    "Prepare for future lessons"
+
+                ],
+
+                "resources": [
+                    {
+                        "type": "pdf",
+                        "title": "Skeleton Notes",
+                        "file": "skeleton.pdf"
+                    }
+                ]
+
             },
             {
                 "id": 2,
+
                 "title": "Skeletal System Overview",
-                "completed": true
+
+                "duration": "18 min",
+
+                "completed": true,
+
+                "locked": false,
+
+                "video": {
+                    "type": "local",
+                    "url": "videos/anatomy/introduction.mp4"
+                },  
+
+                "description": "Learn the structure of the skeletal system and its functions.",
+
+                "objectives": [
+
+                    "Identify major bones",
+
+                    "Understand bone functions"
+
+                ],
+
+                "resources": [
+                    {
+                        "type": "pdf",
+                        "title": "Skeleton Notes",
+                        "file": "skeleton.pdf"
+                    }
+                ]
+
             },
             {
                 "id": 3,
                 "title": "Muscular System Overview",
-                "completed": false
-            },
+                "duration": "",
+                "completed": false,
+                "locked": true,
+                "video": {
+                    "type": "local",
+                    "url": "videos/anatomy/introduction.mp4"
+                },
+                "description": "",
+                "objectives": [],
+                "resources": [
+                    {
+                        "type": "pdf",
+                        "title": "Skeleton Notes",
+                        "file": "skeleton.pdf"
+                    }
+                ]
+             },
             {
                 "id": 4,
                 "title": "Nervous System Overview",
-                "completed": false
+                "duration": "",
+                "completed": false,
+                "locked": true,
+                "video": {
+                    "type": "local",
+                    "url": "videos/anatomy/introduction.mp4"
+                },
+                "description": "",
+                "objectives": [],
+                "resources": [
+                    {
+                        "type": "pdf",
+                        "title": "Skeleton Notes",
+                        "file": "skeleton.pdf"
+                    }
+                ]
             }
            
         ]

@@ -1,0 +1,20 @@
+{
+    "id": 0,
+    "title": "",
+    "duration": "",
+    "completed": false,
+    "locked": true,
+        "video": {
+        "type": "local",
+        "url": "videos/anatomy/introduction.mp4"
+    },
+    "description": "",
+    "objectives": [],
+    "resources": [
+        {
+            "type": "pdf",
+            "title": "Skeleton Notes",
+            "file": "skeleton.pdf"
+        }
+    ]
+}

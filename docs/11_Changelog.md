@@ -244,3 +244,19 @@ Release Date
 - Navigation Behavior
 - Accessibility Issues
 - Animation Performance
+
+
+
+
+
+## feat: complete lesson page foundation and navigation improvements
+
+### Added
+- Dynamic Lesson Page
+- Dynamic Video Section
+- Learning Points
+- Resources
+- Previous / Next Buttons
+- Mark as Completed UI
+- Improved Course Navigation
+- Back Button Improvements

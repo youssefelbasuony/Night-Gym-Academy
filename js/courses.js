@@ -7,8 +7,10 @@ async function loadCourses() {
     const container = document.getElementById("coursesContainer");
 
         courses.forEach(course => {
+            
 
             container.innerHTML += `
+            
             <div class="course-card" onclick="openCourse(${course.id})">
                 <div class="course-image">
                     📚
@@ -46,6 +48,8 @@ async function loadCourses() {
 
             </button>
 
+
+
         </div>
 
     </div>
@@ -59,5 +63,24 @@ loadCourses();
 function openCourse(id){
 
     window.location.href = `course-details.html?id=${id}`;
+
+}
+const backButton = document.querySelector(".back-btn");
+
+if (backButton) {
+
+    backButton.addEventListener("click", () => {
+
+        if (window.history.length > 1) {
+
+            window.history.back();
+
+        } else {
+
+            window.location.href = "../../index.html";
+
+        }
+
+    });
 
 }

@@ -283,8 +283,28 @@ Courses should not only teach information.
 
 They should build real knowledge, practical skills, and professional confidence.
 
-Night Gym Academy aims to provide a world-class learning experience for every student.
+Night Gym Academy aims to provide a world-class learning experience for every 
+student.
 
+
+
+
+
+
+
+
+
+## Lesson System
+
+Implemented:
+
+- Dynamic lesson loading
+- Lesson Details page
+- Course Curriculum
+- Resources
+- Learning Outcomes
+- Previous / Next Navigation
+- Mark as Completed Button
 ---
 
 Approved By

@@ -379,3 +379,31 @@ Consistency is more important than decoration.
 Simple is better than complicated.
 
 Professional is better than flashy.
+
+
+# Course Progress System v1
+
+Implemented:
+
+- Dynamic Lesson Page.
+- Mark Lesson as Completed.
+- LocalStorage persistence.
+- Previous / Next Lesson navigation.
+- Dynamic lesson completion status.
+- Automatic course progress calculation.
+- Course Details synchronization with lesson progress.
+
+Current Storage:
+
+LocalStorage
+
+Key:
+
+completedLessons
+
+Example:
+
+{
+    "1-1": true,
+    "1-2": true
+}

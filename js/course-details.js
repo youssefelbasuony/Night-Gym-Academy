@@ -12,6 +12,22 @@ async function loadCourse() {
 
     const course = courses.find(c => c.id === courseId);
 
+    const completedLessons = JSON.parse(
+        localStorage.getItem("completedLessons")
+    ) || {};
+
+    const completedCount = course.lessonsList.filter(lesson => {
+
+        const lessonKey = `${course.id}-${lesson.id}`;
+
+        return completedLessons[lessonKey];
+
+    }).length;
+
+    const progress = Math.round(
+        (completedCount / course.lessonsList.length) * 100
+    );
+
     const container = document.getElementById("courseDetails");
 
     const learningHTML = course.learningOutcomes
@@ -29,7 +45,11 @@ async function loadCourse() {
     const lessonsHTML = course.lessonsList
     .map(lesson => {
 
-        const status = lesson.completed
+        const lessonKey = `${course.id}-${lesson.id}`;
+
+        const isCompleted = completedLessons[lessonKey] || false;
+
+        const status = isCompleted
             ? "✅"
             : "▶";
 
@@ -111,7 +131,7 @@ async function loadCourse() {
 
                 <span>⭐ ${course.level}</span>
 
-                <span>📈 ${course.progress}%</span>
+                <span>📈 ${progress}%</span>
 
             </div>
 

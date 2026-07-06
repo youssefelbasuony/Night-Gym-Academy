@@ -260,3 +260,18 @@ Release Date
 - Mark as Completed UI
 - Improved Course Navigation
 - Back Button Improvements
+
+
+## [2026-07-06]
+
+### Added
+- Lesson completion persistence using LocalStorage.
+- Dynamic lesson completion status.
+- Previous / Next lesson navigation.
+- Automatic course progress calculation.
+- Improved lesson navigation.
+- Improved Back Button behavior.
+
+### Changed
+- Course progress now uses completed lessons instead of static JSON values.
+- Course Details lesson status now updates dynamically.

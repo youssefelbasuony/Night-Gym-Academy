@@ -16,6 +16,14 @@ async function loadLesson(){
 
     const lesson = course.lessonsList.find(l=>l.id===lessonId);
 
+    const completedLessons = JSON.parse(
+        localStorage.getItem("completedLessons")
+    ) || {};
+
+    const lessonKey = `${courseId}-${lessonId}`;
+
+    lesson.completed = completedLessons[lessonKey] || false;
+
     const lessonIndex = course.lessonsList.findIndex(
         l => l.id === lessonId
     );
@@ -135,6 +143,8 @@ async function loadLesson(){
 
     }
 
+    const isCompleted = lesson.completed;
+
     const navigationHTML = `
 
     <section class="lesson-navigation">
@@ -147,9 +157,11 @@ async function loadLesson(){
 
         </button>
 
-        <button class="complete-btn">
+        <button
+            class="complete-btn"
+            ${isCompleted ? "disabled" : ""}>
 
-            ✓ Mark as Completed
+            ${isCompleted ? "✓ Completed" : "✓ Mark as Completed"}
 
         </button>
 
@@ -253,18 +265,59 @@ async function loadLesson(){
 
     const backButton = document.querySelector(".back-btn");
 
+    const completeButton = document.querySelector(".complete-btn");
+
+    const nextButton = document.querySelector(".next-btn");
+
+    const previousButton = document.querySelector(".previous-btn");
+
+
     backButton.addEventListener("click", () => {
 
-        if (window.history.length > 1) {
-
-            window.history.back();
-
-        } else {
-
-            window.location.href = "../../index.html";
-
-        }
+    window.location.href =
+        `course-details.html?id=${courseId}`;
 
     });
+
+    completeButton.addEventListener("click", () => {
+
+        if (lesson.completed) return;
+
+        lesson.completed = true;
+
+        completedLessons[lessonKey] = true;
+
+        localStorage.setItem(
+            "completedLessons",
+            JSON.stringify(completedLessons)
+        );
+
+        completeButton.textContent = "✓ Completed";
+
+        completeButton.disabled = true;
+
+    });
+
+    if (nextButton && nextLesson) {
+
+        nextButton.addEventListener("click", () => {
+
+            window.location.href =
+                `lesson.html?course=${courseId}&lesson=${nextLesson.id}`;
+
+        });
+
+    }
+
+    if (previousButton && previousLesson) {
+
+        previousButton.addEventListener("click", () => {
+
+            window.location.href =
+                `lesson.html?course=${courseId}&lesson=${previousLesson.id}`;
+
+        });
+
+    }
 
 }

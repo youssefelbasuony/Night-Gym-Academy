@@ -370,3 +370,26 @@ Next Session:
 - Continue Learning
 - Lesson Unlock System
 - Quiz System
+
+# Session Summary - 2026-07-07
+
+## Completed
+
+### Courses System
+- Replaced static course progress with dynamic progress calculation.
+- Connected Courses page with LocalStorage.
+- Added Continue Learning logic.
+- Added Start Course / Continue Learning / Start Quiz button states.
+- Added continueCourse() navigation function.
+
+## Current Issue
+
+A template duplication exists inside courses.js causing the Course Card HTML to render incorrectly.
+
+The issue has been identified and will be fixed in the next development session before continuing the Continue Learning feature.
+
+## Next Session
+
+- Fix Course Card template duplication.
+- Complete Continue Learning navigation.
+- Begin Lesson Unlock System.

@@ -275,3 +275,17 @@ Release Date
 ### Changed
 - Course progress now uses completed lessons instead of static JSON values.
 - Course Details lesson status now updates dynamically.
+
+
+## [2026-07-07]
+
+### Added
+- Dynamic course progress on Courses page.
+- Continue Learning infrastructure.
+- Start Quiz button state.
+- Continue Course navigation function.
+
+### Known Issue
+- Duplicate HTML inside Course Card template in courses.js.
+
+

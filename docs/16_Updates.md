@@ -244,3 +244,13 @@ Implemented the first persistent user progress system.
 The platform now remembers completed lessons between sessions using LocalStorage.
 
 Course Details automatically reflects lesson completion and calculates user progress dynamically.
+
+
+
+## Update 2026-07-07
+
+Implemented the foundation of the Continue Learning system.
+
+Course progress is now calculated dynamically on the Courses page.
+
+The final integration is temporarily blocked by a duplicated Course Card template that will be resolved in the next session.

@@ -62,3 +62,26 @@ Certificates
 Community
 
 Admin Dashboard
+
+
+
+
+
+## Current Development Status
+
+Current Phase:
+Course System
+
+Status:
+85% Complete
+
+Working:
+- Dynamic Progress
+- LocalStorage
+- Lesson Progress
+- Continue Course logic
+
+Pending:
+- Fix duplicated Course Card template.
+- Complete Continue Learning navigation.
+- Lesson Unlock System.
